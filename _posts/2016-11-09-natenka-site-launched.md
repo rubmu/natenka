@@ -1,6 +1,7 @@
 ---
 title: "Natenka Launches Site"
 date: 2016-11-09
+comments: true
 categories: 
   - Jekyll
 tags:

@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "Наташа Самойленко"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              :
+  bio              : " "
   location         :
   email            : "nataliya.samoylenko@gmail.com"
   uri              :
@@ -87,7 +87,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "https://www.facebook.com/samoylenko.natasha"
+  facebook         : "samoylenko.natasha"
   foursquare       :
   github           : "natenka"
   google_plus      :

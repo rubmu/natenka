@@ -1,6 +1,11 @@
 ---
 title: "Launches Site"
-date: 2016-11-09
+date: 2015-11-09
+categories:
+  - Jekyll
+tags:
+  - update
+  - python
 ---
 
 Well. Finally got around to putting this website together.
