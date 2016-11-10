@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "Наташа Самойленко"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
+  bio              :
   location         :
   email            : "nataliya.samoylenko@gmail.com"
   uri              :
@@ -87,7 +87,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/samoylenko.natasha"
   foursquare       :
   github           : "natenka"
   google_plus      :
@@ -172,8 +172,8 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
+paginate: 4 # amount of posts to show
+paginate_path: "blog/page:num/"
 timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
