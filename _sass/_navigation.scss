@@ -174,7 +174,7 @@
 
 .greedy-nav {
   position: relative;
-  min-width: 250px;
+  min-width: 50px;
   background: $background-color;
 
   a {
@@ -422,8 +422,8 @@
   }
 
   /* hide sub sub links on small screens*/
-  li > ul li {
-    display: none;
+  /*li > ul li {
+    display: none;*/
 
     @include breakpoint($medium) {
       display: block;
