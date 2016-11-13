@@ -21,7 +21,7 @@ __Python для сетевых инженеров (PyNEng)__ - это курс, 
 epub, pdf, mobi.
 
 
-> PyNEng - можно рашифровывать двумя вариантами:
+> PyNEng - можно расшифровывать двумя вариантами:
 > 
 > - Python for Network Engineers
 > - Python for Network Engineers next generation :)
