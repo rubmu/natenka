@@ -82,10 +82,10 @@ tags:
 Какие подкасты я слушаю:
 
 * по программированию:
- * [SE-radio](http://www.se-radio.net/).
+   * [SE-radio](http://www.se-radio.net/).
 * немецкий:
- * [Подкаст по управлению временем и другим полезным штукам](https://selbst-management.biz/podcast-2/)
- * [WDR5 Leonardo. Научно-популярные темы](http://www1.wdr.de/radio/wdr5/podcast/index.html)
+   * [Подкаст по управлению временем и другим полезным штукам](https://selbst-management.biz/podcast-2/)
+   * [WDR5 Leonardo. Научно-популярные темы](http://www1.wdr.de/radio/wdr5/podcast/index.html)
 
 ### Github
 
