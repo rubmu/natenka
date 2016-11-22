@@ -1,7 +1,6 @@
 ---
 title: "My current toolset"
 date: 2016-11-22
-comments: true
 tags:
  - toolset
 ---

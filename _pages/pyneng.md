@@ -1,7 +1,8 @@
 ---
-layout: single
 permalink: /pyneng/
 title: Python для сетевых инженеров
+comments: true
+share: true
 ---
 
 __Python для сетевых инженеров (PyNEng)__ - это курс, который написала Наташа Самойленко - это я :)
