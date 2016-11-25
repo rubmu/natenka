@@ -18,7 +18,7 @@ __Python для сетевых инженеров (PyNEng)__ - это курс, 
 
 Курс опубликован на GitBook: [Python для сетевых инженеров](https://www.gitbook.com/book/natenka/pyneng/details).
 
-Обратите внимание, что на GitBook курс можно читать онлайн или скачать в одном из форматов:
+На GitBook курс можно читать онлайн или скачать в одном из форматов:
 epub, pdf, mobi.
 
 
@@ -28,4 +28,4 @@ epub, pdf, mobi.
 > - Python for Network Engineers next generation :)
 
 
-Обратите внимание, что на сайте есть статьи в [категории pyneng](/categories/#pyneng).
+На сайте, со временем, добавятся статьи по темам, которые не вошли в курс, но относятся к тематике python + сети. Их можно будет найти в [категории pyneng](/categories/#pyneng).
