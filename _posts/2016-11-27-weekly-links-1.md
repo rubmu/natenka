@@ -3,10 +3,6 @@ title: "Weekly links. Выпуск 1"
 date: 2016-11-27
 tags:
  - links
- - ansible
- - jekyll
- - clojure
- - screencasts
 category:
  - weekly-links
 ---
