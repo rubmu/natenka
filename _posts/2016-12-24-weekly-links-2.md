@@ -10,6 +10,9 @@ category:
 В последнее время планирую, что изучать дальше, какие книги читать и так далее.
 И, пока я упорядочивала и приоритезировала свои интересы, натолкнулась на много интересных материалов.
 
+Отличный список популярных книг по программированию:
+* [GoodReads Popular Programming Books](https://www.goodreads.com/shelf/show/programming)
+
 Отличная подборка выступлений Rich Hickey (создателя Clojure):
 * [Rich Hickey's Greatest Hits](https://changelog.com/posts/rich-hickeys-greatest-hits)
 
