@@ -17,18 +17,13 @@ category:
 
 * [GoodReads Popular Programming Books](https://www.goodreads.com/shelf/show/programming)
 
-Отличная подборка выступлений Rich Hickey (создателя Clojure):
+Подборка выступлений Rich Hickey (создателя Clojure):
 
 * [Rich Hickey's Greatest Hits](https://changelog.com/posts/rich-hickeys-greatest-hits)
 
-Я пока что посмотрела только два выступления:
+Транскрипты выступлений Rich Hickey:
 
-* [Are We There Yet?](https://www.infoq.com/presentations/Are-We-There-Yet-Rich-Hickey)
-* [Simple Made Easy](https://www.infoq.com/presentations/Simple-Made-Easy)
-   * Rich Hickey говорит о том, чем "просто" отличается от "легко". И как то, что часто мы выбираем "легко", может привести к увеличению сложности.
-
-Оба выступления заставляют задуматься о многих вещах.
-Как минимум, эти два выступления достаточно общие, чтобы быть полезными любому программисту, независимо от интереса к Clojure.
+* [Talks by Rich Hickey](https://github.com/matthiasn/talk-transcripts/tree/master/Hickey_Rich)
 
 В одном из выступлений был вопрос о работе [Time, Clocks, and Ordering of Events in a Distributed System](http://research.microsoft.com/en-us/um/people/lamport/pubs/time-clocks.pdf), благодаря которой наткнулась на интересный блог, где автор решил разобраться с 52 научными работами за 52 недели (в том числе с этой).
 Как я поняла, он остановился на 20 работе, но всё равно, там есть интересные вещи.
