@@ -2,8 +2,8 @@
 main:
   - title: "Blog"
     url: /blog/
-  - title: "PyNEng"
-    url: /pyneng/
+  - title: "Мои курсы"
+    url: /my-courses/
   - title: "About"
     url: /about/
   # - title: "Sample Posts"
