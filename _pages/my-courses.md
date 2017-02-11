@@ -16,6 +16,7 @@ share: true
 
 Курс ["Ansible для сетевых инженеров"](https://www.gitbook.com/book/natenka/ansible-dlya-setevih-inzhenerov/details) ещё в процесе написания.
 
+Более [короткую версию курса](http://nt.ua/education/coptrainings/Pages/NT-CMforHW.aspx) "Ansible для сетевых инженеров" я читаю в УЦ "Сетевые технологии" (Киев).
 
 ## Сетевые дни
 
