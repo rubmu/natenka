@@ -1,6 +1,6 @@
 ---
 permalink: /pyneng-online/
-title: Python для сетевых инженеров
+title: Online курс "Python для сетевых инженеров"
 comments: true
 share: true
 ---
