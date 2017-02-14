@@ -72,7 +72,7 @@ share: true
 
 У вас должна быть установлена ОС Debian, выбран редактор.
 
-> Я могу дать готовый образ Vagrant, со всеми установленными пакетами, которые нужны на курсе.
+> Можно использовать готовый образ [Vagrant](https://github.com/natenka/PyNEng/blob/master/exercises/vm/vagrant.md) или [VMware](https://github.com/natenka/PyNEng/blob/master/exercises/vm/vmware.md) со всеми установленными пакетами, которые нужны на курсе.
 
 
 ### Как записаться на курс
