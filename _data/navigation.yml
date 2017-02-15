@@ -4,6 +4,8 @@ main:
     url: /blog/
   - title: "Мои курсы"
     url: /my-courses/
+  - title: "To Read 2017"
+    url: /to-read-2017/
   - title: "About"
     url: /about/
   # - title: "Sample Posts"
