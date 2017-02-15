@@ -8,8 +8,7 @@ category:
  - books
 ---
 
-![Clojure for the Brave and True](http://www.braveclojure.com/assets/images/home/book-cover.jpg)
-
+<img align="right" src="http://www.braveclojure.com/assets/images/home/book-cover.jpg" width="200">
 
 [Книга](http://www.braveclojure.com/) ориентирована на начинающих изучать Clojure.
 Без долгих введений и теории показываются примеры кода и всё изучается через примеры.
