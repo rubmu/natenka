@@ -9,15 +9,15 @@ category:
 
 В этом выпуске: technical writing, задачки по Clojure, Lifehacker the book и Oblique Strategies.
 
-Общие ссылки:
+### Общие ссылки
 
 * [Lifehacker the book](http://lifehackerbook.com/1sted/toc.php) - интересный подбор советов. Очень много перекликается с тем как я делаю, поэтому мне однозначно нравится. Практически к каждой идее даются ссылки на более подробные статьи или описание подхода.
 * [Oblique Strategies](https://en.wikipedia.org/wiki/Oblique_Strategies) - специальный набор карточек, который был разработан для стимулирования нестандартного мышления и преодоления творческого кризиса. Изначально набор был разработан для музыкантов.
- * [один из вариантов онлайн версии карточек](http://minimaldesign.net/os/)
- * [короткое описание как их можно использовать](http://oblique.seancarney.ca/)
+  * [один из вариантов онлайн версии карточек](http://minimaldesign.net/os/)
+  * [короткое описание как их можно использовать](http://oblique.seancarney.ca/)
 
 
-Technical writing:
+### Technical writing
 
 * [Technical writing style. Wikiversity](https://en.wikiversity.org/wiki/Technical_writing_style)
 * [Guide to technical writing](https://www.eleceng.adelaide.edu.au/personal/dabbott/wiki/index.php/Guide_to_technical_writing)
@@ -27,18 +27,19 @@ Technical writing:
 * [Is it acceptable to use first person pronouns in scientific writing?](http://www.editage.com/insights/is-it-acceptable-to-use-first-person-pronouns-in-scientific-writing)
 
 
-Clojure:
+### Clojure
 
-* Задачки:
-  * [4Clojure](https://www.4clojure.com/) - сайт с задачками по Clojure. Задачки от элементарных, до более сложных
-  * [HackerRank](https://www.hackerrank.com/) - поддерживает Clojure в некоторых треках 
-* [Lessons learned from solving 4Clojure problems](https://balinterdi.com/blog/lessons-learned-from-solving-4clojure-problems/) - отличный обзор сайта 4Clojure
+Задачки:
+
+* [4Clojure](https://www.4clojure.com/) - сайт с задачками по Clojure. Задачки от элементарных, до более сложных
+  * [Lessons learned from solving 4Clojure problems](https://balinterdi.com/blog/lessons-learned-from-solving-4clojure-problems/) - отличный обзор сайта 4Clojure
+* [HackerRank](https://www.hackerrank.com/) - поддерживает Clojure в некоторых треках 
 
 
 
-Python:
+### Python
 
-* [https://realpython.com/blog/python/learn-python-the-methodical-way/](https://realpython.com/blog/python/learn-python-the-methodical-way/) - отличное описание подхода к изучению новых материалов. Написано на примере Python, но подойдет и к любому другому языку.
+* [Learn Python the Methodical Way](https://realpython.com/blog/python/learn-python-the-methodical-way/) - отличное описание подхода к изучению новых материалов. Написано на примере Python, но подойдет и к любому другому языку.
 
 Такой вариант может не всем подойти, так как в нём подразумевается повторение одного и того же несколько раз.
 
