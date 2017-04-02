@@ -21,7 +21,7 @@ category:
 
 | Месяц | Clojure/FP |  Programming General | Python |
 |:-----:|---------|------------------|------------------|
-| Февраль | ~~[Clojure for the Brave and True (300)](http://www.braveclojure.com/)~~ | [Code Complete (900)](http://cc2e.com/)| [Introduction to Computation and Programming Using Python (300)](https://mitpress.mit.edu/books/introduction-computation-and-programming-using-python-0) |
+| Февраль | ~~[Clojure for the Brave and True (300)](http://www.braveclojure.com/)~~ | [Code Complete (900)](http://cc2e.com/)| ~~[Introduction to Computation and Programming Using Python (300)](https://mitpress.mit.edu/books/introduction-computation-and-programming-using-python-0)~~ |
 | Март | [Clojure Programming (600)](http://shop.oreilly.com/product/0636920013754.do) | [Code Complete (900)](http://cc2e.com/) | [Python 201 (250)](https://leanpub.com/python201)<br>[Python for Data Analysis (470)](http://shop.oreilly.com/product/0636920023784.do) |
 | Апрель | [The Joy of Clojure (500)](https://www.manning.com/books/the-joy-of-clojure-second-edition) | [Clean Code (460)](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) | [The Hitchhiker's Guide to Python (320)](http://shop.oreilly.com/product/0636920042921.do) |
 | Май | [Functional Programming Patterns in Scala and Clojure (250)](https://pragprog.com/book/mbfpp/functional-programming-patterns-in-scala-and-clojure) | [Clean Coder (240)](https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073)<br>[SICP (600)](https://mitpress.mit.edu/sicp/full-text/book/book.html) | [Fluent Python (750)](http://shop.oreilly.com/product/0636920032519.do) |
