@@ -1,13 +1,13 @@
 ---
-title: "Как я пишу технические статьи"
+title: "Как я пишу статьи"
 date: 2017-04-04
 tags:
- - technical writing
+ - writing
 category:
  - writing
 ---
 
-После вопроса к статье [Как я писала курс Python для сетевых инженеров](https://natenka.github.io/pyneng/pyneng-finished/), решила написать чуть подробнее о том, как я пишу технические статьи.
+После вопроса к статье [Как я писала курс Python для сетевых инженеров](https://natenka.github.io/pyneng/pyneng-finished/), решила написать чуть подробнее о том, как я пишу статьи.
 
 
 ## Зачем
