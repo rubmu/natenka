@@ -9,14 +9,13 @@ share: true
 
 Курс ["Python для сетевых инженеров"](https://www.gitbook.com/book/natenka/pyneng/details) завершен и выложен на GitBook.
 
-Я читаю этот же курс онлайн.
-Посмотреть информацию об онлайн курсе и ближайшие даты чтения можно по [ссылке](/pyneng-online/).
+Я читаю этот же курс [онлайн](/pyneng-online/).
 
 ## Ansible для сетевых инженеров
 
 Курс ["Ansible для сетевых инженеров"](https://www.gitbook.com/book/natenka/ansible-dlya-setevih-inzhenerov/details) ещё в процесе написания.
 
-Более [короткую версию курса](http://nt.ua/education/coptrainings/Pages/NT-CMforHW.aspx) "Ansible для сетевых инженеров" я читаю в УЦ "Сетевые технологии" (Киев).
+Более короткую версию курса "Ansible для сетевых инженеров" я читаю офлайн в [УЦ "Сетевые технологии"](http://nt.ua/education/coptrainings/Pages/NT-CMforHW.aspx) (Киев) и [УЦ FastLane](http://www.flane.com.ua/course/ot-naa) (Киев).
 
 ## Сетевые дни
 
