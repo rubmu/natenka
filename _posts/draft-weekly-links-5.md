@@ -8,6 +8,8 @@ category:
  - weekly-links
 ---
 
+http://syg.ma/@ivan-kudriashov/samosieghrieghatsiia-v-sotssietiakh
+http://syg.ma/@ivan-kudriashov/razbavliennaia-mysl
 
 http://larrr.com/o-smysle-zhizni/
 http://larrr.com/pravila-produktivnosti/
