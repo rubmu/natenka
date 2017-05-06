@@ -4,6 +4,7 @@ date: 2017-05-02
 tags:
  - teaching
  - courses
+ - мой опыт
 category:
  - teaching
 ---

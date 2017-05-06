@@ -3,6 +3,7 @@ title: "Как я пишу статьи"
 date: 2017-04-04
 tags:
  - writing
+ - мой опыт
 category:
  - writing
 ---
