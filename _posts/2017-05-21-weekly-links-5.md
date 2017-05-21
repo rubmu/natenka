@@ -35,7 +35,7 @@ category:
 ### How to learn
 
 * [Studying 101: Study Smarter Not Harder](http://learningcenter.unc.edu/handouts/studying-101-study-smarter-not-harder/) - это более короткая подборка советов, в которой, тем не менее, много полезных идей
-* ["Study Less, Study Smart": The Best Ways to Retain More in Less Time](http://lifehacker.com/study-less-study-smart-the-best-ways-to-retain-more-1683362205)
+* ["Study Less, Study Smart": The Best Ways to Retain More in Less Time](http://lifehacker.com/study-less-study-smart-the-best-ways-to-retain-more-1683362205) - отличное видео о том как уучиться, чтобы лучше понять и запомнить
 * [Отличная статья, а также ссылки на руководства университетов по онлайн обучению](https://www.tonybates.ca/2012/02/29/a-student-guide-to-studying-online/)
 * [Отличная подборка советов для тех, кто учится онлайн](http://www2.open.ac.uk/students/skillsforstudy/) - тут описано множество аспектов обучения: планирование обучения, как читать материалы, как делать заметки, как увеличить эффективность обучения в целом и многое другое
 * [Getting The Most Out Of Your eLearning Course: 10 Study Tips For Online Learners](https://elearningindustry.com/10-study-tips-for-online-learners-getting-the-most-out-of-your-elearning-course)
