@@ -8,6 +8,9 @@ category:
  - weekly-links
 ---
 
+
+http://pythonforengineers.com/python-for-scientists-and-engineers/
+
 http://syg.ma/@ivan-kudriashov/samosieghrieghatsiia-v-sotssietiakh
 http://syg.ma/@ivan-kudriashov/razbavliennaia-mysl
 
@@ -33,3 +36,5 @@ https://learningnetwork.cisco.com/thread/73152
 
 https://www.reddit.com/r/networking/comments/2dkvzo/network_jokes/
 http://etherealmind.com/corny-network-engineer-jokes/
+
+
