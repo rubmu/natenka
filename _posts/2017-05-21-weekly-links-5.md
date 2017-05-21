@@ -68,6 +68,9 @@ category:
 
 ### Student guides
 
+Примеры рекомандаций для студентов есть выше, в секции ссылок для студентов.
+Тут пару дополнительных ссылок, которые могут пригодится.
+
 Пример FAQ:
 
 * [faqs on studying and exams](https://meded.ucsd.edu/index.cfm/ugme/oess/study_skills_and_exam_strategies/faqs_on_studying_and_exams/)
