@@ -8,7 +8,7 @@ category:
  - weekly-links
 ---
 
-В этом выпуске: Juniper, PyEZ и BGP FlowSpec против DDoS, видео с PyCon 2017.
+В этом выпуске: Juniper, PyEZ и BGP FlowSpec против DDoS, видео с PyCon 2017 и Git.
 
 ### Juniper, PyEZ, BGP FlowSpec
 
@@ -18,7 +18,16 @@ category:
 
 ### Tools
 
+Git:
+
+* [GitHowTo](https://githowto.com/ru) - интерактивный howto на русском
+* [git/github guide. a minimal tutorial](http://kbroman.org/github_tutorial/) - минимально необходимые знания для работы с Git и GitHub
 * [Little Things I Like to Do with Git](https://csswizardry.com/2017/05/little-things-i-like-to-do-with-git/) - полезные и приятные мелочи в Git
+* [Pro Git book](https://git-scm.com/book/en/v2/). [Эта же книга на русском](https://git-scm.com/book/ru/v2)
+
+
+Tmux:
+
 * [Sleek and Pretty Tmux](http://shiroyasha.io/sleek-and-pretty-tmux.html) - иногда простые вещи определяют то, будем ли мы использовать какой-то инструмент. Хорошее напоминание о том, что инструкменты можно перестроить под себя, на примере tmux
 
 ### Python
