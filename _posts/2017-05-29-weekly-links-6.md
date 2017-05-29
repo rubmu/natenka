@@ -23,6 +23,7 @@ Git:
 * [GitHowTo](https://githowto.com/ru) - интерактивный howto на русском
 * [git/github guide. a minimal tutorial](http://kbroman.org/github_tutorial/) - минимально необходимые знания для работы с Git и GitHub
 * [Little Things I Like to Do with Git](https://csswizardry.com/2017/05/little-things-i-like-to-do-with-git/) - полезные и приятные мелочи в Git
+* [Using Commit Ranges with Git Log](https://stackoverflow.com/a/24186641)
 * [Pro Git book](https://git-scm.com/book/en/v2/). [Эта же книга на русском](https://git-scm.com/book/ru/v2)
 
 
