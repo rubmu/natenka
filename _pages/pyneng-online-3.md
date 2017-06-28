@@ -47,7 +47,7 @@ share: true
     <th align="center">Неделя</th>
     <th align="center">Лекция</th>
     <th align="center">Дата</th>
-    <th align="center">Тема</th>
+    <th align="center">Тема (длительность лекции)</th>
     <th align="center">Кол-во заданий</th>
  </tr>
  <tr>
@@ -154,7 +154,7 @@ share: true
  </tr>
  <tr>
     <td align="center">14</td>
-    <td align="center">12.11.17 (12)</td>
+    <td align="center">12.11.17</td>
     <td>Ansible для сетевого оборудования (3ч)</td>
     <td align="center">12</td>
  </tr> 
