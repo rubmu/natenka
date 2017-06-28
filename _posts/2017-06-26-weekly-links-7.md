@@ -1,6 +1,6 @@
 ---
 title: "Weekly links. Выпуск 7"
-date: 2017-05-29
+date: 2017-06-26
 tags:
  - links
 category:
