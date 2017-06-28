@@ -46,7 +46,7 @@ share: true
  <tr>
     <th align="center">Неделя</th>
     <th align="center">Дата</th>
-    <th align="center">Лекция</th
+    <th align="center">Лекция</th>
     <th align="center">Тема</th>
     <th align="center">Кол-во заданий</th>
  </tr>
