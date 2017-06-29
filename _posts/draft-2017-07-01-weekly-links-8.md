@@ -58,3 +58,9 @@ Python:
 * [Being Honest with Yourself is Hard](https://www.scotthyoung.com/blog/2015/06/04/self-honesty/)
 * [Functional programming](https://en.wikipedia.org/wiki/Functional_programming)
 
+
+
+* [Slack Slash Commands as a Service](https://sscaas.eu/)
+* [slack-overflow](https://github.com/karan/slack-overflow)
+* [programmingexcuses.com](http://www.programmerexcuses.com/)
+
