@@ -45,3 +45,16 @@ Python:
 
 * [The Ultimate Guide To Clojure REPLs](https://lambdaisland.com/guides/clojure-repls)
 * [The Roots of Lisp](http://languagelog.ldc.upenn.edu/myl/ldc/llog/jmc.pdf)
+
+
+* [Clojure Hangouts](https://www.youtube.com/user/niquolaj/videos)
+* [Web Development with Clojure, Second Edition](https://pragprog.com/book/dswdcloj2/web-development-with-clojure-second-edition)
+
+
+
+### General
+
+* [The Trap You Set For Yourself](https://blog.codinghorror.com/the-trap-you-set-for-yourself/)
+* [Being Honest with Yourself is Hard](https://www.scotthyoung.com/blog/2015/06/04/self-honesty/)
+* [Functional programming](https://en.wikipedia.org/wiki/Functional_programming)
+
