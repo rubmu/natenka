@@ -51,7 +51,6 @@ Python:
 ### Clojure
 
 * [The Ultimate Guide To Clojure REPLs](https://lambdaisland.com/guides/clojure-repls)
-* [The Roots of Lisp](http://languagelog.ldc.upenn.edu/myl/ldc/llog/jmc.pdf)
 * [Clojure Hangouts](https://www.youtube.com/user/niquolaj/videos)
 * [Материалы курсов по Clojure, бесплатно и онлайн](http://clojurecourse.by/) - русскоязычный курс по Clojure
 * [Новая книга в список: Web Development with Clojure, Second Edition](https://pragprog.com/book/dswdcloj2/web-development-with-clojure-second-edition)
@@ -71,7 +70,7 @@ Python:
 ### Slack
 
 * [Slack Slash Commands as a Service](https://sscaas.eu/)
-* [slack-overflow](https://github.com/karan/slack-overflow)
+* [slack-overflow](https://github.com/karan/slack-overflow) - stackoverflow в Slack
 
 ### Fun
 
