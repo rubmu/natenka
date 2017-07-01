@@ -53,7 +53,14 @@ Python:
 * [The Ultimate Guide To Clojure REPLs](https://lambdaisland.com/guides/clojure-repls)
 * [The Roots of Lisp](http://languagelog.ldc.upenn.edu/myl/ldc/llog/jmc.pdf)
 * [Clojure Hangouts](https://www.youtube.com/user/niquolaj/videos)
+* [Материалы курсов по Clojure, бесплатно и онлайн](http://clojurecourse.by/) - русскоязычный курс по Clojure
 * [Новая книга в список: Web Development with Clojure, Second Edition](https://pragprog.com/book/dswdcloj2/web-development-with-clojure-second-edition)
+
+### Python .pyc files
+
+* [6.1.3. “Compiled” Python files](https://docs.python.org/3/tutorial/modules.html#compiled-python-files)
+* [If Python is interpreted, what are .pyc files?](https://stackoverflow.com/a/2998544)
+* [Why are main runnable Python scripts not compiled to pyc files like modules?](https://stackoverflow.com/a/3878510)
 
 ### General
 
@@ -69,3 +76,4 @@ Python:
 ### Fun
 
 * [programmingexcuses.com](http://www.programmerexcuses.com/) - генератор оправданий :)
+
