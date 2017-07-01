@@ -38,6 +38,10 @@ Clojure TCO:
 Python:
 
 * [Does Python optimize tail recursion?](https://stackoverflow.com/questions/13591970/does-python-optimize-tail-recursion)
+* Почему нет от автора языка:
+   * [Tail Recursion Elimination](http://neopythonic.blogspot.com.au/2009/04/tail-recursion-elimination.html)
+   * [Final Words on Tail Calls](http://neopythonic.blogspot.com.au/2009/04/final-words-on-tail-calls.html)
+
 * [Tail Call Optimization for Python (модуль)](https://github.com/baruchel/tco). [Блог автора модуля](http://baruchel.github.io/)
 * [Tail call recursion in Python](http://www.kylem.net/programming/tailcall.html)
 
@@ -49,12 +53,8 @@ Python:
 
 * [The Ultimate Guide To Clojure REPLs](https://lambdaisland.com/guides/clojure-repls)
 * [The Roots of Lisp](http://languagelog.ldc.upenn.edu/myl/ldc/llog/jmc.pdf)
-
-
 * [Clojure Hangouts](https://www.youtube.com/user/niquolaj/videos)
-* [Web Development with Clojure, Second Edition](https://pragprog.com/book/dswdcloj2/web-development-with-clojure-second-edition)
-
-
+* [Новая книга в список: Web Development with Clojure, Second Edition](https://pragprog.com/book/dswdcloj2/web-development-with-clojure-second-edition)
 
 ### General
 
@@ -63,8 +63,11 @@ Python:
 * [Functional programming](https://en.wikipedia.org/wiki/Functional_programming)
 
 
+### Slack
 
 * [Slack Slash Commands as a Service](https://sscaas.eu/)
 * [slack-overflow](https://github.com/karan/slack-overflow)
-* [programmingexcuses.com](http://www.programmerexcuses.com/)
 
+### Fun
+
+* [programmingexcuses.com](http://www.programmerexcuses.com/) - генератор оправданий :)
