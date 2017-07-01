@@ -43,8 +43,7 @@ Python:
    * [Final Words on Tail Calls](http://neopythonic.blogspot.com.au/2009/04/final-words-on-tail-calls.html)
 
 * [Tail Call Optimization for Python (модуль)](https://github.com/baruchel/tco). [Блог автора модуля](http://baruchel.github.io/)
-* [Tail call recursion in Python](http://www.kylem.net/programming/tailcall.html)
-
+* [Tail call recursion in Python](http://www.kylem.net/programming/tailcall.html) - после этой статьи и Clojure Tail Call Optimizer на следующей неделе мне надо разобраться с thunk, trampoline, continuations
 
 В итоге, через 3-4 часа понимаешь, что вроде и стало понятней, но по дороге родились еще 20 вопросов :)
 
@@ -60,7 +59,6 @@ Python:
 
 * [The Trap You Set For Yourself](https://blog.codinghorror.com/the-trap-you-set-for-yourself/)
 * [Being Honest with Yourself is Hard](https://www.scotthyoung.com/blog/2015/06/04/self-honesty/)
-* [Functional programming](https://en.wikipedia.org/wiki/Functional_programming)
 
 
 ### Slack
