@@ -30,7 +30,7 @@ Clojure recur, tail call, tail call optimization:
   * [Why no tail call optimization (Clojure)](https://groups.google.com/forum/#!msg/clojure/4bSdsbperNE/tXdcmbiv4g0J)
 * [Why is tail recursion optimisation not implemented in languages like Python, Ruby, and Clojure? Is it just difficult or impossible?](https://www.quora.com/Why-is-tail-recursion-optimisation-not-implemented-in-languages-like-Python-Ruby-and-Clojure-Is-it-just-difficult-or-impossible)
 
-Реализация в Clojure:
+Clojure TCO:
 
 * [Clojure Tail Call Optimizer (CTCO)](https://github.com/cjfrisz/clojure-tco) - это на будущее попробовать разобраться
 * [TCO - Chris Frisz](https://www.youtube.com/watch?v=RLqqGSthmC0&list=PLZdCLR02grLoyWsKpovatiBYJyf-RKx0c&index=20)
