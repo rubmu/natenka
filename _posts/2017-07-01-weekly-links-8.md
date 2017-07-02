@@ -7,7 +7,7 @@ category:
  - weekly-links
 ---
 
-В этом выпуске: Clojure, Python
+В этом выпуске: Tail Call и Tail Call Optimization в Clojure и Python; Новые ресурсы по Clojure; Python .pyc files basics; генератор оправданий для программистов :)
 
 
 ### Что такое Tail Call и Tail Call Optimization. И как с этим обстоят дела в Clojure и Python
