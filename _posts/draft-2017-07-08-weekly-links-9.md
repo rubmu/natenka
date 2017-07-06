@@ -25,3 +25,9 @@ defn podcast: https://defn.audio/about/
 http://www.lispcast.com/
 
 http://shop.oreilly.com/product/9780596515171.do
+
+http://bytopia.org/2016/03/08/what-is-a-list/
+https://gist.github.com/reborg/dc8b0c96c397a56668905e2767fd697f
+
+http://www.dwmkerr.com/effective-shell-part-1-navigating-the-command-line/
+
