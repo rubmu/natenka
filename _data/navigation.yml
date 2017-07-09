@@ -2,8 +2,8 @@
 main:
   - title: "Blog"
     url: /blog/
-  - title: "Мои курсы"
-    url: /my-courses/
+  - title: "Мои проекты"
+    url: /projects/
   - title: "To Read 2017"
     url: /to-read-2017/
   - title: "About"

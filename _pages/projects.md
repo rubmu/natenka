@@ -1,15 +1,15 @@
 ---
-permalink: /my-courses/
-title: Мои курсы
+permalink: /projects/
+title: Мои проекты
 comments: true
 share: true
 ---
 
 ## Python для сетевых инженеров
 
-Курс ["Python для сетевых инженеров"](https://www.gitbook.com/book/natenka/pyneng/details) завершен и выложен на GitBook.
+Книга ["Python для сетевых инженеров"](https://www.gitbook.com/book/natenka/pyneng/details) завершена и выложена на GitBook.
 
-Я читаю этот же курс [онлайн](/pyneng-online/).
+Я также читаю онлайн курс [Python для сетевых инженеров](/pyneng-online/).
 
 ## Ansible для сетевых инженеров
 
