@@ -31,3 +31,4 @@ https://gist.github.com/reborg/dc8b0c96c397a56668905e2767fd697f
 
 http://www.dwmkerr.com/effective-shell-part-1-navigating-the-command-line/
 
+https://bost.ocks.org/mike/algorithms/
