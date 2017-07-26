@@ -20,7 +20,7 @@ share: true
 * Теория рассматривается блоками по 2-4 часа.
 * В промежутках между лекциями выполняются домашние задания.
 * Всё общение во время курса происходит в [slack](https://pyneng-slack.herokuapp.com/)
-* Для лекций используется [freeconferencecall](freeconferencecall.com)
+* Для лекций используется [freeconferencecall](https://freeconferencecall.com)
 
 Содержание онлайн курса полностью соответствует тому, что выложено в свободный доступ:
 
