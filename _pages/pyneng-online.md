@@ -89,7 +89,7 @@ share: true
  </tr>
  <tr>
     <td align="center">5</td>
-    <td align="center">24.06.17</td>
+    <td align="center">24.09.17</td>
     <td>Модули (2ч)</td>
     <td align="center">4</td>
  </tr>
