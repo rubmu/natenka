@@ -96,6 +96,6 @@ Ivan Pepelnjak:
 
 Документация:
 
-* [](https://docs.python.org/3/index.html)
+* [Официальная документация Python](https://docs.python.org/3/index.html)
 * [Python Module of the Week](https://pymotw.com/3/index.html)
 
