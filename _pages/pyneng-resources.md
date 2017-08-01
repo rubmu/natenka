@@ -78,8 +78,21 @@ Ivan Pepelnjak:
 * [Packet Pushers Show 332: Don’t Believe The Programming Hype](http://packetpushers.net/podcast/podcasts/show-332-dont-believe-programming-hype/) - отличный подкаст об автоматизации, программировании, скриптинге и как всё это относится к сетевым инженерам.
 * [Packet Pushers Show 333: Automation & Orchestration In Networking](http://packetpushers.net/podcast/podcasts/show-333-orchestration-vs-automation/)
 
+## Проекты
+
+* [Scapy](https://github.com/secdev/scapy)
+* [CiscoConfParse](https://github.com/mpenning/ciscoconfparse)
+* [NAPALM](https://github.com/napalm-automation/napalm)
+* [Requests](https://github.com/kennethreitz/requests)
+* [NetworkX](https://github.com/networkx/networkx)
+* [NOC Project](https://kb.nocproject.org/display/SITE/NOC)
+* [SaltStack](https://saltstack.com/)
 
 ## Python без привязки к сетевому оборудованию
+
+* [The Hitchhiker’s Guide to Python!](http://docs.python-guide.org/en/latest/)
+* [Best Python Resources](https://www.fullstackpython.com/best-python-resources.html) - подборка ссылок на хорошие ресурсы по Python
+
 
 Курсы:
 
@@ -87,6 +100,14 @@ Ivan Pepelnjak:
 * [MITx - 6.00.1x Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-9)
 * [Python от Computer Science Center](https://www.youtube.com/playlist?list=PLlb7e2G7aSpTTNp7HBYzCBByaE1h54ruW)
 * [Google's Python Class](https://developers.google.com/edu/python/?csw=1)
+
+Книги:
+
+* [A Byte of Python](https://www.gitbook.com/book/swaroopch/byte-of-python/details)
+* [Dive Into Python 3](http://www.diveintopython3.net/index.html)
+* [Problem Solving with Algorithms and Data Structures using Python](http://interactivepython.org/runestone/static/pythonds/index.html) - отличная книга по структурам данных и алгоритмам. Много примеров и домашних заданий.
+ * [на русском](http://aliev.me/runestone/)
+* [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 
 Сайты с задачами:
 
