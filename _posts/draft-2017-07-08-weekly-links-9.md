@@ -9,6 +9,10 @@ category:
 
 В этом выпуске: Clojure, Python
 
+http://www.dabeaz.com/coroutines/
+http://pyvideo.org/pycon-us-2013/keynote-3.html
+https://speakerdeck.com/pyconslides/transforming-code-into-beautiful-idiomatic-python-by-raymond-hettinger-1?slide=34
+
 
 http://www.kylem.net/programming/tailcall.html
 
