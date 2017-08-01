@@ -26,13 +26,13 @@ share: true
 
 Kirk Byers:
 
-* [Python for Network Engineers (курс от Kirk Byers)](https://pynet.twb-tech.com/class.html)
+* [Python for Network Engineers](https://pynet.twb-tech.com/class.html)
 * [Ansible](https://pynet.twb-tech.com/class-ansible.html)
 
 INE:
 
-* [Python Programming for Network Engineers (INE)](https://ine.com/products/python-programming-for-network-engineers)
-* [Network Automation with Ansible (INE)](https://ine.com/collections/automation-systems/products/network-automation-with-ansible)
+* [Python Programming for Network Engineers](https://ine.com/products/python-programming-for-network-engineers)
+* [Network Automation with Ansible](https://ine.com/collections/automation-systems/products/network-automation-with-ansible)
 * [Другие курсы в категории AUTOMATION & SYSTEMS](https://ine.com/collections/automation-systems)
 
 GNS3 Academy:
@@ -96,14 +96,14 @@ Ivan Pepelnjak:
 
 Курсы:
 
-* [Программирование на Python](https://stepik.org/course/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BD%D0%B0-Python-67)
-* [MITx - 6.00.1x Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-9)
-* [Python от Computer Science Center](https://www.youtube.com/playlist?list=PLlb7e2G7aSpTTNp7HBYzCBByaE1h54ruW)
-* [Google's Python Class](https://developers.google.com/edu/python/?csw=1)
+* [Программирование на Python](https://stepik.org/course/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BD%D0%B0-Python-67) - хороший русскоязычный курс по основам Python
+* [MITx - 6.00.1x Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-9) - очень хороший курс, много практических заданий, достаточно интенсивный
+* [Python от Computer Science Center](https://www.youtube.com/playlist?list=PLlb7e2G7aSpTTNp7HBYzCBByaE1h54ruW) - отличные видеолекции по Python
+* [Google's Python Class](https://developers.google.com/edu/python/?csw=1) - курс по основам Python от Google
 
 Книги:
 
-* [A Byte of Python](https://www.gitbook.com/book/swaroopch/byte-of-python/details)
+* [A Byte of Python](https://www.gitbook.com/book/swaroopch/byte-of-python/details) - книга по основам Python
 * [Dive Into Python 3](http://www.diveintopython3.net/index.html)
 * [Problem Solving with Algorithms and Data Structures using Python](http://interactivepython.org/runestone/static/pythonds/index.html) - отличная книга по структурам данных и алгоритмам. Много примеров и домашних заданий.
  * [на русском](http://aliev.me/runestone/)
