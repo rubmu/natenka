@@ -105,6 +105,8 @@ outside
 
 ```
 
+Добавить пример с db и netmiko
+
 ### Дополнительные материалы
 
 * [The Python "with" Statement by Example](http://preshing.com/20110920/the-python-with-statement-by-example/)
