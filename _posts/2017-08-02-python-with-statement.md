@@ -13,7 +13,6 @@ category:
 
 Сейчас я читаю книгу [Fluent Python](http://shop.oreilly.com/product/0636920032519.do) и, чтобы повторить пройденную тему, решила придумать пару примеров. Особенно мне понравилось использование генератора для создания менеджера контекстов.
 
-> Примеры из книги находятся в [репозитории](https://github.com/fluentpython/example-code/tree/master/15-context-mngr)
 
 ## Конструкция with
 
@@ -367,4 +366,5 @@ Socket is closed
 В книге Fluent Python этой теме посвящен 15 раздел:
 
 * [Fluent Python. Chapter 15 Context Managers and else Blocks](http://shop.oreilly.com/product/0636920032519.do)
+* [Примеры из книги](https://github.com/fluentpython/example-code/tree/master/15-context-mngr)
 
