@@ -47,7 +47,6 @@ In [1]: with open('r1.txt') as f:
 
 In [2]: f.closed
 Out[2]: True
-
 ```
 
 Обратите внимание, что переменная f доступна за пределами конструкции f, так как with не создает отдельного пространства имен, как функция.
@@ -65,7 +64,6 @@ In [21]: f.__exit__()
 
 In [23]: f.closed
 Out[23]: True
-
 ```
 
 Метод ```__enter__``` вызывается в самой конструкции with.
@@ -116,7 +114,6 @@ $ python with_simple.py
 inside with block
 ----------- END -----------
 outside
-
 ```
 
 ## SQLite и with
@@ -131,7 +128,7 @@ outside
 import sqlite3
 
 data = [('00:19:FF:3D:D6:58', '10.1.10.33', '10', 'FastEthernet0/3'),
-        #('00:09:BB:3D:D6:58', '10.1.15.55', '15', 'FastEthernet0/17'),
+       #('00:09:BB:3D:D6:58', '10.1.15.55', '15', 'FastEthernet0/17'),
         ('00:14:33:FE:5B:69', '10.1.15.2', '15', 'FastEthernet0/12'),
         ('00:15:BF:7E:9B:60', '10.1.15.4', '15', 'FastEthernet0/6')]
 
@@ -152,7 +149,6 @@ for row in connection.execute('select * from dhcp'):
     print(row)
 
 connection.close()
-
 ```
 
 В блоке with в БД добавляются данные. При этом:
@@ -187,7 +183,6 @@ $ python with_sqlite3_transaction.py
 ('00:19:FF:3D:D6:58', '10.1.10.33', '10', 'FastEthernet0/3')
 ('00:14:33:FE:5B:69', '10.1.15.2', '15', 'FastEthernet0/12')
 ('00:15:BF:7E:9B:60', '10.1.15.4', '15', 'FastEthernet0/6')
-
 ```
 
 Если теперь раскомментировать строку в списке кортежей data, будет возникать исключение, так как MAC-адрес в этой строке совпадает с уже существующим в таблице, а поле mac является primary key и поэтому должно быть уникальным:
@@ -216,7 +211,6 @@ Error occured:  UNIQUE constraint failed: dhcp.mac
 ('00:04:A3:3E:5B:69', '10.1.5.2', '5', 'FastEthernet0/10')
 ('00:05:B3:7E:9B:60', '10.1.5.4', '5', 'FastEthernet0/9')
 ('00:09:BC:3F:A6:50', '10.1.10.6', '10', 'FastEthernet0/3')
-
 ```
 
 При добавлении данных возникло исключение UNIQUE constraint failed и транзакция откатилась.
@@ -239,7 +233,6 @@ import sqlite3
 with sqlite3.connect('dhcp_snooping.db') as conn:
     for row in conn.execute('select * from dhcp'):
         print(row)
-
 ```
 
 На самом деле, после этого блока соединение не закрыто:
@@ -257,7 +250,6 @@ In [2]: with sqlite3.connect('dhcp_snooping.db') as conn:
 
 In [3]: conn.execute('select * from dhcp')
 Out[3]: <sqlite3.Cursor at 0xb5705660>
-
 ```
 
 Поэтому лучше не открывать соединение таким образом, так как создается впечатление, что оно будет автоматически закрыто.
@@ -281,7 +273,6 @@ try:
     conn.execute('select * from dhcp')
 except sqlite3.ProgrammingError as e:
     print(e)
-
 ```
 
 Теперь запрос в блоке try не выполнится, так как соединение уже закрыто:
@@ -326,7 +317,6 @@ try:
     ssh.send_command("sh ip int br")
 except OSError as e:
     print(e)
-
 ```
 
 Выполнение выглядит так:
