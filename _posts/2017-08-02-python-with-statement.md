@@ -1,12 +1,12 @@
 ---
-title: "Python with statement"
+title: "Fluent Python: with statement"
 date: 2017-08-02
 tags:
  - links
  - notes
  - fluent-python
 category:
- - notes
+ - python
 ---
 
 Небольшая заметка о конструкции with и о том как создавать свои менеджеры контекста.
@@ -206,7 +206,7 @@ CREATE TABLE dhcp (
 );
 ```
 
-Чтобы еще раз попробовать добавить данные, надо раскомментировать строку в списке data и вернуть БД в исодное состояние:
+Чтобы еще раз попробовать добавить данные, надо раскомментировать строку в списке data и вернуть БД в исходное состояние:
 ```
 $ cp dhcp_snooping_backup.db dhcp_snooping.db
 
