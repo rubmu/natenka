@@ -12,12 +12,9 @@ with sqlite3_connection('dhcp_snooping.db') as conn:
     for row in conn.execute('select * from dhcp'):
         print(row)
 
-conn.in_transaction
+try:
+    conn.execute('select * from dhcp')
+except sqlite3.ProgrammingError as e:
+    print(e)
 
-
-with contextlib.closing(sqlite3.connect('dhcp_snooping.db')) as conn:
-    for row in conn.execute('select * from dhcp'):
-        print(row)
-
-conn.in_transaction
 
