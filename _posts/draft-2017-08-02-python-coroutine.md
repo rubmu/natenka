@@ -18,6 +18,8 @@ category:
 
 ## Сопрограмма
 
+
+
 ### Дополнительные материалы
 
 Все примеры выше использовались чтобы показать простейшие примеры использования и заинтересовать этой темой.
@@ -27,6 +29,7 @@ category:
 
 * [Generator-iterator methods](https://docs.python.org/3/reference/expressions.html#generator-iterator-methods)
 * [PEP 342 -- Coroutines via Enhanced Generators](https://www.python.org/dev/peps/pep-0342/)
+* [PEP 380 -- Syntax for Delegating to a Subgenerator](https://www.python.org/dev/peps/pep-0380/)
 
 Статьи:
 
