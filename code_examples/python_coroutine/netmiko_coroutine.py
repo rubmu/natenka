@@ -1,7 +1,8 @@
 import netmiko
 
 def send_show_command(device_params):
-    print('Opening connection to IP: {}'.format(device_params['ip']))
+    print('Open connection to: '.rjust(40, '#'),
+          device_params['ip'])
     conn = netmiko.ConnectHandler(**device_params)
     conn.enable()
     result = None
@@ -11,19 +12,24 @@ def send_show_command(device_params):
             result = conn.send_command(command)
         except GeneratorExit:
             conn.disconnect()
-            print('Connection closed')
+            print('Connection closed'.rjust(40, '#'))
             break
 
 
-DEVICE_PARAMS = {'device_type': 'cisco_ios',
-                 'ip': '192.168.100.1',
-                 'username': 'cisco',
-                 'password': 'cisco',
-                 'secret': 'cisco' }
+r1 = {'device_type': 'cisco_ios',
+      'ip': '192.168.100.1',
+      'username': 'cisco',
+      'password': 'cisco',
+      'secret': 'cisco' }
 
-ssh = send_show_command(DEVICE_PARAMS)
+commands = ['sh ip int br', 'sh ip arp']
+
+ssh = send_show_command(r1)
 next(ssh)
-r = ssh.send('sh ip int br')
-print(r)
+
+for c in commands:
+    result = ssh.send(c)
+    print(result)
+
 ssh.close()
 

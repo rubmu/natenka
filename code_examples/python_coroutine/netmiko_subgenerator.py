@@ -64,9 +64,9 @@ def collect_output(results, device_params):
         print('*'*40)
         print('delegating generator')
         #pprint(results)
-        #results[device_params['ip']] = yield from send_show_command(device_params)
+        results[device_params['ip']] = yield from send_show_command(device_params)
         #results[device_params['ip']] = yield from send_show_command2(device_params)
-        results[device_params['ip']] = yield from send_show_command3(device_params)
+        #results[device_params['ip']] = yield from send_show_command3(device_params)
 
 
 #caller
