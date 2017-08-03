@@ -11,8 +11,6 @@ category:
 
 Сопрограммы (coroutine) на основе генератора.
 
-Вот хоть я уже и не сетевой инженер, а никуда не денешься от того, что при изучении новых тем, в голове рождаются примеры использования для сетей :)
-
 Следующий раздел [Fluent Python](http://shop.oreilly.com/product/0636920032519.do) - сопрограммы.
 
 > В книге Fluent Python используется Python 3.4. В версиях 3.5 и 3.6 были внесены изменения связанные с сопрограммами. В этой заметке вся информация основывается на разделе coroutines в книге Fluent Python.
@@ -227,6 +225,8 @@ StopIteration              Traceback (most recent call last)
 StopIteration:
 ```
 
+> Хоть я уже и не сетевой инженер, а никуда не денешься от того, что при изучении новых тем, в голове рождаются примеры использования для сетей :)
+
 ## Пример использования сопрограммы с netmiko
 
 С помощью сопрограммы можно создать соединение SSH с устройством, которое ожидает команды.
@@ -337,7 +337,7 @@ ssh.close()
 
 Результат выполнения:
 ```
- $ python netmiko_coroutine.py
+$ python netmiko_coroutine.py
 ####################Open connection to:  192.168.100.1
 Interface                  IP-Address      OK? Method Status                Protocol
 Ethernet0/0                192.168.100.1   YES NVRAM  up                    up
@@ -355,9 +355,54 @@ Internet  192.168.230.1           -   aabb.cc00.6530  ARPA   Ethernet0/3
 ```
 
 ## yield from
-The yield from syntax enables complex generators to be refactored into smaller,
-nested generators while avoiding a lot of boilerplate code previously required for a
-generator to delegate to subgenerators.
+
+Выражение yield from может использоваться, как и yield, в генераторе и в сопрограммах.
+
+### yield from в генераторе
+
+При использовании в генераторе, yield from может помочь упростить использование yield в цикле for:
+```python
+In [1]: def generate():
+   ...:     for i in range(5):
+   ...:         yield i
+   ...:
+
+In [2]: list(generate())
+Out[2]: [0, 1, 2, 3, 4]
+```
+
+Аналогичный вариант с yield from:
+```python
+In [3]: def generate():
+   ...:     yield from range(5)
+   ...:
+
+In [4]: list(generate())
+Out[4]: [0, 1, 2, 3, 4]
+```
+
+Пример использования yield from для получения плоского списка из списка списков с разной вложенностью (упрощенный вариант примера 4.14 из книги [Python Cookbook](https://github.com/dabeaz/python-cookbook/blob/master/src/4/how_to_flatten_a_nested_sequence/example.py):
+```python
+In [5]: def flatten_list(alist):
+   ...:     for item in alist:
+   ...:         if type(item) is list:
+   ...:             yield from flatten_list(item)
+   ...:         else:
+   ...:             yield item
+   ...:
+
+In [6]: example = [0, 1, [2, 3], 4, [5, 6, [7, 8]], 9]
+
+In [7]: list(flatten_list(example))
+Out[7]: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+```
+
+### yield from в сопрограммах
+
+> В Python 3.5 добавлен новый оператор для обозначения yield from.
+
+Основная функциональность yield from - открытие двухстороннего канала между кодом, который вызвал сопрограмму и вложенным генератором, при этом значения передаются между ними напрямую.
+
 
 
 ## Дополнительные материалы
@@ -377,7 +422,7 @@ generator to delegate to subgenerators.
 Ответ на stackoverflow:
 
 * [What does the “yield” keyword do?](https://stackoverflow.com/questions/231767/what-does-the-yield-keyword-do) и [перевод этого ответа](https://habrahabr.ru/post/132554/)
-
+* [what's the difference between yield from and yield in python 3.3.2+](https://stackoverflow.com/questions/35518986/whats-the-difference-between-yield-from-and-yield-in-python-3-3-2)
 
 Fluent Python:
 
@@ -387,3 +432,4 @@ Fluent Python:
 Презентация:
 
 * [gevent](http://mauveweb.co.uk/presentations/gevent-talk/#1)
+
