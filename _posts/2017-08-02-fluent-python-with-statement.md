@@ -285,8 +285,36 @@ $ python with_sqlite3_conn_contextmanager.py
 Cannot operate on a closed database.
 ```
 
-Конечно это самый базовый пример и тут не хватает, как минимум, обработки исключений.
-Но он тут больше для того чтобы заинтересовать этой темой.
+### contextlib.closing
+
+В модуле contextlib есть менеджер контекста closing, который вызывает метод close, в конце блока with.
+
+Соответственно, в предыдущем примере можно не создавать менеджер контекста, а использовать closing (файл with_sqlite3_conn_closing.py):
+```python
+import contextlib
+import sqlite3
+
+
+with contextlib.closing(sqlite3.connect('dhcp_snooping.db')) as conn:
+    for row in conn.execute('select * from dhcp'):
+        print(row)
+
+try:
+    conn.execute('select * from dhcp')
+except sqlite3.ProgrammingError as e:
+    print(e)
+```
+
+Результат выглядит аналогично:
+```
+$ python with_sqlite3_conn_closing.py
+('00:09:BB:3D:D6:58', '10.1.10.2', '10', 'FastEthernet0/1')
+('00:04:A3:3E:5B:69', '10.1.5.2', '5', 'FastEthernet0/10')
+('00:05:B3:7E:9B:60', '10.1.5.4', '5', 'FastEthernet0/9')
+('00:09:BC:3F:A6:50', '10.1.10.6', '10', 'FastEthernet0/3')
+Cannot operate on a closed database.
+```
+
 
 ### Соединение SSH в блоке with
 
