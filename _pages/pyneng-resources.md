@@ -5,6 +5,9 @@ comments: true
 share: true
 tags:
  - pyneng
+ - links
+category:
+ - pyneng
 ---
 
 ## Блоги
