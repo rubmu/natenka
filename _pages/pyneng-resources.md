@@ -3,9 +3,13 @@ permalink: /pyneng-resources/
 title: Ресурсы по Python для сетевых инженеров
 comments: true
 share: true
+tags:
+ - pyneng
 ---
 
 ## Блоги
+
+Блоги сетевых инженеров, которые пишут о программровании, автоматизации:
 
 * [Kirk Byers](https://pynet.twb-tech.com/)
 * [Jason Edelman](http://jedelman.com/)
@@ -18,7 +22,7 @@ share: true
 
 ### Бесплатные курсы
 
-* [Бесплатный email курс от Kirk Byers](https://pynet.twb-tech.com/email-signup.html)
+* [Бесплатный email курс 'Python for network engineers' от Kirk Byers](https://pynet.twb-tech.com/email-signup.html)
 * [GNS3 Talks. Python Programming for Network Engineers](https://www.youtube.com/playlist?list=PLhfrWIlLOoKPn7T9FtvbOWX8GxgsFFNwn)
 * [Курсы на Cisco DevNet](https://learninglabs.cisco.com/)
 
@@ -87,6 +91,7 @@ Ivan Pepelnjak:
 * [NetworkX](https://github.com/networkx/networkx)
 * [NOC Project](https://kb.nocproject.org/display/SITE/NOC)
 * [SaltStack](https://saltstack.com/)
+* [StackStorm](https://stackstorm.com/)
 
 ## Python без привязки к сетевому оборудованию
 
