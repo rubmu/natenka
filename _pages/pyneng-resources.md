@@ -103,11 +103,11 @@ Ivan Pepelnjak:
 
 Книги:
 
-* [A Byte of Python](https://www.gitbook.com/book/swaroopch/byte-of-python/details) - книга по основам Python
+* [A Byte of Python](https://www.gitbook.com/book/swaroopch/byte-of-python/details) - книга по основам Python. [На русском](http://wombat.org.ua/AByteOfPython/toc.html)
 * [Dive Into Python 3](http://www.diveintopython3.net/index.html)
-* [Problem Solving with Algorithms and Data Structures using Python](http://interactivepython.org/runestone/static/pythonds/index.html) - отличная книга по структурам данных и алгоритмам. Много примеров и домашних заданий.
- * [на русском](http://aliev.me/runestone/)
+* [Problem Solving with Algorithms and Data Structures using Python](http://interactivepython.org/runestone/static/pythonds/index.html) - отличная книга по структурам данных и алгоритмам. Много примеров и домашних заданий. [На русском](http://aliev.me/runestone/)
 * [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+* [Learning Python, 5th Edition](http://shop.oreilly.com/product/0636920028154.do). Четветое издание на русском [Марк Лутц. Изучаем python](https://www.ozon.ru/context/detail/id/5730448/)
 
 Сайты с задачами:
 
