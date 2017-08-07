@@ -131,3 +131,4 @@ Ivan Pepelnjak:
 Подкасты:
 
 * [Talk Python To Me](https://talkpython.fm/)
+* [Best Python Podcasts](https://www.fullstackpython.com/best-python-podcasts.html)
