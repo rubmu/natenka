@@ -128,3 +128,6 @@ Ivan Pepelnjak:
 * [Официальная документация Python](https://docs.python.org/3/index.html)
 * [Python Module of the Week](https://pymotw.com/3/index.html)
 
+Подкасты:
+
+* [Talk Python To Me](https://talkpython.fm/)
