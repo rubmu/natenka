@@ -96,6 +96,11 @@ Ivan Pepelnjak:
 * [SaltStack](https://saltstack.com/)
 * [StackStorm](https://stackstorm.com/)
 
+## Slack
+
+* [Network to code](https://networktocode.herokuapp.com/) - отличное сообщество в slack, где обсуждается всё, что касается программирования и автоматизации в сетях
+* [PyNEng](https://pyneng-slack.herokuapp.com/) - русскоязычное сообщество по тем же темам
+
 ## Python без привязки к сетевому оборудованию
 
 * [The Hitchhiker’s Guide to Python!](http://docs.python-guide.org/en/latest/)
