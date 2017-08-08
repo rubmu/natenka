@@ -87,14 +87,33 @@ Ivan Pepelnjak:
 
 ## Проекты
 
-* [Scapy](https://github.com/secdev/scapy)
+* [Ansible](https://www.ansible.com/)
 * [CiscoConfParse](https://github.com/mpenning/ciscoconfparse)
 * [NAPALM](https://github.com/napalm-automation/napalm)
-* [Requests](https://github.com/kennethreitz/requests)
 * [NetworkX](https://github.com/networkx/networkx)
 * [NOC Project](https://kb.nocproject.org/display/SITE/NOC)
+* [Requests](https://github.com/kennethreitz/requests)
 * [SaltStack](https://saltstack.com/)
+* [Scapy](https://github.com/secdev/scapy)
 * [StackStorm](https://stackstorm.com/)
+
+## Полезные модули Python
+
+* [argparse](https://docs.python.org/3/library/argparse.html)
+* [getpass](https://docs.python.org/3/library/getpass.html)
+* [ipaddress](https://docs.python.org/3/library/ipaddress.html)
+* [Jinja2](http://jinja.pocoo.org/docs/2.9/)
+* [netmiko](https://github.com/ktbyers/netmiko)
+* [multiprocessing](https://docs.python.org/3/library/multiprocessing.html)
+* [paramiko](http://docs.paramiko.org/)
+* [pexpect](https://pexpect.readthedocs.io/en/stable/index.html)
+* [pyserial](https://pythonhosted.org/pyserial/)
+* [pysnmp](http://pysnmp.sourceforge.net/)
+* [subprocess](https://docs.python.org/3/library/subprocess.html)
+* [telnetlib](https://docs.python.org/3/library/telnetlib.html)
+* [TextFSM](https://github.com/google/textfsm/wiki)
+* [threading](https://docs.python.org/3/library/threading.html)
+
 
 ## Slack
 
