@@ -495,6 +495,7 @@ Out[5]: 4
 
 * [Iterables vs. Iterators vs. Generators](http://nvie.com/posts/iterators-vs-generators/)
 * [Improve Your Python: 'yield' and Generators Explained](https://jeffknupp.com/blog/2013/04/07/improve-your-python-yield-and-generators-explained/) - generator and generator expressions
+* [Generator Tricks for Systems Programmers. David Beazley](http://www.dabeaz.com/generators/)
 
 Ответ на stackoverflow:
 
