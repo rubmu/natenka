@@ -1,8 +1,8 @@
-import sys
 import difflib
 from collections import OrderedDict as odict
 from pprint import pprint
 from jinja2 import Environment, FileSystemLoader
+import argparse
 
 from colorama import Fore, init
 
@@ -180,7 +180,7 @@ def print_colored_diff(diff_generator):
             print(line)
 
 
-def generate_html(data, template, dest_file='result.html'):
+def generate_html(data, template, dest_file):
 
     env = Environment(loader=FileSystemLoader('templates'),
                       trim_blocks=True, lstrip_blocks=True)
@@ -188,11 +188,72 @@ def generate_html(data, template, dest_file='result.html'):
 
     with open(dest_file, 'w') as output:
         output.write(template.render(diff=data))
+    print('HTML output saved to', dest_file)
+
+
+parser = argparse.ArgumentParser(description='Generate config diff')
+
+parser.add_argument('base_cfg_file', action="store")
+parser.add_argument('check_cfg_file', action="store")
+parser.add_argument('-f', action="store", dest="format",
+                    choices=['html', 'print'], default='print',
+                    help="Output format")
+parser.add_argument('-d', action="store", dest="html_dst_file",
+                    default='result.html', help="HTML destination file")
 
 
 if __name__ == '__main__':
-    base_cfg, cfg_to_check = sys.argv[1:]
+    args = parser.parse_args()
+    base_cfg, cfg_to_check = args.base_cfg_file, args.check_cfg_file
     result = main(base_cfg, cfg_to_check)
-    print_colored_diff(result)
-    #generate_html(result, 'html_report_template.html')
+    if args.format == 'print':
+        print_colored_diff(result)
+    else:
+        generate_html(result, 'html_report_template.html',
+                      args.html_dst_file)
 
+
+'''
+
+$ python generate_cfg_diff.py base_cfg.txt cfg1.txt -h
+usage: generate_cfg_diff.py [-h] [-f {html,print}] [-d HTML_DST_FILE]
+                            base_cfg_file check_cfg_file
+
+Generate config diff
+
+positional arguments:
+  base_cfg_file
+  check_cfg_file
+
+optional arguments:
+  -h, --help        show this help message and exit
+  -f {html,print}   Output format
+  -d HTML_DST_FILE  HTML destination file
+
+$ python generate_cfg_diff.py base_cfg.txt cfg1.txt
+
+
+ policy-map OUT_QOS
+  class COMPARE
+-  set dscp cs4
++  set dscp cs7
+
+
+ interface Ethernet0/0
+- ip address 192.168.100.1 255.255.255.0
++ ip address 192.168.120.1 255.255.255.0
+
+
+-router eigrp 1
+- network 0.0.0.0
+
+
+ line con 0
+  exec-timeout 0 0
++ privilege level 15
+  logging synchronous
+
+$ python generate_cfg_diff.py base_cfg.txt cfg1.txt -f html
+HTML output saved to result.html
+
+'''
