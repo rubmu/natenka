@@ -132,6 +132,7 @@ Ivan Pepelnjak:
 * [MITx - 6.00.1x Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-9) - очень хороший курс, много практических заданий, достаточно интенсивный (англ)
 * [Python от Computer Science Center](https://www.youtube.com/playlist?list=PLlb7e2G7aSpTTNp7HBYzCBByaE1h54ruW) - отличные видеолекции по Python
 * [Google's Python Class](https://developers.google.com/edu/python/?csw=1) - курс по основам Python от Google (англ)
+* [Курс языка Python и базовых алгоритмов и структур данных](https://github.com/Yorko/python_intro)
 
 Книги:
 
