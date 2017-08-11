@@ -122,8 +122,9 @@ Ivan Pepelnjak:
 
 ## Python без привязки к сетевому оборудованию
 
-* [The Hitchhiker’s Guide to Python!](http://docs.python-guide.org/en/latest/)
+* [The Hitchhiker’s Guide to Python!](http://docs.python-guide.org/en/latest/) - это очень интересно руководство в котором охвачено множество тем. Тут есть рекомендации, описание доступных проектов, библиотек и модулей по разным темам.
 * [Best Python Resources](https://www.fullstackpython.com/best-python-resources.html) - подборка ссылок на хорошие ресурсы по Python
+* [PEP 8 — the Style Guide for Python Code](http://pep8.org/) - красивый вариант PEP8
 
 
 Курсы (бесплатные):
@@ -157,3 +158,4 @@ Ivan Pepelnjak:
 
 * [Talk Python To Me](https://talkpython.fm/)
 * [Best Python Podcasts](https://www.fullstackpython.com/best-python-podcasts.html)
+
