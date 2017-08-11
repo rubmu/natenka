@@ -100,6 +100,9 @@
       {% if author.goodreads %}
       <li><a href="https://www.goodreads.com/user/show/{{ author.goodreads }}"><i class="fa fa-fw fa-book" aria-hidden="true"></i> Goodreads</a></li>
       {% endif %}
+      {% if author.saythanks %}
+      <li><a href="https://saythanks.io/to/{{ author.saythanks }}"><i class="fa fa-fw fa-heart" aria-hidden="true"></i>Say thanks</a></li>
+      {% endif %}
     </ul>
   </div>
 </div>
