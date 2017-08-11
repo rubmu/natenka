@@ -3,6 +3,7 @@ title: "PyNEng Online. Осень 2017"
 date: 2017-07-26
 tags:
  - pyneng-online
+ - pyneng
 category:
  - pyneng
 ---
