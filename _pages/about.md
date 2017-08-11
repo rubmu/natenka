@@ -23,7 +23,6 @@ permalink: /about/
 
 ### Say thanks
 
-[![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/natenka)
 
 Если вам пригодились мои проекты, не стесняйтесь написать мне [спасибо](https://saythanks.io/to/natenka) или поставить [звездочку проекту](https://github.com/natenka).
 
