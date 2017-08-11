@@ -17,7 +17,7 @@ permalink: /about/
 ### Коротко обо мне
 
 * [Автор статей по сетям](http://xgu.ru/wiki/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:Nata) на xgu.ru
-* Автор [книги](https://www.gitbook.com/book/natenka/pyneng/details) и [курса](https://natenka.github.io/pyneng-online/) "Python для сетевых инженеров"
+* Автор [книги](https://www.gitbook.com/book/natenka/pyneng/details) и [курса](https://natenka.github.io/pyneng-online/) "[Python для сетевых инженеров]"(https://natenka.github.io/pyneng/)
 * Дружу с [linkmeup.ru](https://linkmeup.ru/). Говорю с [умными людьми](https://linkmeup.ru/tag/%D0%BF%D0%BEccie%D0%BB%D0%BA%D0%B8/)
 * [Автор серии курсов "Сетевые дни"](https://github.com/natenka/NetDay)
 

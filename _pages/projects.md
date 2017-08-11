@@ -5,7 +5,7 @@ comments: true
 share: true
 ---
 
-## Python для сетевых инженеров
+## [Python для сетевых инженеров](https://natenka.github.io/pyneng/)
 
 Книга ["Python для сетевых инженеров"](https://www.gitbook.com/book/natenka/pyneng/details) завершена и выложена на GitBook.
 
