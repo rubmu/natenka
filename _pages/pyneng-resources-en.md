@@ -77,7 +77,7 @@ Packet Pushers:
 * [Show 176 – Intro To Python & Automation For Network Engineers](http://packetpushers.net/podcast/podcasts/show-176-intro-to-python-automation-for-network-engineers/)
 * [Show 198 – Kirk Byers On Network Automation With Python & Ansible](http://packetpushers.net/podcast/podcasts/show-198-kirk-byers-network-automation-python-ansible/)
 * [Show 270: Design & Build 9: Automation With Python And Netmiko](http://packetpushers.net/podcast/podcasts/show-270-design-build-9-automation-python-netmiko/)
-* [Show 332: Don’t Believe The Programming Hype](http://packetpushers.net/podcast/podcasts/show-332-dont-believe-programming-hype/) - отличный подкаст об автоматизации, программировании, скриптинге и как всё это относится к сетевым инженерам.
+* [Show 332: Don’t Believe The Programming Hype](http://packetpushers.net/podcast/podcasts/show-332-dont-believe-programming-hype/)
 * [Show 333: Automation & Orchestration In Networking](http://packetpushers.net/podcast/podcasts/show-333-orchestration-vs-automation/)
 * [PQ Show 99: Netmiko & NAPALM For Network Automation](http://packetpushers.net/podcast/podcasts/pq-show-99-netmiko-napalm-network-automation/)
 
