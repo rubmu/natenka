@@ -53,14 +53,14 @@ share: true
     <td align="center">-</td>
     <td align="center">-</td>
     <td align="center">26.08.17</td>
-    <td>Предварительная встреча: О курсе</td>
+    <td>Предварительная встреча: О курсе (2ч)</td>
     <td align="center">-</td>
  </tr>
  <tr>
     <td align="center">-</td>
     <td align="center">-</td>
     <td align="center">02.09.17</td>
-    <td>Предварительная встреча: Инструменты</td>
+    <td>Предварительная встреча: Инструменты (2ч)</td>
     <td align="center">-</td>
  </tr>
  <tr>
