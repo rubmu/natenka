@@ -10,6 +10,8 @@ category:
  - pyneng
 ---
 
+> [Resources in English](https://natenka.github.io/pyneng-resources-en/)
+
 ## Блоги
 
 Блоги сетевых инженеров, которые пишут о программировании, автоматизации:
@@ -119,6 +121,13 @@ Ivan Pepelnjak:
 
 * [Network to code](https://networktocode.herokuapp.com/) - отличное сообщество в slack, где обсуждается всё, что касается программирования и автоматизации в сетях
 * [PyNEng](https://pyneng-slack.herokuapp.com/) - русскоязычное сообщество по тем же темам
+
+
+## Другие подборки ресурсов по Python для сетевых инженеров
+
+* [Python for Network Engineers Resources](https://kontrolissues.net/python-for-network-engineers-resources/)
+* [Awesome Network Programmability](https://github.com/cisco-ie/awesome-network-programmability)
+
 
 ## Python без привязки к сетевому оборудованию
 
