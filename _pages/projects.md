@@ -5,11 +5,14 @@ comments: true
 share: true
 ---
 
-## [Python для сетевых инженеров](https://natenka.github.io/pyneng/)
+## Python для сетевых инженеров
 
-Книга ["Python для сетевых инженеров"](https://www.gitbook.com/book/natenka/pyneng/details) завершена и выложена на GitBook.
+[Python для сетевых инженеров](https://natenka.github.io/pyneng/) - это:
 
-Я также читаю онлайн курс [Python для сетевых инженеров](/pyneng-online/).
+* [Книга](https://www.gitbook.com/book/natenka/pyneng/details)
+* [Сообщество в Slack](https://pyneng-slack.herokuapp.com/)
+* [Подборка ресурсов](https://natenka.github.io/pyneng-resources/)
+* [Онлайн курс](/pyneng-online/)
 
 ## Ansible для сетевых инженеров
 
@@ -47,7 +50,7 @@ share: true
 
 Подкасты LinkMeUp с моим участием:
 
-* [LinkMeUp. Выпуск №20. Xgu.ru и курсы по сетевым технологиям](http://linkmeup.ru/blog/148.html)
+* [LinkMeUp. Выпуск № 20. Xgu.ru и курсы по сетевым технологиям](http://linkmeup.ru/blog/148.html)
 * [LinkMeUp. Выпуск № 35. Проект CCIE за год](http://linkmeup.ru/blog/218.html)
 * [LinkMeUp. Выпуск № 50. CCIE за год. История и современность](http://linkmeup.ru/blog/281.html)
 * [LinkMeUp. Выпуск № 51. Сетевики не нужны](http://linkmeup.ru/blog/283.html)
