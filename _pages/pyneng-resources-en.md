@@ -43,6 +43,7 @@ INE:
 GNS3 Academy:
 
 * [Python Network Programming - Part 1: Build 7 Python Apps](http://academy.gns3.com/p/python-programming-for-real-life-networking-use)
+* [Ansible for Network Engineers: Quick Start with GNS3, Ansible and Network Automation](http://academy.gns3.com/p/ansible-for-network-engineers-gns3-ansible-cisco-network-automation/)
 * [Network Programmability and Network Automation using GNS3 and Python](http://academy.gns3.com/p/python-programming-for-network-engineers)
 * [Other Python courses from the GNS3 academy](http://academy.gns3.com/courses?query=python)
 
