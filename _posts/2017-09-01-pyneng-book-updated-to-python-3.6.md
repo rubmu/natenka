@@ -11,31 +11,17 @@ tags:
 
 Спустя 240 часов и плюс 250 страниц - это свершилось :)
 
-## Изменения из-за перехода на Python 3.6
 
-Изменений достаточно мало.
-Все они описаны в [книге](https://natenka.gitbooks.io/pyneng/content/book/16_additional_info/py2_vs_py3.html) с ссылками на соответствующие разделы.
+## Что изменилось
 
-## Новое в книге
-
-* Добавлена информация про [отличия книги py2 и py3](https://natenka.gitbooks.io/pyneng/content/book/16_additional_info/py2_vs_py3.html)
-* Во все разделы добавлен подраздел "Дополнительные материалы" с ссылками для дополнительного изучения темы
-* Примеры и упражнения вынесены в отдельный [репозиторий](https://github.com/natenka/pyneng-examples-exercises)
-* Для всех тем есть [презентации](https://github.com/natenka/pyneng-slides)
-* Для некоторых тем есть [тесты](https://github.com/natenka/pyneng-examples-exercises/blob/master/tests.md)
-* Подготовлены [виртуалки для Python 3.6](https://natenka.gitbooks.io/pyneng/content/book/01_intro/)
-* Добавлен раздел [Продолжение обучения](https://natenka.gitbooks.io/pyneng/content/resources/)
-
-## Изменения в содержимом
-
-Обновленные разделы
+### Обновленные разделы
 
 * Полностью переписан раздел [Регулярные выражения](https://natenka.gitbooks.io/pyneng/content/book/09_regex/)
 * Раздел по [базам данных](https://natenka.gitbooks.io/pyneng/content/book/11_db/) частично переписан
 * Раздел по [Ansible](https://natenka.gitbooks.io/pyneng/content/book/15_ansible/) обновлен до Ansible 2.4
 
 
-Добавлены подразделы:
+### Добавлены подразделы
 
 * [итераторы и comprehentions](https://natenka.gitbooks.io/pyneng/content/book/16_additional_info/iterator_generator/)
 * [Основы Git и GitHub](https://natenka.gitbooks.io/pyneng/content/book/01_intro/git-github/)
@@ -45,13 +31,13 @@ tags:
 * [объединение литералов строк](https://natenka.gitbooks.io/pyneng/content/book/03_data_structures/4c_string_literal_concatenation.html)
 
 
-Добавлена информация про функции:
+### Добавлена информация про функции
 
 * [print](https://natenka.gitbooks.io/pyneng/content/book/07_functions/useful_functions/print.html)
 * [range](https://natenka.gitbooks.io/pyneng/content/book/07_functions/useful_functions/range.html)
 
 
-Добавлена информация про модули:
+### Добавлена информация про модули
 
 * [tabulate](https://natenka.gitbooks.io/pyneng/content/book/08_modules/useful_modules/tabulate.html)
 * [pprint](https://natenka.gitbooks.io/pyneng/content/book/08_modules/useful_modules/pprint.html)
@@ -59,12 +45,27 @@ tags:
 
 Подразделы "Полезные функции" и "Полезные модули" перенесены из раздела "Дополнительная информация" в разделы [Функции](https://natenka.gitbooks.io/pyneng/content/book/07_functions/useful_functions/) и [Модули](https://natenka.gitbooks.io/pyneng/content/book/08_modules/useful_modules/), соответственно.
 
-Задания:
+### Задания
 
 * добавлено 5 заданий в 12 раздел
 * добавлено 1 задание в 8 раздел
 * удалено задание 10.2
 
+Теперь в книге 116 заданий.
+
+### Изменения из-за перехода на Python 3.6
+
+* Изменений достаточно мало. Все они описаны в [книге](https://natenka.gitbooks.io/pyneng/content/book/16_additional_info/py2_vs_py3.html) с ссылками на соответствующие разделы.
+
+### Новое в книге
+
+* Добавлена информация про [отличия книги py2 и py3](https://natenka.gitbooks.io/pyneng/content/book/16_additional_info/py2_vs_py3.html)
+* Во все разделы добавлен подраздел "Дополнительные материалы" с ссылками для дополнительного изучения темы
+* Примеры и упражнения вынесены в отдельный [репозиторий](https://github.com/natenka/pyneng-examples-exercises)
+* Для всех тем есть [презентации](https://github.com/natenka/pyneng-slides)
+* Для некоторых тем есть [тесты](https://github.com/natenka/pyneng-examples-exercises/blob/master/tests.md)
+* Подготовлены [виртуалки для Python 3.6](https://natenka.gitbooks.io/pyneng/content/book/01_intro/)
+* Добавлен раздел [Продолжение обучения](https://natenka.gitbooks.io/pyneng/content/resources/)
 
 ## Статистика
 
