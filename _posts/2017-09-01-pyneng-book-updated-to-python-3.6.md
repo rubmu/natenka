@@ -23,12 +23,12 @@ tags:
 
 ### Добавлены подразделы
 
-* [итераторы и comprehentions](https://natenka.gitbooks.io/pyneng/content/book/16_additional_info/iterator_generator/)
+* [Итераторы и comprehentions](https://natenka.gitbooks.io/pyneng/content/book/16_additional_info/iterator_generator/)
 * [Основы Git и GitHub](https://natenka.gitbooks.io/pyneng/content/book/01_intro/git-github/)
-* [распаковка переменных](https://natenka.gitbooks.io/pyneng/content/book/16_additional_info/variable_unpacking.html)
+* [Распаковка переменных](https://natenka.gitbooks.io/pyneng/content/book/16_additional_info/variable_unpacking.html)
 * [concurrent.futures](https://natenka.gitbooks.io/pyneng/content/book/12_ssh_telnet/concurrent_futures/)
 * [Unicode](https://natenka.gitbooks.io/pyneng/content/book/16_additional_info/unicode/)
-* [объединение литералов строк](https://natenka.gitbooks.io/pyneng/content/book/03_data_structures/4c_string_literal_concatenation.html)
+* [Объединение литералов строк](https://natenka.gitbooks.io/pyneng/content/book/03_data_structures/4c_string_literal_concatenation.html)
 
 
 ### Добавлена информация про функции
@@ -55,7 +55,8 @@ tags:
 
 ### Изменения из-за перехода на Python 3.6
 
-* Изменений достаточно мало. Все они описаны в [книге](https://natenka.gitbooks.io/pyneng/content/book/16_additional_info/py2_vs_py3.html) с ссылками на соответствующие разделы.
+Изменений достаточно мало.
+Все они описаны в [книге](https://natenka.gitbooks.io/pyneng/content/book/16_additional_info/py2_vs_py3.html) с ссылками на соответствующие разделы.
 
 ### Новое в книге
 
