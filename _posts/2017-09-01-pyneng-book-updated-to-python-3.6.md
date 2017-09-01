@@ -19,7 +19,7 @@ tags:
 * Полностью переписан раздел [Регулярные выражения](https://natenka.gitbooks.io/pyneng/content/book/09_regex/)
 * Раздел по [базам данных](https://natenka.gitbooks.io/pyneng/content/book/11_db/) частично переписан
 * Раздел по [Ansible](https://natenka.gitbooks.io/pyneng/content/book/15_ansible/) обновлен до Ansible 2.4
-
+* [Подраздел JSON](https://natenka.gitbooks.io/pyneng/content/book/10_serialization/2_json.html) обновлен
 
 ### Добавлены подразделы
 
