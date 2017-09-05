@@ -11,19 +11,25 @@ tags:
 
 Спустя 240 часов и плюс 250 страниц - это свершилось :)
 
+В книге есть два типа изменений: из-за перехода на Python 3 и не связанные с переходом.
+Фактически, большинство изменений не связаны с переходом и просто являются улучшениями книги.
+
+Тем не менее, все примеры, весь код, все задания и все темы обновлены до Python 3.6.
+Эти изменения перечислены в отдельном разделе, чтобы было легче перейти со Python 2.7 на Python 3.
+
 
 ## Что изменилось
 
 ### Обновленные разделы
 
-* Полностью переписан раздел [Регулярные выражения](https://natenka.gitbooks.io/pyneng/content/book/09_regex/)
-* Раздел по [базам данных](https://natenka.gitbooks.io/pyneng/content/book/11_db/) частично переписан
+* Полностью переписан раздел [Регулярные выражения](https://natenka.gitbooks.io/pyneng/content/book/09_regex/) - раздел стал больше, подробнее расписан синтаксис регулярных выражений и добавлены примеры. Кроме того, дополнена часть по самому модулю re и подробней описаны его функции
+* Раздел по [базам данных](https://natenka.gitbooks.io/pyneng/content/book/11_db/) частично переписан - немного улучшился код примеров, а также более четко разделен на части сам раздел
 * Раздел по [Ansible](https://natenka.gitbooks.io/pyneng/content/book/15_ansible/) обновлен до Ansible 2.4
-* [Подраздел JSON](https://natenka.gitbooks.io/pyneng/content/book/10_serialization/2_json.html) обновлен
+* [Подраздел JSON](https://natenka.gitbooks.io/pyneng/content/book/10_serialization/2_json.html) обновлен - добавлена информация про конвертацию типов данных Python в JSON и наоборот
 
 ### Добавлены подразделы
 
-* [Итераторы и comprehentions](https://natenka.gitbooks.io/pyneng/content/book/16_additional_info/iterator_generator/)
+* [Итераторы и comprehensions](https://natenka.gitbooks.io/pyneng/content/book/16_additional_info/iterator_generator/)
 * [Основы Git и GitHub](https://natenka.gitbooks.io/pyneng/content/book/01_intro/git-github/)
 * [Распаковка переменных](https://natenka.gitbooks.io/pyneng/content/book/16_additional_info/variable_unpacking.html)
 * [concurrent.futures](https://natenka.gitbooks.io/pyneng/content/book/12_ssh_telnet/concurrent_futures/)
@@ -65,8 +71,8 @@ tags:
 * Примеры и упражнения вынесены в отдельный [репозиторий](https://github.com/natenka/pyneng-examples-exercises)
 * Для всех тем есть [презентации](https://github.com/natenka/pyneng-slides)
 * Для некоторых тем есть [тесты](https://github.com/natenka/pyneng-examples-exercises/blob/master/tests.md)
-* Подготовлены [виртуалки для Python 3.6](https://natenka.gitbooks.io/pyneng/content/book/01_intro/)
-* Добавлен раздел [Продолжение обучения](https://natenka.gitbooks.io/pyneng/content/resources/)
+* Подготовлены [виртуалки для Python 3.6](https://natenka.gitbooks.io/pyneng/content/book/01_intro/) - кроме того, перечислены пару вариантов облачных сервисов
+* Добавлен раздел [Продолжение обучения](https://natenka.gitbooks.io/pyneng/content/resources/) - в этом разделе перечислены ресурсы по которым можно продолжать обучение.
 
 ## Статистика
 
@@ -87,6 +93,7 @@ tags:
 
 Задача книги помочь в освоении основ Python.
 Примеры показаны на сетевых задачах, чтобы помочь разобраться, лучше усвоить информацию и на понятных практических примерах разобраться с Python.
+
 
 
 ## Книга для Python 2.7
