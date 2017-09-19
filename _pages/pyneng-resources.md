@@ -126,6 +126,7 @@ Ivan Pepelnjak:
 
 ## Другие подборки ресурсов по Python для сетевых инженеров
 
+* [Awesome Network Automation](https://github.com/itdependsnetworks/awesome-network-automation)
 * [Python for Network Engineers Resources](https://kontrolissues.net/python-for-network-engineers-resources/)
 * [Awesome Network Programmability](https://github.com/cisco-ie/awesome-network-programmability)
 
