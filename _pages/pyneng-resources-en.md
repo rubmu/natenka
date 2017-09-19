@@ -122,6 +122,7 @@ Sofware Gone Wild:
 
 ## Python for Network Engineers Resources
 
+* [Awesome Network Automation](https://github.com/itdependsnetworks/awesome-network-automation)
 * [Python for Network Engineers Resources](https://kontrolissues.net/python-for-network-engineers-resources/)
 * [Awesome Network Programmability](https://github.com/cisco-ie/awesome-network-programmability)
 
