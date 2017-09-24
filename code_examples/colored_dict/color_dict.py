@@ -1,6 +1,7 @@
 from colorama import Fore, init
 
-
+#Эти две строки не надо вносить внутрь функции,
+#так как в таком случае код жутко тормозит
 init(autoreset=True)
 colors = [Fore.RED, Fore.GREEN, Fore.YELLOW, Fore.CYAN, Fore.MAGENTA, Fore.BLUE]
 
