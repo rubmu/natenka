@@ -35,3 +35,14 @@ london_co = {
     }
 }
 
+
+[{'gather_facts': False,
+  'hosts': 'cisco-routers',
+  'name': 'Run show commands on routers',
+  'tasks': [{'name': 'run sh ip int br', 'raw': 'sh ip int br | ex unass'},
+            {'name': 'run sh ip route', 'raw': 'sh ip route'}]},
+ {'gather_facts': False,
+  'hosts': 'cisco-switches',
+  'name': 'Run show commands on switches',
+  'tasks': [{'name': 'run sh int status', 'raw': 'sh int status'},
+            {'name': 'run sh vlan', 'raw': 'show vlan'}]}]
