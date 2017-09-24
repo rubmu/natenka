@@ -36,7 +36,7 @@ london_co = {
 }
 
 
-[{'gather_facts': False,
+playbook = [{'gather_facts': False,
   'hosts': 'cisco-routers',
   'name': 'Run show commands on routers',
   'tasks': [{'name': 'run sh ip int br', 'raw': 'sh ip int br | ex unass'},
