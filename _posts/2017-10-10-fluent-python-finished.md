@@ -59,6 +59,9 @@ category:
 
 > Although calling a function is not different than calling a class, it’s good to know which is which because of another thing we can do with a class: subclassing. So I personally use CamelCase in every class that I code, and I wish all classes in the Python standard library used the same convention. I am looking at you, collections.OrderedDict and collections.defaultdict 
 
+Конечно, есть разделы которые чуть менее понятны или менее подробно описаны.
+Но учитывая то, насколько хорошо описано остальное, это не так уж существенно.
+Скажем так, 98% книги написаны просто отлично, а оставшиеся 2% скорее всего, просто я не очень поняла.
 
 ### Как читать
 
