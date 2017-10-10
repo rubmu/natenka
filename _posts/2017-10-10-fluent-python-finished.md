@@ -9,13 +9,11 @@ category:
  - python
 ---
 
-<img align="right" src="https://covers.oreillystatic.com/images/0636920032519/lrg.jpg" width="200">
-
 Закончила читать книгу "Fluent Python".
 Отличная книга для среднего уровня знаний.
 Подойдет тем, кто хорошо знает основы Python и хочет углубить свои знания.
 
-"Fluent Python" ориентирована на тех, у кого уже есть опыт программирования на Python.
+<img align="right" src="https://covers.oreillystatic.com/images/0636920032519/lrg.jpg" width="200">
 
 
 Ссылки:
