@@ -19,18 +19,18 @@ category:
 
 ### План по книгам
 
-| Месяц | Clojure/FP |  Programming General | Python |
-|:-----:|---------|------------------|------------------|
-| Март | ~~[Clojure for the Brave and True (300)](http://www.braveclojure.com/)~~ | [Code Complete (900)](http://cc2e.com/)| ~~[Introduction to Computation and Programming Using Python (300)](https://mitpress.mit.edu/books/introduction-computation-and-programming-using-python-0)~~ |
-| Апрель | [Clojure Programming (600)](http://shop.oreilly.com/product/0636920013754.do) | [Code Complete (900)](http://cc2e.com/) | ~~[Python 201 (250)](https://leanpub.com/python201)~~<br>[Python for Data Analysis (470)](http://shop.oreilly.com/product/0636920023784.do) |
-| Май | [The Joy of Clojure (500)](https://www.manning.com/books/the-joy-of-clojure-second-edition) | [Clean Code (460)](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) | [The Hitchhiker's Guide to Python (320)](http://docs.python-guide.org/en/latest/) |
-| Июнь | - | - | - |
-| Июль | [Functional Programming Patterns in Scala and Clojure (250)](https://pragprog.com/book/mbfpp/functional-programming-patterns-in-scala-and-clojure) | [Clean Coder (240)](https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073)<br>[SICP (600)](https://mitpress.mit.edu/sicp/full-text/book/book.html) | ~~[Fluent Python (750)](http://shop.oreilly.com/product/0636920032519.do)~~ |
-| Август | [Practical Common Lisp (500)](http://www.apress.com/us/book/9781590592397) | [Introduction to Algorithms (1300)](https://mitpress.mit.edu/books/introduction-algorithms) | [Python Machine Learning (460)](https://www.packtpub.com/big-data-and-business-intelligence/python-machine-learning) |
-| Сентябрь | [Mastering Clojure Macros (100)](https://pragprog.com/book/cjclojure/mastering-clojure-macros) |[Introduction to Algorithms (1300)](https://mitpress.mit.edu/books/introduction-algorithms) | [Deep learning (780)](http://www.deeplearningbook.org/) |
-| Октябрь | [On Lisp (420)](http://www.paulgraham.com/onlisp.html) | [Code: The Hidden Language of Computer Hardware and Software (400)](https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319) | [Deep learning (780)](http://www.deeplearningbook.org/) |
-| Ноябрь | [Seven Languages in Seven Weeks (300)](https://pragprog.com/book/btlang/seven-languages-in-seven-weeks) | [UNIX and Linux System Administration Handbook](https://www.amazon.com/UNIX-Linux-System-Administration-Handbook/dp/0131480057) | - |
-| Декабрь | - | - | - |
+| Clojure/FP |  Programming General | Python |
+|---------|------------------|------------------|
+| ~~[Clojure for the Brave and True (300)](http://www.braveclojure.com/)~~ | [Code Complete (900)](http://cc2e.com/)| ~~[Introduction to Computation and Programming Using Python (300)](https://mitpress.mit.edu/books/introduction-computation-and-programming-using-python-0)~~ |
+| [Clojure Programming (600)](http://shop.oreilly.com/product/0636920013754.do) | [Code Complete (900)](http://cc2e.com/) | ~~[Python 201 (250)](https://leanpub.com/python201)~~<br>[Python for Data Analysis (470)](http://shop.oreilly.com/product/0636920023784.do) |
+| [The Joy of Clojure (500)](https://www.manning.com/books/the-joy-of-clojure-second-edition) | [Clean Code (460)](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) | [The Hitchhiker's Guide to Python (320)](http://docs.python-guide.org/en/latest/) |
+| - | Pro Git (574) | - |
+| [Functional Programming Patterns in Scala and Clojure (250)](https://pragprog.com/book/mbfpp/functional-programming-patterns-in-scala-and-clojure) | [Clean Coder (240)](https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073)<br>[SICP (600)](https://mitpress.mit.edu/sicp/full-text/book/book.html) | ~~[Fluent Python (750)](http://shop.oreilly.com/product/0636920032519.do)~~ |
+| [Practical Common Lisp (500)](http://www.apress.com/us/book/9781590592397) | [Introduction to Algorithms (1300)](https://mitpress.mit.edu/books/introduction-algorithms) | [Python Machine Learning (460)](https://www.packtpub.com/big-data-and-business-intelligence/python-machine-learning) |
+| [Mastering Clojure Macros (100)](https://pragprog.com/book/cjclojure/mastering-clojure-macros) |[Introduction to Algorithms (1300)](https://mitpress.mit.edu/books/introduction-algorithms) | [Deep learning (780)](http://www.deeplearningbook.org/) |
+| [On Lisp (420)](http://www.paulgraham.com/onlisp.html) | [Code: The Hidden Language of Computer Hardware and Software (400)](https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319) | [Deep learning (780)](http://www.deeplearningbook.org/) |
+| [Seven Languages in Seven Weeks (300)](https://pragprog.com/book/btlang/seven-languages-in-seven-weeks) | [UNIX and Linux System Administration Handbook](https://www.amazon.com/UNIX-Linux-System-Administration-Handbook/dp/0131480057) | - |
+| - | - | - |
 
 > В скобках написано количество страниц.
 
