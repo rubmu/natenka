@@ -1,6 +1,6 @@
 ---
 permalink: /todo-talks/
-title: "ToDo Talks"
+title: "Выступления, которые я хочу посмотреть"
 comments: true
 share: true
 category:

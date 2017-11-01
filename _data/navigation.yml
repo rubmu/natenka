@@ -4,9 +4,9 @@ main:
     url: /blog/
   - title: "Мои проекты"
     url: /projects/
-  - title: "To Read 2017"
+  - title: "To Read"
     url: /to-read-2017/
-  - title: "ToDo Talks"
+  - title: "ToSee Talks"
     url: /todo-talks/
   - title: "About"
     url: /about/
