@@ -34,7 +34,7 @@ layout: default
       <section class="page__content" itemprop="text">
         {{ content | replace: '<li>[ ]', 
         '<li class="box task-list-item">
-            <input type="checkbox" id="checkbox-1-1" class="regular-checkbox" /> | 
+            <input type="checkbox" id="checkbox-1-1" class="regular-checkbox" />' | 
     replace: '<li>[x]', 
         '<li class="box_done task-list-item">
         <input type="checkbox" class="task-list-item-checkbox" value="on" disabled checked>'  }}
