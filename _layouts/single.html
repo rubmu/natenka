@@ -33,11 +33,9 @@ layout: default
 
       <section class="page__content" itemprop="text">
         {{ content | replace: '<li>[ ]', 
-        '<li class="box task-list-item">
-            <div><input type="checkbox" id="checkbox-1-1" class="regular-checkbox" /><label for="checkbox-1-1"></label></div>' | 
+        '<input type="checkbox" id="checkbox-1-1" class="regular-checkbox" /><label for="checkbox-1-1"></label>' | 
     replace: '<li>[x]', 
-        '<li class="box_done task-list-item">
-            <div><input type="checkbox" id="checkbox-1-1" class="regular-checkbox" /></div>'  }}
+        '<input type="checkbox" id="checkbox-1-1" class="regular-checkbox" /><label for="checkbox-1-1"></label>'  }}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
 
