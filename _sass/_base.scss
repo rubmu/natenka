@@ -316,7 +316,6 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
-        "base",
         "layout",
         "syntax-highlighting",
         "custom-styles" // add this line
