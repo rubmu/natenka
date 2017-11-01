@@ -314,7 +314,3 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
   transition: $global-transition;
 }
 
-// Import partials from `sass_dir` (defaults to `_sass`)
-@import
-        "custom-styles" // add this line
-;
