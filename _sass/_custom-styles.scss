@@ -13,3 +13,11 @@
 .task-list-item+.task-list-item {
   margin-top: 3px;
 }
+
+.ballot_box_with_check:before {
+  content: "\2611\ ";
+}
+
+.ballot_box:before {
+  content: "\2610\ ";
+}
