@@ -6,6 +6,8 @@ main:
     url: /projects/
   - title: "To Read 2017"
     url: /to-read-2017/
+  - title: "ToDo Talks"
+    url: /todo-talks/
   - title: "About"
     url: /about/
   # - title: "Sample Posts"
