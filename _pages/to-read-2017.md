@@ -7,6 +7,7 @@ category:
  - books
 ---
 
+## IT книги
 
 На 2017 у меня запланировано прочесть довольно много технических книг.
 Пост будет дополнительной мотивацией не бросить эту затею.
@@ -50,3 +51,10 @@ category:
 Отложила на будущее:
 
 * [Code Complete (900)](http://cc2e.com/)
+
+
+## Развитие
+
+Прочитала:
+
+* [Mindset: How You Can Fulfil Your Potential](https://www.amazon.com/gp/product/B005RZB65Q/ref=x_gr_w_bb?ie=UTF8&tag=x_gr_w_bb-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B005RZB65Q&SubscriptionId=1MGPYB6YW3HWK55XCGG2)
