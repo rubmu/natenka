@@ -22,7 +22,7 @@ category:
 
 | Clojure/FP |  Programming General | Python |
 |---------|------------------|------------------|
-| ~~[Clojure for the Brave and True (300)](http://www.braveclojure.com/)~~ | [Pro Git (574)](https://git-scm.com/book/en/v2) | ~~[Introduction to Computation and Programming Using Python (300)](https://mitpress.mit.edu/books/introduction-computation-and-programming-using-python-0)~~ |
+| ~~[Clojure for the Brave and True (300)](http://www.braveclojure.com/)~~ | ~~[Pro Git (574)](https://git-scm.com/book/en/v2)~~ | ~~[Introduction to Computation and Programming Using Python (300)](https://mitpress.mit.edu/books/introduction-computation-and-programming-using-python-0)~~ |
 | [Clojure Programming (600)](http://shop.oreilly.com/product/0636920013754.do) | - | ~~[Python 201 (250)](https://leanpub.com/python201)~~|
 | [The Joy of Clojure (500)](https://www.manning.com/books/the-joy-of-clojure-second-edition) | [Clean Code (460)](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) | ~~[Fluent Python (750)](http://shop.oreilly.com/product/0636920032519.do)~~  |
 | - | [Clean Coder (240)](https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073) | ~~[The Hitchhiker's Guide to Python (120)](http://docs.python-guide.org/en/latest/)~~ |
