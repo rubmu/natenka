@@ -6,12 +6,9 @@ share: true
 ---
 
 
-## Группа набрана
-## В 2017 году повторение курса не планируется
-
 ## Когда
 
-Ближайший курс стартует 9.09.17 и идет до 12.11.17.
+Ближайший курс стартует 13.01.18 и идет до 14.04.18.
 
 > Обратите внимание, что материалы курса доступны бесплатно на [GitBook](https://www.gitbook.com/book/natenka/pyneng/details)
 
@@ -52,111 +49,125 @@ share: true
  <tr>
     <td align="center">-</td>
     <td align="center">-</td>
-    <td align="center">26.08.17</td>
+    <td align="center">13.01.18</td>
     <td>Предварительная встреча: О курсе (2ч)</td>
     <td align="center">-</td>
  </tr>
  <tr>
     <td align="center">-</td>
     <td align="center">-</td>
-    <td align="center">02.09.17</td>
+    <td align="center">20.01.18</td>
     <td>Предварительная встреча: Инструменты (2ч)</td>
     <td align="center">-</td>
  </tr>
  <tr>
     <td rowspan="2" align="center">1</td>
     <td align="center">1</td>
-    <td align="center">09.09.17</td>
+    <td align="center">27.01.18</td>
     <td>Основы. Типы данных в Python (4ч)</td>
     <td align="center">7</td>
  </tr>
  <tr>
     <td align="center">2</td>
-    <td align="center">10.09.17</td>
+    <td align="center">28.01.18</td>
     <td>Типы данных в Python (3ч)</td>
     <td align="center">12</td>
  </tr>
  <tr>
     <td align="center">2</td>
     <td align="center">3</td>
-    <td align="center">16.09.17</td>
+    <td align="center">03.02.18</td>
     <td>Управление ходом программы. Работа с файлами (4ч)</td>
     <td align="center">13</td>
  </tr>
  <tr>
     <td rowspan="2" align="center">3</td>
     <td align="center">4</td>
-    <td align="center">23.09.17</td>
+    <td align="center">10.02.18</td>
     <td>Функции (4ч)</td>
     <td align="center">9</td>
  </tr>
  <tr>
     <td align="center">5</td>
-    <td align="center">24.09.17</td>
+    <td align="center">11.02.18</td>
     <td>Модули (2ч)</td>
     <td align="center">4</td>
  </tr>
  <tr>
-    <td align="center">4</td>
+    <td rowspan="2" align="center">4</td>
     <td align="center">6</td>
-    <td align="center">30.09.17</td>
-    <td>Регулярные выражения (4ч)</td>
-    <td align="center">10</td>
+    <td align="center">17.02.18</td>
+    <td>Регулярные выражения (3ч)</td>
+    <td align="center">-</td>
  </tr>
  <tr>
-    <td align="center">5</td>
     <td align="center">7</td>
-    <td align="center">07.10.17</td>
+    <td align="center">18.02.18</td>
+    <td>Регулярные выражения (3ч)</td>
+    <td align="center">10</td>
+ </tr>
+
+ <tr>
+    <td align="center">5</td>
+    <td align="center">8</td>
+    <td align="center">24.02.18</td>
     <td>Unicode (2ч)</td>
     <td align="center">-</td>
  </tr>
  <tr>
     <td align="center">6</td>
-    <td align="center">8</td>
-    <td align="center">14.10.17</td>
+    <td align="center">9</td>
+    <td align="center">03.03.18</td>
     <td>Обработка данных в форматах YAML, JSON, CSV (3ч)</td>
     <td align="center">6</td>
  </tr>
  <tr>
     <td align="center">7</td>
-    <td align="center">9</td>
-    <td align="center">21.10.17</td>
+    <td align="center">10</td>
+    <td align="center">10.03.18</td>
     <td>Работа с базами данных на примере SQL (SQLite) (4ч)</td>
     <td align="center">9</td>
  </tr>
  <tr>
     <td align="center">8</td>
-    <td align="center">10</td>
-    <td align="center">28.10.17</td>
-    <td>Подключение к сетевым устройствам (Telnet, SSH). Параллельное подключение к устройствам (4ч)</td>
     <td align="center">11</td>
+    <td align="center">17.03.18</td>
+    <td>Подключение к сетевым устройствам (Telnet, SSH). Параллельное подключение к устройствам (4ч)</td>
+    <td align="center">14</td>
  </tr>
  <tr>
     <td rowspan="2" align="center">9</td>
-    <td align="center">11</td>
-    <td align="center">04.11.17</td>
+    <td align="center">12</td>
+    <td align="center">24.03.18</td>
     <td>Создание шаблонов конфигураций с помощью Jinja2 (2ч)</td>
     <td align="center">10</td>
  </tr>
  <tr>
-    <td align="center">12</td>
-    <td align="center">05.11.17</td>
+    <td align="center">13</td>
+    <td align="center">25.03.18</td>
     <td>Обработка неструктурированного вывода команд с помощью TextFSM (2ч)</td>
     <td align="center">8</td>
  </tr>
  <tr>
     <td rowspan="2" align="center">10</td>
-    <td align="center">13</td>
-    <td align="center">11.11.17</td>
+    <td align="center">14</td>
+    <td align="center">31.03.18</td>
     <td>Основы Ansible (4ч)</td>
     <td align="center">-</td>
  </tr>
  <tr>
     <td align="center">14</td>
-    <td align="center">12.11.17</td>
+    <td align="center">01.04.18</td>
     <td>Ansible для сетевого оборудования (3ч)</td>
     <td align="center">12</td>
  </tr> 
+ <tr>
+    <td align="center">11</td>
+    <td align="center">15</td>
+    <td align="center">07.04.18</td>
+    <td>Завершающая встреча (2ч)</td>
+    <td align="center">-</td>
+ </tr>
 </table>
 
 
@@ -173,24 +184,18 @@ share: true
 После лекций нужно будет выполнять задания.
 Их в курсе достаточно много и они очень важны для выявления непонятных моментов и для того, чтобы информация лучше усваивалась и запоминалась.
 
+После выполнения заданий вы получаете варианты решений.
+Они помогут посмотреть на другие подходы к решению.
+
 Лучше выделить на задания хотя бы 1-2 часа в день.
 А на выходных 2-4 часа.
 
 То есть, как минимум, выделять в неделю 10-15 часов для выполнения заданий.
 
-### Проверка заданий
-
-Для каждой темы вы получаете домашние задания.
-После выполнения, задания присылаются на проверку.
-Я их не только проверяю на выполнение поставленной задачи, но и комментирую код, и пишу примеры, как можно было сделать задание по-другому.
-
-Таким образом мы общаемся два месяца.
-Я вижу, по выполнению заданий, что было непонятно.
-И эти темы мы можем повторить или разобрать в следующий раз.
 
 ## Стоимость курса
 
-Стоимость курса: 150$
+Стоимость курса: 250$
 
 ## Необходимая подготовка
 
@@ -203,6 +208,6 @@ share: true
 ## Как записаться на курс
 
 Для записи на курс, напишите мне письмо на адрес: nataliya.samoylenko @ gmail.com.
-
+В письме достаточно указать имя, фамилию и сказать, что вы хотите записаться на курс.
 
 
