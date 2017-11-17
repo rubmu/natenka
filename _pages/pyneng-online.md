@@ -233,5 +233,5 @@ share: true
 
 Несколько отзывов есть в [книге](https://natenka.gitbooks.io/pyneng/content/testimonials.html).
 
-Кроме того, вы можете задать любые вопросы по курсу в [slack сообществе PyNEng](https://pyneng-slack.herokuapp.com/).
+Кроме того, вы можете задать любые вопросы по курсу непосредственно слушателям в [slack сообществе PyNEng](https://pyneng-slack.herokuapp.com/).
 
