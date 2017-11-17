@@ -47,21 +47,21 @@ share: true
     <th align="center">Кол-во заданий</th>
  </tr>
  <tr>
-    <td align="center">-</td>
-    <td align="center">-</td>
+    <td align="center">1</td>
+    <td align="center">1</td>
     <td align="center">13.01.18</td>
     <td>Предварительная встреча: О курсе (2ч)</td>
     <td align="center">-</td>
  </tr>
  <tr>
-    <td align="center">-</td>
-    <td align="center">-</td>
+    <td align="center">2</td>
+    <td align="center">2</td>
     <td align="center">20.01.18</td>
     <td>Предварительная встреча: Инструменты (2ч)</td>
     <td align="center">-</td>
  </tr>
  <tr>
-    <td rowspan="2" align="center">1</td>
+    <td rowspan="2" align="center">3</td>
     <td align="center">1</td>
     <td align="center">27.01.18</td>
     <td>Основы. Типы данных в Python (4ч)</td>
@@ -74,14 +74,14 @@ share: true
     <td align="center">12</td>
  </tr>
  <tr>
-    <td align="center">2</td>
+    <td align="center">4</td>
     <td align="center">3</td>
     <td align="center">03.02.18</td>
     <td>Управление ходом программы. Работа с файлами (4ч)</td>
     <td align="center">13</td>
  </tr>
  <tr>
-    <td rowspan="2" align="center">3</td>
+    <td rowspan="2" align="center">5</td>
     <td align="center">4</td>
     <td align="center">10.02.18</td>
     <td>Функции (4ч)</td>
@@ -94,7 +94,7 @@ share: true
     <td align="center">4</td>
  </tr>
  <tr>
-    <td rowspan="2" align="center">4</td>
+    <td rowspan="2" align="center">6</td>
     <td align="center">6</td>
     <td align="center">17.02.18</td>
     <td>Регулярные выражения (3ч)</td>
@@ -108,35 +108,35 @@ share: true
  </tr>
 
  <tr>
-    <td align="center">5</td>
+    <td align="center">7</td>
     <td align="center">8</td>
     <td align="center">24.02.18</td>
     <td>Unicode (2ч)</td>
     <td align="center">-</td>
  </tr>
  <tr>
-    <td align="center">6</td>
+    <td align="center">8</td>
     <td align="center">9</td>
     <td align="center">03.03.18</td>
     <td>Обработка данных в форматах YAML, JSON, CSV (3ч)</td>
     <td align="center">6</td>
  </tr>
  <tr>
-    <td align="center">7</td>
+    <td align="center">9</td>
     <td align="center">10</td>
     <td align="center">10.03.18</td>
     <td>Работа с базами данных на примере SQL (SQLite) (4ч)</td>
     <td align="center">9</td>
  </tr>
  <tr>
-    <td align="center">8</td>
+    <td align="center">10</td>
     <td align="center">11</td>
     <td align="center">17.03.18</td>
     <td>Подключение к сетевым устройствам (Telnet, SSH). Параллельное подключение к устройствам (4ч)</td>
     <td align="center">14</td>
  </tr>
  <tr>
-    <td rowspan="2" align="center">9</td>
+    <td rowspan="2" align="center">11</td>
     <td align="center">12</td>
     <td align="center">24.03.18</td>
     <td>Создание шаблонов конфигураций с помощью Jinja2 (2ч)</td>
@@ -149,7 +149,7 @@ share: true
     <td align="center">8</td>
  </tr>
  <tr>
-    <td rowspan="2" align="center">10</td>
+    <td rowspan="2" align="center">12</td>
     <td align="center">14</td>
     <td align="center">31.03.18</td>
     <td>Основы Ansible (4ч)</td>
@@ -162,7 +162,7 @@ share: true
     <td align="center">12</td>
  </tr> 
  <tr>
-    <td align="center">11</td>
+    <td align="center">13</td>
     <td align="center">15</td>
     <td align="center">07.04.18</td>
     <td>Завершающая встреча (2ч)</td>
@@ -172,7 +172,7 @@ share: true
 
 
 
-Курс специально растянут на 10 недель:
+Курс специально растянут на 13 недель:
 
 * для того, чтобы материал усвоился
 * для того, чтобы вы успели сделать домашнее задание за неделю и не только послушать сказки, но действительно что-то сделать руками
