@@ -4,6 +4,8 @@ main:
     url: /blog/
   - title: "Мои проекты"
     url: /projects/
+  - title: "PyNEng online"
+    url: /pyneng-online/
   - title: "To Read"
     url: /to-read-2017/
   - title: "ToSee Talks"
