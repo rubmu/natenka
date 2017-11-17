@@ -6,10 +6,6 @@ main:
     url: /projects/
   - title: "PyNEng online"
     url: /pyneng-online/
-  - title: "To Read"
-    url: /to-read-2017/
-  - title: "ToSee Talks"
-    url: /todo-talks/
   - title: "About"
     url: /about/
   # - title: "Sample Posts"
