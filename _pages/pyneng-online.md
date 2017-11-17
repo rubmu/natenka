@@ -16,7 +16,7 @@ share: true
 Коротко о курсе:
 
 * 13 недель
-* 18 лекций
+* 19 лекций
 * 53 часа лекций
 * 114 заданий
 
@@ -45,7 +45,7 @@ share: true
 
 ## Расписание курса
 
-Всего в курсе 18 дней лекций. Каждый день это 2-4 часа занятий с 7:00 до 9:00-11:00 UTC.
+Всего в курсе 19 лекций. Каждая лекция это 2-4 часа занятий с 7:00 до 9:00-11:00 UTC.
 
 
 <table border="1" cellpadding="4" cellspacing="0">
@@ -139,41 +139,47 @@ share: true
     <td align="center">9</td>
  </tr>
  <tr>
-    <td align="center">10</td>
+    <td rowspan="2" align="center">10</td>
     <td align="center">13</td>
     <td align="center">17.03.18</td>
-    <td>Подключение к сетевым устройствам (Telnet, SSH). Параллельное подключение к устройствам (4ч)</td>
+    <td>Подключение к сетевым устройствам (Telnet, SSH) (2ч)</td>
+    <td align="center">10</td>
+ </tr>
+ <tr>
     <td align="center">14</td>
+    <td align="center">18.03.18</td>
+    <td>Параллельное подключение к оборудованию (2ч)</td>
+    <td align="center">4</td>
  </tr>
  <tr>
     <td rowspan="2" align="center">11</td>
-    <td align="center">14</td>
+    <td align="center">15</td>
     <td align="center">24.03.18</td>
     <td>Создание шаблонов конфигураций с помощью Jinja2 (2ч)</td>
     <td align="center">10</td>
  </tr>
  <tr>
-    <td align="center">15</td>
+    <td align="center">16</td>
     <td align="center">25.03.18</td>
     <td>Обработка неструктурированного вывода команд с помощью TextFSM (2ч)</td>
     <td align="center">8</td>
  </tr>
  <tr>
     <td rowspan="2" align="center">12</td>
-    <td align="center">16</td>
+    <td align="center">17</td>
     <td align="center">31.03.18</td>
     <td>Основы Ansible (4ч)</td>
     <td align="center">-</td>
  </tr>
  <tr>
-    <td align="center">17</td>
+    <td align="center">18</td>
     <td align="center">01.04.18</td>
     <td>Ansible для сетевого оборудования (3ч)</td>
     <td align="center">12</td>
  </tr> 
  <tr>
     <td align="center">13</td>
-    <td align="center">18</td>
+    <td align="center">19</td>
     <td align="center">07.04.18</td>
     <td>Завершающая встреча (2ч)</td>
     <td align="center">-</td>
