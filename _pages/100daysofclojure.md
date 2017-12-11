@@ -32,7 +32,6 @@ Clojure - это язык программирования, который я с
 * [The Joy of Clojure](https://www.manning.com/books/the-joy-of-clojure-second-edition)
 * [4Clojure](http://www.4clojure.com/)
 
-# Log
 
 ## Day 1: December 11, 2017
 
@@ -40,4 +39,4 @@ Clojure - это язык программирования, который я с
 
 Так как в книге я пока не дошла до практики, порешала базовые задачки на [4clojure](http://www.4clojure.com/problems). Решила задачи 1-17.
 
-
+Время: 1 час 30 минут (25 минут на задачки)
