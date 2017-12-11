@@ -246,6 +246,8 @@ defaults:
       comments: true
       share: true
       related: true
+      sidebar:
+        nav: "links"
   # _pages
   - scope:
       path: "_pages"
@@ -253,3 +255,14 @@ defaults:
     values:
       layout: single
       author_profile: true
+      sidebar:
+        nav: "links"
+  # _links
+  - scope:
+      path: ""
+      type: links
+    values:
+      comments: true
+      sidebar:
+        nav: "links"
+

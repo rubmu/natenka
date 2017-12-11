@@ -14,3 +14,12 @@ main:
   #   url: /collection-archive/
   #- title: "Sitemap"
   #  url: /sitemap/
+links:
+  - title: To Read
+    url: /to-read/
+  - title: ToSee talks
+    url: /todo-talks/
+  - title: 100DaysOfClojure
+    url: /100daysofclojure/
+  - title: 100DaysOfTGU
+    url: /100daysoftgu/

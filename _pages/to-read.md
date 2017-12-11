@@ -1,5 +1,5 @@
 ---
-permalink: /to-read-2017/
+permalink: /to-read/
 title: "Книжные планы"
 comments: true
 share: true
