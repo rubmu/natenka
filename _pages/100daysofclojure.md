@@ -47,4 +47,22 @@ Clojure - это язык программирования, который я с
 
 Время: 1 час книга
 
+## Day 3: December 13, 2017
+
+Продолжаю читать Joy of Clojure.
+
+Время: 1 час книга
+
+
+## Day 4: December 14, 2017
+
+Сегодня в книге был классный пример с рисованием картинок с помощью Clojure.
+Плюс первый раз получился код больше 5-10 строк :)
+[Сегодняшний прогресс](https://github.com/natenka/100-days-of-Clojure/commit/10c752ec4f99af45e88ade7007d1d0e6835d37b6)
+
+Время: 2 часа книга. Из этого час на практический пример
+
+Вот такие картинки сегодня получились:
+
+<img src="https://raw.githubusercontent.com/natenka/100-days-of-Clojure/master/learning-code/clojure_draws.png" width="400">
 
