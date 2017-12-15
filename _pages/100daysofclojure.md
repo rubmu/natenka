@@ -66,3 +66,6 @@ Clojure - это язык программирования, который я с
 
 <img src="https://raw.githubusercontent.com/natenka/100-days-of-Clojure/master/learning-code/clojure_draws.png" width="400">
 
+## Day 5: December 15, 2017
+
+Сегодня только полчаса читала Joy of Clojure.
