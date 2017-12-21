@@ -37,7 +37,7 @@ Clojure - это язык программирования, который я с
 
 Сегодня начала читать книгу [The Joy of Clojure](https://www.manning.com/books/the-joy-of-clojure-second-edition) с самого начала. Основы в целом немного улеглись, но лучше повторить. Пока прочитала первый раздел и начала второй.
 
-Так как в книге я пока не дошла до практики, порешала базовые задачки на [4clojure](http://www.4clojure.com/problems). Решила задачи 1-17.
+Так как в книге я пока не дошла до практики, порешала базовые задачки на [4clojure](http://www.4clojure.com/problems). [Решила задачи 1-17](https://github.com/natenka/100-days-of-Clojure/blob/master/4clojure-solutions/day001-problem-1-17.clj).
 
 Время: 1 час книга, 30 минут на задачки
 
@@ -95,7 +95,8 @@ Clojure - это язык программирования, который я с
 Продолжаю читать. Сегодня были: списки, persistent queue, sets.
 По множествам продолжу читать дальше о namespace clojure.set.
 
-Время: 1 час книга
+Время: 1 час книга, 30 минут на задачки
 
-[Код](https://github.com/natenka/100-days-of-Clojure/commit/0567d12892afed0ddb2ff86b3a898b064457df1a)
+[Код](https://github.com/natenka/100-days-of-Clojure/commit/0567d12892afed0ddb2ff86b3a898b064457df1a). [Решила задачки 18-21 4clojure](https://github.com/natenka/100-days-of-Clojure/blob/master/4clojure-solutions/day009-problem-18-21.clj)
+
 
