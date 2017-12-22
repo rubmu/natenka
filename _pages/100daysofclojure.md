@@ -64,7 +64,7 @@ Clojure - это язык программирования, который я с
 
 Вот такие картинки сегодня получились:
 
-<img src="https://raw.githubusercontent.com/natenka/100-days-of-Clojure/master/learning-code/day4/clojure_draws.png" width="400">
+<img src="https://raw.githubusercontent.com/natenka/100-days-of-Clojure/master/learning-code/day004/clojure_draws.png" width="400">
 
 ## Day 5: December 15, 2017
 
@@ -108,4 +108,8 @@ Clojure - это язык программирования, который я с
 
 Code: [4clojure Problems 22-23](https://github.com/natenka/100-days-of-Clojure/commit/cdc4382690987a99a9e738f5239d6707cb2dc1d6)
 
+
+Надеюсь, что к 100 дню мои ответы будут похожи на решение :)
+
+<img src="https://raw.githubusercontent.com/natenka/100-days-of-Clojure/master/learning-code/day010/my_answer-vs-solution.png" width="400">
 
