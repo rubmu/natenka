@@ -127,3 +127,7 @@ Code: [4clojure Problems 24-28](https://github.com/natenka/100-days-of-Clojure/c
 
 <img src="https://raw.githubusercontent.com/natenka/100-days-of-Clojure/master/learning-code/day011/my_answer-vs-solution.png" width="600">
 
+Текущий лог по времени:
+
+<img src="https://raw.githubusercontent.com/natenka/100-days-of-Clojure/master/learning-code/day011/100daysofclojure.png" width="700">
+
