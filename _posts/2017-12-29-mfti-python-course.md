@@ -10,7 +10,6 @@ category:
 
 В декабре завершила курс [Программирование на Python](https://www.coursera.org/learn/programming-in-python) от МФТИ и mail.ru.
 
-<img align="right" src="https://raw.githubusercontent.com/natenka/natenka.github.io/master/assets/images/coursera-mfti-python.png" width="400">
 
 ## Содержание курса
 
@@ -134,4 +133,6 @@ category:
 Впрочем, если вы уже неплохо знаете Python, в курсе также будет мало полезного.
 На основах будете скучать, а на новых темах будет ощущение недосказанности.
 
+
+<img align="center" src="https://raw.githubusercontent.com/natenka/natenka.github.io/master/assets/images/coursera-mfti-python.png" width="500">
 
