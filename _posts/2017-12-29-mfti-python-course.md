@@ -10,6 +10,8 @@ category:
 
 В декабре завершила курс [Программирование на Python](https://www.coursera.org/learn/programming-in-python) от МФТИ и mail.ru.
 
+<img align="center" src="https://www.coursera.org/account/accomplishments/certificate/8SCSGTBZHR5P" width="300">
+
 ## Содержание курса
 
 ### WEEK 1: Введение в Python
@@ -118,6 +120,7 @@ category:
 По времени на весь курс у меня ушло 12 часов. Но конечно понадобится больше времени, если вы учите Python почти с нуля.
 
 ![stats](https://raw.githubusercontent.com/natenka/natenka.github.io/master/assets/images/mfti-python-stats.png)
+
 
 ## Резюме
 
