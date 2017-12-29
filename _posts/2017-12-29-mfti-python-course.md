@@ -8,7 +8,7 @@ category:
  - learning
 ---
 
-В декабре завершила курс [Программирование на Python](https://www.coursera.org/learn/programming-in-python) от МФТИ и mail.ru.
+Сегодня завершила курс [Программирование на Python](https://www.coursera.org/learn/programming-in-python) от МФТИ и mail.ru.
 
 
 ## Содержание курса
