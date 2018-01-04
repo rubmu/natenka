@@ -6,7 +6,6 @@ share: true
 tags:
  - python
  - 100daysofpython
-category:
  - 100daysofx
 ---
 

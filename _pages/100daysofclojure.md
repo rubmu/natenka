@@ -6,7 +6,6 @@ share: true
 tags:
  - clojure
  - 100daysofclojure
-category:
  - 100daysofx
 ---
 

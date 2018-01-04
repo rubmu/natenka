@@ -6,7 +6,6 @@ share: true
 tags:
  - kettlebells
  - 100daysoffitness
-category:
  - 100daysofx
 ---
 

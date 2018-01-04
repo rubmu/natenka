@@ -6,7 +6,6 @@ share: true
 tags:
  - kettlebells
  - 100daysoftgu
-category:
  - 100daysofx
 ---
 
