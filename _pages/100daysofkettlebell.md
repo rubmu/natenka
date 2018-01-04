@@ -15,7 +15,20 @@ tags:
 
 [Simple and Sinister](https://www.strongfirst.com/shop/books/simple-sinister-paperback/) - это как раз свинги и турецкий подъем.
 
-### Day 1: 04.01.18 Simple and Sinister
+## Goals
+
+Simple goal:
+
+* Swing (24 kg): 100 one-arm swings (sum of arms) in sets of ten in 5 minutes
+* TGU (16 kg): 5 TGU per arm in sets of one in ten minutes, after swings and 1 min rest
+
+Sinister goal:
+
+* Swing (32 kg): 100 one-arm swings (sum of arms) in sets of ten in 5 minutes
+* TGU (24 kg): 5 TGU per arm in sets of one in ten minutes, after swings and 1 min rest
+
+
+## Day 1: 04.01.18 Simple and Sinister
 
 * Two hand Swing: 8 kg, 5*10
 * TGU: 8 kg, 5 each side
