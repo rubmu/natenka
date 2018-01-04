@@ -7,7 +7,7 @@ tags:
  - kettlebells
  - 100daysoftgu
 category:
- - 100daysoftgu
+ - 100daysofx
 ---
 
 Я очень люблю [турецкий подъем](https://vk.com/videos6172683?section=album_53474310&z=video6172683_169526427%2Fpl_6172683_53474310), но последний год перестала его делать.

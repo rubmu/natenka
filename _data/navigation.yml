@@ -23,5 +23,7 @@ links:
         url: /todo-talks/
       - title: 100 Days Of Clojure
         url: /100daysofclojure/
-      - title: 100 Days Of TGU
-        url: /100daysoftgu/
+      - title: 100 Days Of Python
+        url: /100daysofpython/
+      - title: 100 Days Of Kettlebells
+        url: /100daysofkettlebell/

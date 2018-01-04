@@ -7,7 +7,7 @@ tags:
  - clojure
  - 100daysofclojure
 category:
- - 100daysofclojure
+ - 100daysofx
 ---
 
 Clojure - это язык программирования, который я с переменным успехом учу.
