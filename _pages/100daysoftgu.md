@@ -75,3 +75,4 @@ tags:
 
 По времени ушло 15 минут
 
+## Решила добавить swing и перейти на [Simple and Sinister](https://natenka.github.io/100daysofkettlebell/)
