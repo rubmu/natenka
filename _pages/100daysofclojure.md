@@ -238,3 +238,12 @@ Code: [4clojure Problems 57-58](https://github.com/natenka/100-days-of-Clojure/b
 
 <img src="https://raw.githubusercontent.com/natenka/100-days-of-Clojure/master/learning-code/day022/100DaysOfClojure_R1D22.PNG" width="700">
 
+## Day 23: January 5, 2018
+
+Сегодня вернулась к курсу Haskell и больше часа решала задачку :)
+
+Время: 1:20 задача 10 в теме рекурсия.
+
+Code: [task 10](https://github.com/natenka/100-days-of-Clojure/blob/master/stepik_haskell/recursion/task10.hs)
+
+
