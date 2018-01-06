@@ -247,3 +247,13 @@ Code: [4clojure Problems 57-58](https://github.com/natenka/100-days-of-Clojure/b
 Code: [task 10](https://github.com/natenka/100-days-of-Clojure/blob/master/stepik_haskell/recursion/task10.hs)
 
 
+## Day 24: January 6, 2018
+
+Сегодня решила все же прекратить курс по Haskell.
+Задачки уходят в математику и мне не очень интересно их решать, а объяснения не сказала бы, что лучше, чем то, что я встречаю в книгах в Clojure.
+
+Возможно, позже вернусь к курсу, а пока сосредоточусь на Clojure.
+
+Время: 1 час курс "Функциональное программирование на языке Haskell"
+
+
