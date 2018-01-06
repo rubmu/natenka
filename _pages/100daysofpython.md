@@ -40,3 +40,12 @@ tags:
 
 Время: 1 час чтение
 
+## Day 3: January 6, 2018
+
+Продолжаю читать "Python Testing with pytest".
+Закончила 2 раздел и сделала задания после раздела.
+
+Время: 25 мин чтение, 40 минут код
+
+Code: [Day 3 code](https://github.com/natenka/100-days-of-Python/commit/4be114a285224d62415d0b94c0e277113ada17ee)
+
