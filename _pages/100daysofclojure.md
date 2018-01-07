@@ -257,3 +257,10 @@ Code: [task 10](https://github.com/natenka/100-days-of-Clojure/blob/master/stepi
 Время: 1 час курс "Функциональное программирование на языке Haskell"
 
 
+## Day 25: January 7, 2018
+
+Сегодня только читала. Продолжаю читать 7 раздел и прошла темы: named arguments, pre- and postconditions, closure.
+
+Время: 1:00 The Joy of Clojure
+
+
