@@ -41,3 +41,12 @@ Sinister goal:
 * Time: 36 min
 
 
+## Day 3: 07.01.18 Simple and Sinister
+
+Пропустила один день.
+Сегодня добавила подходы с 16 кг:
+
+* Two hand Swing, 8 and 16 kg: 10 (8kg), 10 (12kg), 10 (8kg), 10 (12kg), 10 (8kg)
+* TGU: 8 kg, 5 each side, 1 rep 16 kg
+* Time: 40 min
+
