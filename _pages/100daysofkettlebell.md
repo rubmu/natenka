@@ -46,7 +46,7 @@ Sinister goal:
 Пропустила один день.
 Сегодня добавила подходы с 12 кг:
 
-* Two hand Swing, 8 and 12 kg: 10 (8kg), 10 (12kg), 10 (8kg), 10 (12kg), 10 (8kg)
-* TGU: 8 kg, 5 each side, 1 rep 12 kg
+* Two hand Swing, 8 and 12 kg: 5*10 (8kg, 12kg, 8kg, 12kg, 8kg)
+* TGU: 8 kg, 5 each side (8kg, 8kg, 8kg, 12kg, 8kg)
 * Time: 40 min
 
