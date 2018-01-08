@@ -263,6 +263,9 @@ Code: [task 10](https://github.com/natenka/100-days-of-Clojure/blob/master/stepi
 
 Время: 1:00 The Joy of Clojure
 
+Я прошла четверть пути :)
+
+<img src="https://raw.githubusercontent.com/natenka/100-days-of-Clojure/master/learning-code/day025/100DaysOfClojure_R1D25.PNG" width="700">
 
 ## Day 26: January 8, 2018
 
