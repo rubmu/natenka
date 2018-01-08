@@ -17,12 +17,12 @@ tags:
 
 ## Goals
 
-Simple goal:
+Simple goal (это цель примерно на первую сотню дней):
 
 * Swing (24 kg): 100 one-arm swings (sum of arms) in sets of ten in 5 minutes
 * TGU (16 kg): 5 TGU per arm in sets of one in ten minutes, after swings and 1 min rest
 
-Sinister goal:
+Sinister goal (цель на 2018):
 
 * Swing (32 kg): 100 one-arm swings (sum of arms) in sets of ten in 5 minutes
 * TGU (24 kg): 5 TGU per arm in sets of one in ten minutes, after swings and 1 min rest
