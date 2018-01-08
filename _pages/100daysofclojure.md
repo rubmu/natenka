@@ -264,3 +264,9 @@ Code: [task 10](https://github.com/natenka/100-days-of-Clojure/blob/master/stepi
 Время: 1:00 The Joy of Clojure
 
 
+## Day 26: January 8, 2018
+
+Сегодня только читала. Продолжаю читать 7 раздел.
+
+Время: 40 минут The Joy of Clojure
+
