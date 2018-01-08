@@ -46,7 +46,14 @@ Sinister goal (цель на 2018):
 Пропустила один день.
 Сегодня добавила подходы с 12 кг:
 
-* Two hand Swing, 8 and 12 kg: 5*10 (8kg, 12kg, 8kg, 12kg, 8kg)
-* TGU: 8 kg, 5 each side (8kg, 8kg, 8kg, 12kg, 8kg)
+* Two hand Swing, 8 and 12 kg: 5*10 (8, 12, 8, 12, 8)
+* TGU: 8 kg, 5 each side (8, 8, 8, 12, 8)
+* Time: 40 min
+
+
+## Day 4: 08.01.18 Simple and Sinister
+
+* Two hand Swing, 8 and 12 kg: 5*10 (8, 8, 12, 8, 8)
+* TGU: 8 kg, 5 each side (8, 8, 12, 8, 8)
 * Time: 40 min
 
