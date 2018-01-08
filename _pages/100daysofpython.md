@@ -56,3 +56,10 @@ Code: [Day 3 code](https://github.com/natenka/100-days-of-Python/commit/4be114a2
 
 Время: 1 час чтение
 
+
+## Day 5: January 8, 2018
+
+Сделала задания по 3 разделу "Python Testing with pytest" и начала читать 4 раздел.
+
+Время: 20 мин чтение, 40 минут код
+
