@@ -71,3 +71,10 @@ Code: [Day 3 code](https://github.com/natenka/100-days-of-Python/commit/4be114a2
 Время: 2 часа код
 
 
+## Day 7: January 10, 2018
+
+Продолжаю читать "Python Testing with pytest".
+Читаю раздел по встроенным fixtures.
+
+Время: 40 мин чтение
+
