@@ -273,3 +273,12 @@ Code: [task 10](https://github.com/natenka/100-days-of-Clojure/blob/master/stepi
 
 Время: 40 минут The Joy of Clojure
 
+## Day 27: January 10, 2018
+
+Сегодня решила одну задачку.
+
+Время: 20 минут задачки 4clojure
+
+Code: [4clojure Problems 59](https://github.com/natenka/100-days-of-Clojure/blob/master/4clojure-solutions/day027-problem-59.clj)
+
+
