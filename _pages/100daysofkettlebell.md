@@ -57,3 +57,10 @@ Sinister goal (цель на 2018):
 * TGU: 8 kg, 5 each side (8, 8, 12, 8, 8)
 * Time: 40 min
 
+## Day 5: 10.01.18 Simple and Sinister
+
+* Two hand Swing, 8 and 12 kg: 5*10 (8, 8, 12, 12, 12)
+* TGU: 8 kg, 5 each side (8, 12, 8, 8, 8)
+* Time: 40 min
+
+
