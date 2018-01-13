@@ -30,6 +30,7 @@ category:
 * [Бесплатный email курс 'Python for network engineers' от Kirk Byers](https://pynet.twb-tech.com/email-signup.html)
 * [GNS3 Talks. Python Programming for Network Engineers](https://www.youtube.com/playlist?list=PLhfrWIlLOoKPn7T9FtvbOWX8GxgsFFNwn)
 * [Курсы на Cisco DevNet](https://learninglabs.cisco.com/)
+* [Network programmability basics](https://developer.cisco.com/video/net-prog-basics)
 
 ### Платные курсы
 
