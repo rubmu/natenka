@@ -281,4 +281,10 @@ Code: [task 10](https://github.com/natenka/100-days-of-Clojure/blob/master/stepi
 
 Code: [4clojure Problems 59](https://github.com/natenka/100-days-of-Clojure/blob/master/4clojure-solutions/day027-problem-59.clj)
 
+## Day 28: January 16, 2018
+
+Сегодня дочитала 7 раздел и долго мучилась с одной задачкой, но пока так и не решила.
+
+Время: 50 минут задача 4clojure, 25 минут чтение
+
 
