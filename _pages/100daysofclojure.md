@@ -288,3 +288,18 @@ Code: [4clojure Problems 59](https://github.com/natenka/100-days-of-Clojure/blob
 Время: 50 минут задача 4clojure, 25 минут чтение
 
 
+## Day 29: January 18, 2018
+
+Сегодня только читала.
+
+Время: 30 минут The Joy of Clojure
+
+
+## Day 30: January 19, 2018
+
+Сегодня решила 60 задачу и 61.
+
+Время: 1 час задачки 4clojure
+
+Code: [4clojure Problems 60-61](https://github.com/natenka/100-days-of-Clojure/blob/master/4clojure-solutions/day030-problem-60-61.clj)
+
