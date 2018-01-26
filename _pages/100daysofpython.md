@@ -161,3 +161,24 @@ Code: [Day 11 code](https://github.com/natenka/100-days-of-Python/commit/b175dd8
 Сегодня почти дочитала книгу. Остались только дополнения
 
 Время: 1 час 20 минут чтение
+
+## Day 14: January 24, 2018
+
+Дочитала книгу "Python Testing with pytest"
+
+Время: 40 минут чтение
+
+
+## Day 15: January 25, 2018
+
+Пишу тесты для заданий по ООП.
+
+Время: 1 час код
+
+
+## Day 16: January 26, 2018
+
+Сегодня читала про @classmethod, @property, @staticmethod
+
+Время: 1 час чтение
+
