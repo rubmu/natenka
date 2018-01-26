@@ -312,3 +312,11 @@ Code: [4clojure Problems 60-61](https://github.com/natenka/100-days-of-Clojure/b
 Code: [4clojure Problems 62-64](https://github.com/natenka/100-days-of-Clojure/blob/master/4clojure-solutions/day031-problem-62-64.clj)
 
 
+
+## Day 32: January 26, 2018
+
+Сегодня решила задачи 65-67.
+
+Время: 1:35 минут задачки 4clojure
+
+Code: [4clojure Problems 65-67](https://github.com/natenka/100-days-of-Clojure/blob/master/4clojure-solutions/day032-problem-65-67.clj)
