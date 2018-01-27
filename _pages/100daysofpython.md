@@ -182,3 +182,8 @@ Code: [Day 11 code](https://github.com/natenka/100-days-of-Python/commit/b175dd8
 
 Время: 1 час чтение
 
+## Day 17: January 27, 2018
+
+Продолжаю разбираться с @classmethod, @property, @staticmethod
+
+Время: 30 мин чтение
