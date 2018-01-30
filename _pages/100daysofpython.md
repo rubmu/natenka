@@ -187,3 +187,16 @@ Code: [Day 11 code](https://github.com/natenka/100-days-of-Python/commit/b175dd8
 Продолжаю разбираться с @classmethod, @property, @staticmethod
 
 Время: 30 мин чтение
+
+
+## Day 18: January 28, 2018
+
+Пишу тесты для заданий по ООП.
+
+Время: 2 часа 30 минут код
+
+## Day 19: January 29, 2018
+
+Начала читать [Flask Mega Tutorial](https://learn.miguelgrinberg.com/)
+
+Время: 1 час чтение
