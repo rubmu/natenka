@@ -75,8 +75,12 @@ Ivan Pepelnjak:
 
 * [Python для сетевых инженеров (Наташа Самойленко)](https://www.gitbook.com/book/natenka/pyneng/details)
 * [Mastering Python Networking (Eric Chou)](https://www.packtpub.com/networking-and-servers/mastering-python-networking)
-* [Network Programmability and Automation. Skills for the Next-Generation Network Engineer](http://shop.oreilly.com/product/0636920042082.do) - эта книга еще в процессе написания (дата выхода: январь 2018)
+* [Network Programmability and Automation. Skills for the Next-Generation Network Engineer](http://shop.oreilly.com/product/0636920042082.do)
 * [Network Automation at Scale](https://www.cloudflare.com/media/pdf/network-automation-at-scale.pdf)
+
+## Live Stream
+
+* [Network programmability, automation and Python. Dmitry Figol](https://www.twitch.tv/dmfigol). Записи трансляций на [YouTube-канале Димы](https://www.youtube.com/playlist?list=PLSwGHYY8t8Jhi7Q84D-0a7KXQFSUOWDqX)
 
 ## Подкасты
 
@@ -109,7 +113,6 @@ Ivan Pepelnjak:
 * [ipaddress](https://docs.python.org/3/library/ipaddress.html)
 * [Jinja2](http://jinja.pocoo.org/docs/2.9/)
 * [netmiko](https://github.com/ktbyers/netmiko)
-* [multiprocessing](https://docs.python.org/3/library/multiprocessing.html)
 * [paramiko](http://docs.paramiko.org/)
 * [pexpect](https://pexpect.readthedocs.io/en/stable/index.html)
 * [pyserial](https://pythonhosted.org/pyserial/)
@@ -117,7 +120,7 @@ Ivan Pepelnjak:
 * [subprocess](https://docs.python.org/3/library/subprocess.html)
 * [telnetlib](https://docs.python.org/3/library/telnetlib.html)
 * [TextFSM](https://github.com/google/textfsm/wiki)
-* [threading](https://docs.python.org/3/library/threading.html)
+* [concurrent.futures](https://docs.python.org/3.6/library/concurrent.futures.html)
 
 
 ## Slack
