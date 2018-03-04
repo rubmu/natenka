@@ -159,6 +159,7 @@ Ivan Pepelnjak:
 * [Problem Solving with Algorithms and Data Structures using Python](http://interactivepython.org/runestone/static/pythonds/index.html) - отличная книга по структурам данных и алгоритмам. Много примеров и домашних заданий. [На русском](http://aliev.me/runestone/)
 * [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 * [Learning Python, 5th Edition](http://shop.oreilly.com/product/0636920028154.do). Четветое издание на русском [Марк Лутц. Изучаем python](https://www.ozon.ru/context/detail/id/5730448/)
+* [Python Tricks](https://www.amazon.com/Python-Tricks-Buffet-Awesome-Features-ebook/dp/B0785Q7GSY) - отличный вариант для 2-3 книги по Python
 
 Сайты с задачами:
 
