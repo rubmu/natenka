@@ -129,7 +129,13 @@ Ivan Pepelnjak:
 * [PyNEng](https://pyneng-slack.herokuapp.com/) - русскоязычное сообщество по тем же темам
 
 
-## Другие подборки ресурсов по Python для сетевых инженеров
+## Подборки ресурсов
+
+Python без привязки к сетевому оборудованию:
+
+* [Awesome Python](https://github.com/vinta/awesome-python)
+
+Python для сетевых инженеров:
 
 * [Awesome Network Automation](https://github.com/itdependsnetworks/awesome-network-automation)
 * [Python for Network Engineers Resources](https://kontrolissues.net/python-for-network-engineers-resources/)
@@ -157,7 +163,7 @@ Ivan Pepelnjak:
 * [A Byte of Python](https://www.gitbook.com/book/swaroopch/byte-of-python/details) - книга по основам Python. [На русском](http://wombat.org.ua/AByteOfPython/toc.html)
 * [Dive Into Python 3](http://www.diveintopython3.net/index.html)
 * [Problem Solving with Algorithms and Data Structures using Python](http://interactivepython.org/runestone/static/pythonds/index.html) - отличная книга по структурам данных и алгоритмам. Много примеров и домашних заданий. [На русском](http://aliev.me/runestone/)
-* [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+* [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/). [На русском](https://www.ozon.ru/context/detail/id/137673590/)
 * [Learning Python, 5th Edition](http://shop.oreilly.com/product/0636920028154.do). Четветое издание на русском [Марк Лутц. Изучаем python](https://www.ozon.ru/context/detail/id/5730448/)
 * [Python Tricks](https://www.amazon.com/Python-Tricks-Buffet-Awesome-Features-ebook/dp/B0785Q7GSY) - отличный вариант для 2-3 книги по Python
 
