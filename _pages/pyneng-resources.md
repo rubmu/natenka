@@ -163,7 +163,6 @@ Ivan Pepelnjak:
 
 Сайты с задачами:
 
-* [CodeEval](https://www.codeeval.com)
 * [HackerRank](https://www.hackerrank.com/)
 * [CheckIO - online game for Python and JavaScript coders](https://checkio.org/)
 
