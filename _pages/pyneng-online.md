@@ -18,7 +18,7 @@ share: true
 * 18 недель
 * 24 лекции (все лекции проводятся в выходные)
 * 70 часов лекций
-* 114 заданий
+* 140 заданий
 * Python 3.6
 
 Курс проходит в формате вебинара:
@@ -144,7 +144,7 @@ share: true
  <tr>
     <td align="center">10</td>
     <td align="center">-</td>
-    <td align="center">18-19.08.18</td>
+    <td align="center">18.08.18</td>
     <td>-</td>
     <td align="center">-</td>
  </tr> 
@@ -153,7 +153,7 @@ share: true
     <td align="center">13</td>
     <td align="center">26.08.18</td>
     <td>Python Package (3ч)</td>
-    <td align="center">9</td>
+    <td align="center">-</td>
  </tr>
  <tr>
     <td rowspan="2" align="center">12</td>
@@ -205,21 +205,21 @@ share: true
     <td rowspan="2" align="center">16</td>
     <td align="center">21</td>
     <td align="center">29.09.18</td>
-    <td>Основы ООП (3ч)</td>
-    <td align="center">-</td>
+    <td> ООП. Основы (3ч)</td>
+    <td align="center">10</td>
  </tr>
  <tr>
     <td align="center">22</td>
     <td align="center">30.09.18</td>
     <td>ООП. Специальные методы (2ч)</td>
-    <td align="center">-</td>
+    <td align="center">5</td>
  </tr> 
  <tr>
     <td align="center">17</td>
     <td align="center">23</td>
     <td align="center">06.04.18</td>
     <td>ООП. Наследование (3ч)</td>
-    <td align="center">-</td>
+    <td align="center">7</td>
  </tr> 
  <tr>
     <td align="center">18</td>
@@ -246,10 +246,6 @@ share: true
 Для каждой темы вы получаете домашние задания.
 После выполнения, задания присылаются на проверку.
 Я проверяю задания с точки зрения выполнения поставленной задачи, а также показываю другие варианты решения.
-
-Таким образом мы общаемся два месяца.
-Я вижу, по выполнению заданий, что было непонятно.
-И эти темы мы можем повторить или разобрать в следующий раз.
 
 ## Вопросы
 
