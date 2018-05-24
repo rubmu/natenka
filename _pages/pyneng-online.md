@@ -217,7 +217,7 @@ share: true
  <tr>
     <td align="center">17</td>
     <td align="center">23</td>
-    <td align="center">06.04.18</td>
+    <td align="center">06.10.18</td>
     <td>ООП. Наследование (3ч)</td>
     <td align="center">7</td>
  </tr> 
