@@ -48,6 +48,6 @@ tags:
 В целом всё уже работает, но ещё остается добавить интерфейс в cli с argparse или click. Пока что склоняюсь к click, так как его я знаю намного хуже.
 
 Пример выполнения скрипта (записан с помощью [termtosvg](https://github.com/nbedos/termtosvg)):
-<img src="https://raw.githubusercontent.com/natenka/100-days-of-Python/master/talkpython-100-days/day002/pomodoro_timer_run_animation.svg" width="400">
+<img src="https://cdn.rawgit.com/natenka/100-days-of-Python/7fd02998/talkpython-100-days/day002/pomodoro_timer_run_animation.svg" width="400">
 
 Время: 1 час 30 минут код
