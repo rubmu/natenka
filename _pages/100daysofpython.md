@@ -33,7 +33,7 @@ tags:
 * 2 день - задачки и практика
 * 3 день - продолжение практики
 
-За сегодня я посмотрела видео первого дня, сделала задачки за второй день и начала задачку из третьего.
+За сегодня я посмотрела видео первого дня, сделала [задачки за второй день и начала задачку из третьего](https://github.com/talkpython/100daysofcode-with-python-course/tree/master/days/01-03-datetimes).
 Начала делать свой pomodoro timer и пока сделала [костяк скрипта](https://github.com/natenka/100-days-of-Python/blob/master/talkpython-100-days/day001/pomodoro_timer.py), а завтра уже буду добавлять реальную работу. Если успею, завтра также добавлю интерфейс для вызова скрипта в командной строке, но пока не решила делать его с argparse (его я знаю и будет проще) или с click (пробовала только пару раз).
 
 Время:
@@ -43,3 +43,12 @@ tags:
 
 ## Day 2: July 31, 2018
 
+Сегодня продолжаю работать над таймером pomodoro. Он уже [вполне рабочий](https://github.com/natenka/100-days-of-Python/blob/master/talkpython-100-days/day002/pomodoro_timer.py), хотя пока запускаю всё в секундах, вместо минут. Это легко меняется, достаточно будет изменить только одну функцию в финальной версии.
+
+В целом всё уже работает, но ещё остается добавить интерфейс в cli с argparse или click. Пока что склоняюсь к click, так как его я знаю намного хуже.
+
+Пример выполнения скрипта (записан с помощью [termtosvg](https://github.com/nbedos/termtosvg)):
+<img src="https://raw.githubusercontent.com/natenka/100-days-of-Python/master/talkpython-100-days/day002/pomodoro_timer_run_animation.svg
+" width="400">
+
+Время: 1 час 30 минут код
