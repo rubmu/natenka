@@ -1,13 +1,3 @@
----
-permalink: /100daysofpython/
-title: "100 Days of Python"
-comments: true
-share: true
-tags:
- - python
- - 100daysofpython
- - 100daysofx
----
 
 У меня неплохое знание основ Python, но хорошо бы более регулярно изучать и более продвинутые темы.
 
