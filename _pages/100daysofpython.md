@@ -62,7 +62,7 @@ tags:
 
 Пример выполнения скрипта с секундными интервалами (записан с помощью [termtosvg](https://github.com/nbedos/termtosvg)):
 
-<img src="https://cdn.rawgit.com/natenka/100-days-of-Python/7fd02998/talkpython-100-days/day003/pomodoro_timer_run_animation.svg" width="800">
+<img src="https://cdn.rawgit.com/natenka/100-days-of-Python/9cbc94c6/talkpython-100-days/day003/pomodoro_timer_run_animation.svg" width="800">
 
 Время: 1 час 20 минут код
 
