@@ -159,6 +159,19 @@ Homer                                                     40  2018-07-01 12:37:0
 
 Время: 1 час код
 
+## Day 13: Aug 11, 2018
+
+Сегодня только лекции.
+
+Время: 1 час лекции
+
+## Day 14: Aug 12, 2018
+
+Сегодня по курсу сделала задачку с игрой [Rock Paper Scissors](https://github.com/natenka/100-days-of-Python/blob/master/talkpython-100-days/day14/rock_paper_scissors.py).
+
+Время: 1 час код
+
+
 ## Идеи скриптов
 
 * разбор логов FCC по присутствию на лекциях
