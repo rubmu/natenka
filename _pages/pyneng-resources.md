@@ -150,13 +150,18 @@ Python для сетевых инженеров:
 * [PEP 8 — the Style Guide for Python Code](http://pep8.org/) - красивый вариант PEP8
 
 
-Курсы (бесплатные):
+Бесплатные курсы:
 
 * [Программирование на Python](https://stepik.org/course/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BD%D0%B0-Python-67) - хороший русскоязычный курс по основам Python
 * [MITx - 6.00.1x Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-9) - очень хороший курс, много практических заданий, достаточно интенсивный (англ)
 * [Python от Computer Science Center](https://www.youtube.com/playlist?list=PLlb7e2G7aSpTTNp7HBYzCBByaE1h54ruW) - отличные видеолекции по Python
 * [Google's Python Class](https://developers.google.com/edu/python/?csw=1) - курс по основам Python от Google (англ)
 * [Курс языка Python и базовых алгоритмов и структур данных](https://github.com/Yorko/python_intro)
+
+Платные курсы:
+
+* [#100DaysOfCode in Python](https://training.talkpython.fm/courses/explore_100days_in_python/100-days-of-code-in-python)
+* [Write Pythonic Code Like a Seasoned Developer](https://training.talkpython.fm/courses/explore_pythonic_code/write-pythonic-code-like-a-seasoned-developer)
 
 Книги:
 
