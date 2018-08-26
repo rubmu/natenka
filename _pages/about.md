@@ -16,17 +16,20 @@ permalink: /about/
 
 ### Коротко обо мне
 
-* [Автор статей по сетям](http://xgu.ru/wiki/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:Nata) на xgu.ru
-* Автор [книги](https://www.gitbook.com/book/natenka/pyneng/details) и [курса](https://natenka.github.io/pyneng-online/) ["Python для сетевых инженеров"](https://natenka.github.io/pyneng/)
-* Дружу с [linkmeup.ru](https://linkmeup.ru/). Говорю с [умными людьми](https://linkmeup.ru/tag/%D0%BF%D0%BEccie%D0%BB%D0%BA%D0%B8/)
+* Автор книги [Python для сетевых инженеров](https://natenka.gitbook.io/pyneng/)
+* Автор курса [Python для сетевых инженеров](https://natenka.github.io/pyneng-online/)
+* Дружу с [linkmeup.ru](https://linkmeup.ru/)
+
+Бывший сетевик и преподаватель сетевых курсов:
+
+* [Автор статей по сетям на xgu.ru](http://xgu.ru/wiki/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:Nata)
 * [Автор серии курсов "Сетевые дни"](https://github.com/natenka/NetDay)
 
 ### Say thanks
 
-
 Если вам пригодились мои проекты, не стесняйтесь написать мне [спасибо](https://saythanks.io/to/natenka) или поставить [звездочку проекту](https://github.com/natenka).
 
-Если простого спасибо недостаточно и вам очень хочется еще как-то меня отблагодарить, подарите мне книгу из моего [Amazon wish list](http://a.co/de1lyOZ) :)
+Если простого спасибо недостаточно: [Amazon Gift Card](https://www.amazon.com/gp/product/B004LLIKVU/) :)
 
 ### Немного истории
 
