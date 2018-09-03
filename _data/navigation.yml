@@ -19,3 +19,6 @@ links:
     children:
       - title: 100 Days Of Python
         url: /100daysofpython/
+    children:
+      - title: 100 Days Of Reading
+        url: /100daysofreading/
