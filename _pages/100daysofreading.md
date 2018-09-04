@@ -49,9 +49,11 @@ tags:
 * Стоит придумать какой-то вариант продленки на курсе, но только не с такими полноценными лекциями как это было на 1 и 2 продленке. Для меня это способ проговорить что-то новое/интересное, а для слушателей - узнать что-то новое. Из-за работы не в офисе, пропал этот момент, когда про новую штуку можно было пойти рассказать коллегам
 * Подумать как больше интегрировать процесс "Engage an R-mode to L-mode flow" в курс, в частности, в лекции (ситуация на уроке скалолазания, когда сначала пробуешь полазить полчаса, а потом даются инструкции как это делать). Имея контекст, гораздо проще понять лекцию
 * Если новые идеи не записывать, не уделять им внимания, они перестанут появляться
-* Очень часто хорошие идеи приходят в голову, когда я гуляю и слушаю подкаст. Пожалуй, чаще всего, это случалось, когда я слушала подкаст [Effizienter Lernen - Arbeiten - Leben | Thomas Mangold | Der Podcast zum effizienten und maßgeschneidertem Selbst-Management](https://www.selbst-management.biz/podcast-2/)
+* Очень часто хорошие идеи приходят в голову, когда я гуляю и слушаю подкаст. Пожалуй, чаще всего, это случалось, когда я слушала подкаст [Effizienter Lernen - Arbeiten - Leben. Thomas Mangold](https://www.selbst-management.biz/podcast-2/)
 * аналогично множество хороших идей приходило по время тренировки + AC/DC :) Хотя, по ощущениям, предыдущий вариант все равно значительно выигрывает
-* Подумать о технике "The Morning Pages", возможно стоит начать вместе с чтением: [What are morning pages? How one new habit changed my life](https://littlecoffeefox.com/morning-pages-changed-life/), [3 Pages Every Morning: Why I Started a Daily Ritual and How I Stuck With It](https://medium.com/the-mission/3-pages-every-morning-why-i-started-a-daily-ritual-and-how-i-stuck-with-it-b19f7c659fd7)
+* Подумать о технике "The Morning Pages", возможно стоит начать вместе с чтением:
+ * [What are morning pages? How one new habit changed my life](https://littlecoffeefox.com/morning-pages-changed-life/)
+ * [3 Pages Every Morning: Why I Started a Daily Ritual and How I Stuck With It](https://medium.com/the-mission/3-pages-every-morning-why-i-started-a-daily-ritual-and-how-i-stuck-with-it-b19f7c659fd7)
 
 > [write three pages, long-hand, upon (or nearly upon) waking. No thinking, no analyzing, no stressing. Just write. Put pen to paper and squiggle it around until it forms words. What you write matters little. What matters is just that you write. Get whatever is at the forefront of your mind out of your mind and place it onto the page. Do not hold back. Do not judge. And do not stop until you’ve hit three pages](https://medium.com/the-mission/3-pages-every-morning-why-i-started-a-daily-ritual-and-how-i-stuck-with-it-b19f7c659fd7)
 
