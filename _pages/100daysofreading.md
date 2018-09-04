@@ -25,6 +25,7 @@ tags:
 * [Pragmatic Thinking and Learning](https://pragprog.com/book/ahptl/pragmatic-thinking-and-learning)
 * [Flow: The Psychology of Optimal Experience](https://www.amazon.com/Flow-Psychology-Happiness-Mihaly-Csikszentmihalyi-ebook/dp/B00GO8HZIW)
 * [Design for How People Learn (Voices That Matter)](https://www.amazon.com/gp/product/B018OJP5QW/)
+* [The Artist's Way: A Spiritual Path to Higher Creativity](https://www.amazon.com/dp/B0085B23OC/)
 
 
 ## Day 1: Sep 3, 2018. Time 1:45
@@ -37,4 +38,20 @@ tags:
 
 В целом, хочу читать книги про развитие, курсы, вдохновение и подобное, но, скорее всего, среди них будут и художественные. Пока не определилась будут ли тут технические книги, хотя почему бы и нет.
 
+
+## Day 2: Sep 4, 2018. Time 1:00
+
+Сегодня продолжаю читать читать "Pragmatic Thinking and Learning".
+
+Себе на заметку:
+
+* Моя тяга написать/нарисовать что-то на бумаге, прежде чем превращать это в код (и аналогично ранее дизайн/конфиг сети), записывать полезные мысли из книги на бумаге, а не в электронном виде, действительно помогает и для меня ощущается огромная разница. Я периодически боролась с этим и пыталась сразу перейти на электронный вариант, но эффект всегда был не тот. Не стоит  это менять, это действительно работает
+* Стоит придумать какой-то вариант продленки на курсе, но только не с такими полноценными лекциями как это было на 1 и 2 продленке. Для меня это способ проговорить что-то новое/интересное, а для слушателей - узнать что-то новое. Из-за работы не в офисе, пропал этот момент, когда про новую штуку можно было пойти рассказать коллегам
+* Подумать как больше интегрировать процесс "Engage an R-mode to L-mode flow" в курс, в частности, в лекции (ситуация на уроке скалолазания, когда сначала пробуешь полазить полчаса, а потом даются инструкции как это делать). Имея контекст, гораздо проще понять лекцию
+* Если новые идеи не записывать, не уделять им внимания, они перестанут появляться
+* Очень часто хорошие идеи приходят в голову, когда я гуляю и слушаю подкаст. Пожалуй, чаще всего, это случалось, когда я слушала подкаст [Effizienter Lernen - Arbeiten - Leben | Thomas Mangold | Der Podcast zum effizienten und maßgeschneidertem Selbst-Management](https://www.selbst-management.biz/podcast-2/)
+* аналогично множество хороших идей приходило по время тренировки + AC/DC :) Хотя, по ощущениям, предыдущий вариант все равно значительно выигрывает
+* Подумать о технике "The Morning Pages", возможно стоит начать вместе с чтением: [What are morning pages? How one new habit changed my life](https://littlecoffeefox.com/morning-pages-changed-life/), [3 Pages Every Morning: Why I Started a Daily Ritual and How I Stuck With It](https://medium.com/the-mission/3-pages-every-morning-why-i-started-a-daily-ritual-and-how-i-stuck-with-it-b19f7c659fd7)
+
+> [write three pages, long-hand, upon (or nearly upon) waking. No thinking, no analyzing, no stressing. Just write. Put pen to paper and squiggle it around until it forms words. What you write matters little. What matters is just that you write. Get whatever is at the forefront of your mind out of your mind and place it onto the page. Do not hold back. Do not judge. And do not stop until you’ve hit three pages](https://medium.com/the-mission/3-pages-every-morning-why-i-started-a-daily-ritual-and-how-i-stuck-with-it-b19f7c659fd7)
 
