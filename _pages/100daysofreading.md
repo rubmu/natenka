@@ -64,9 +64,9 @@ tags:
 * [Lessons From Da Vinci on Work and Life.](https://medium.com/the-mission/lessons-from-da-vinci-on-work-and-life-954fb29bd5f) - надо обязательно прочитать книгу
 * [This is how you write.](https://medium.com/the-mission/this-is-how-you-write-c7cb9610d97d) -  очень резонирует с Morning Pages и очень полезно для меня
 
-## Day 3: Sep 5, 2018. Time 1:10
+## Day 3: Sep 5, 2018. Time 1:10 + Morning Pages
 
-Продолжаю читать читать "Pragmatic Thinking and Learning".
+Продолжаю читать читать "Pragmatic Thinking and Learning". Плюс, сегодня первый раз писала Morning Pages. Чтение утром настраивает меня на очень хороший лад, позже сформулирую словами это.
 
 Себе на заметку:
 
