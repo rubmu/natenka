@@ -26,6 +26,7 @@ tags:
 * [Flow: The Psychology of Optimal Experience](https://www.amazon.com/Flow-Psychology-Happiness-Mihaly-Csikszentmihalyi-ebook/dp/B00GO8HZIW)
 * [Design for How People Learn (Voices That Matter)](https://www.amazon.com/gp/product/B018OJP5QW/)
 * [The Artist's Way: A Spiritual Path to Higher Creativity](https://www.amazon.com/dp/B0085B23OC/)
+* [Leonardo Da Vinci](https://www.amazon.com/dp/B06XVX5GSR/)
 
 
 ## Day 1: Sep 3, 2018. Time 1:45
@@ -56,4 +57,29 @@ tags:
   * [3 Pages Every Morning: Why I Started a Daily Ritual and How I Stuck With It](https://medium.com/the-mission/3-pages-every-morning-why-i-started-a-daily-ritual-and-how-i-stuck-with-it-b19f7c659fd7)
 
 > [write three pages, long-hand, upon (or nearly upon) waking. No thinking, no analyzing, no stressing. Just write. Put pen to paper and squiggle it around until it forms words. What you write matters little. What matters is just that you write. Get whatever is at the forefront of your mind out of your mind and place it onto the page. Do not hold back. Do not judge. And do not stop until you’ve hit three pages](https://medium.com/the-mission/3-pages-every-morning-why-i-started-a-daily-ritual-and-how-i-stuck-with-it-b19f7c659fd7)
+
+Прочитала еще несколько статей Matthew Trinetti:
+
+* [How To Judge Yourself & Your Passion Projects (4 Questions)](https://www.giveliveexplore.com/2018/08/24/judge-yourself/) - это невероятно полезно для меня. Так или иначе негативные отзывы меня задевают и часто на них сосредотачиваешься больше, чем на позитивных. А тут практически инструкция для меня, как выйти из ситуации и не оценивать свою работу по этим комментариям
+* [Lessons From Da Vinci on Work and Life.](https://medium.com/the-mission/lessons-from-da-vinci-on-work-and-life-954fb29bd5f) - надо обязательно прочитать книгу
+* [This is how you write.](https://medium.com/the-mission/this-is-how-you-write-c7cb9610d97d) -  очень резонирует с Morning Pages и очень полезно для меня
+
+## Day 3: Sep 5, 2018. Time 1:10
+
+Продолжаю читать читать "Pragmatic Thinking and Learning".
+
+Себе на заметку:
+
+* be comfortable with uncertainty
+* be aware about cognitive biases (yours and others)
+* У разных людей очень разные ценности:
+  * Пример с увольнением в книге, когда коллега помогал учиться. Также напоминает мне о том, что просходило на работе: когда меня хвалили фразами "Как ты всех уделала", "Наташа всем показала" и тп, а мне это не то, что чуждо, а просто вызывает отвращение и становится только неприятно от этого. В моих ценностях, было бы важно сказать "Ты проделала огромную работу", "Это была непростая задача, но ты не сдавалась и справилась"
+  * Еще пример, я понимаю вещи типа лояльность компании и ценить, что для тебя сделали (если сделали на самом деле), но я ближе к восприятию работы как совместых деловых отношений, на которые мы согласились  и тут на равных. Много раз сталкивалась с тем, что определенное руководство ожидает отношения к ним и работе как к тому, что тебя облагодетельствовали самим фактом, что взяли на работу. Что странно, ведь тогда выходит, что сотрудник им не приносит ничего и его взяли просто так. Очень много тут смешивается всего, что к руководству и фирме ожидается отношение как к семье, а к сотрудникам, почему-то не такое. Хотя, сказать честно, и в семье многое из этого было бы очень странно.
+  * Понимаю, что я многие годы пыталась объяснять руководству точку зрения сотрудников и вообще, как я думала, "объективной реальности", но по сути реальность у нас разная и тут не получится ничего объяснить, особенно, если человек и не пытается понять реальность другого. Со временем, стала понимать, что у них своя реальность и пересталась пытаться менять ее
+* introvert vs extravert:  Я не знаю куда отнести себя в этих категориях, есть и то и то во мне. Я отстаиваю очень четко свое пространство, но иногда забываю насколько мне важно и "private mental space"
+  * Люблю эту фразу: "Seventy-five percent of the population lean to the extravert end of the scale. The other twenty-five percent of us wish they’d leave us alone."
+  * а об этом надо не забывать: "The introvert is not; introverts are territorial and need private mental and environmental space.".
+* Ох иногда я такая ящерица :) (Lizard logic)
+  * Act like you've evolved :)
+* Интуиция это хорошо, но она может быть ошибочной. Свои предположения надо проверять, надо проверять себя. Помогает подумать про противоположное решение
 
