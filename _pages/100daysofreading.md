@@ -22,7 +22,7 @@ tags:
 
 ## Книги
 
-* [Pragmatic Thinking and Learning](https://pragprog.com/book/ahptl/pragmatic-thinking-and-learning)
+* ~~[Pragmatic Thinking and Learning](https://pragprog.com/book/ahptl/pragmatic-thinking-and-learning)~~
 * [Flow: The Psychology of Optimal Experience](https://www.amazon.com/Flow-Psychology-Happiness-Mihaly-Csikszentmihalyi-ebook/dp/B00GO8HZIW)
 * [Design for How People Learn (Voices That Matter)](https://www.amazon.com/gp/product/B018OJP5QW/)
 * [The Artist's Way: A Spiritual Path to Higher Creativity](https://www.amazon.com/dp/B0085B23OC/)
@@ -111,3 +111,11 @@ Notes:
 * Медитация учит сосредотачиваться и замечать, когда какая-то мысль начала отвлекать и уводить за собой - то есть, учит осознанности
 * "thinking time", "marinade" -  рукоделие в этом помогает, так как накопив контекст по вопросу/проекту/проблеме, надо дать время на "marinade" и тут как раз занятие чем-то таким тактильным помогает
 * отработаная структура заметок позволяет создать exocortex
+
+## Day 7: Sep 9, 2018. Time 2:30
+
+[Закончила читать](https://natenka.github.io/learning/pragmatic-thinking/) "Pragmatic Thinking and Learning". Начала читать "Design for How People Learn".
+
+Сегодня зачиталась и пропустила Morning Pages.
+
+Резюме по прочитанному сегодня в новой книге, напишу завтра.
