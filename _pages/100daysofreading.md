@@ -118,4 +118,8 @@ Notes:
 
 Сегодня зачиталась и пропустила Morning Pages.
 
-Резюме по прочитанному сегодня в новой книге, напишу завтра.
+## Day 8: Sep 10, 2018. Time 1:00 + Morning Pages
+
+Продолжаю читать "Design for How People Learn".
+
+
