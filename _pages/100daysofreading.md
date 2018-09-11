@@ -122,4 +122,8 @@ Notes:
 
 Продолжаю читать "Design for How People Learn".
 
+## Day 9: Sep 11, 2018. Time 1:30 + Morning Pages
+
+Продолжаю читать "Design for How People Learn".
+
 
