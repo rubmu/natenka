@@ -116,7 +116,6 @@ Notes:
 
 [Закончила читать](https://natenka.github.io/learning/pragmatic-thinking/) "Pragmatic Thinking and Learning". Начала читать "Design for How People Learn".
 
-Сегодня зачиталась и пропустила Morning Pages.
 
 ## Day 8: Sep 10, 2018. Time 1:00 + Morning Pages
 
@@ -126,11 +125,16 @@ Notes:
 
 Продолжаю читать "Design for How People Learn".
 
-## Day 10: Sep 12, 2018. Time 1:30 + Morning Pages
+## Day 10: Sep 12, 2018. Time 1:30
 
 Продолжаю читать "Design for How People Learn".
 
 ## Day 11: Sep 13, 2018. Time 1:15
 
+Продолжаю читать "Design for How People Learn".
+
+## Day 12: Sep 16, 2018. Time 1:10
+
+Выпала на два дня из графика.
 Продолжаю читать "Design for How People Learn".
 
