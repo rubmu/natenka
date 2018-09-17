@@ -138,3 +138,6 @@ Notes:
 Выпала на два дня из графика.
 Продолжаю читать "Design for How People Learn".
 
+## Day 13: Sep 17, 2018. Time 1:00
+
+Продолжаю читать "Design for How People Learn".
