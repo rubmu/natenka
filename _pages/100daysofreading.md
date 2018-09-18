@@ -141,3 +141,7 @@ Notes:
 ## Day 13: Sep 17, 2018. Time 1:00
 
 Продолжаю читать "Design for How People Learn".
+
+## Day 14: Sep 18, 2018. Time 1:00
+
+Продолжаю читать "Design for How People Learn".
