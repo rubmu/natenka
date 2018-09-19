@@ -23,8 +23,9 @@ tags:
 ## Книги
 
 * ~~[Pragmatic Thinking and Learning](https://pragprog.com/book/ahptl/pragmatic-thinking-and-learning)~~
+* ~~[Design for How People Learn (Voices That Matter)](https://www.amazon.com/gp/product/B018OJP5QW/)~~
 * [Flow: The Psychology of Optimal Experience](https://www.amazon.com/Flow-Psychology-Happiness-Mihaly-Csikszentmihalyi-ebook/dp/B00GO8HZIW)
-* [Design for How People Learn (Voices That Matter)](https://www.amazon.com/gp/product/B018OJP5QW/)
+* [Tribe of Mentors](https://www.amazon.com/Tribe-Mentors-Short-Advice-World-ebook/dp/B071KJ7PTB/)
 * [The Artist's Way: A Spiritual Path to Higher Creativity](https://www.amazon.com/dp/B0085B23OC/)
 * [Leonardo Da Vinci](https://www.amazon.com/dp/B06XVX5GSR/)
 
@@ -148,4 +149,7 @@ Notes:
 
 ## Day 15: Sep 19, 2018. Time 1:00
 
-Продолжаю читать "Design for How People Learn".
+Дочитала "Design for How People Learn". Заметки делала на бумаге.
+
+Начала читать с начала [Flow: The Psychology of Optimal Experience](https://www.amazon.com/Flow-Psychology-Happiness-Mihaly-Csikszentmihalyi-ebook/dp/B00GO8HZIW)
+
