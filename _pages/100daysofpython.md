@@ -644,6 +644,24 @@ Time: 2:40 лекции
 
 Time: 1:00 лекции
 
+## Day 56: Sep 24, 2018
+
+Сегодня только лекции: смотрю выступления с pycon.
+
+Time: 0:40 лекции
+
+## Day 57: Sep 25, 2018
+
+Сегодня только лекции: смотрю выступления с pycon.
+
+Time: 1:05 лекции
+
+## Day 58 Sep 26, 2018
+
+Сегодня только лекции: смотрю выступления с pycon и начала курс [Async Techniques and Examples in Python](https://training.talkpython.fm/courses/explore_async_python/async-in-python-with-threading-and-multiprocessing)
+
+Time: 2:30 лекции
+
 ## Статистика 1-20 день
 
 
