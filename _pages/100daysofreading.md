@@ -153,3 +153,10 @@ Notes:
 
 Начала читать с начала [Flow: The Psychology of Optimal Experience](https://www.amazon.com/Flow-Psychology-Happiness-Mihaly-Csikszentmihalyi-ebook/dp/B00GO8HZIW)
 
+## Day 16 Sep 20, 2018. Time 1:00
+
+Продолжаю читать "Flow".
+
+## Day 17 Sep 21, 2018. Time 1:00
+
+Продолжаю читать "Flow".
