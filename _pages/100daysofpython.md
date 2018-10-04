@@ -662,6 +662,49 @@ Time: 1:05 лекции
 
 Time: 2:30 лекции
 
+## Day 59 Sep 27, 2018
+
+Продолжаю смотреть курс Async Techniques and Examples in Python.
+
+Time: 0:30 лекции
+
+## Day 60 Sep 28, 2018
+
+Продолжаю смотреть курс Async Techniques and Examples in Python.
+
+Time: 0:40 лекции
+
+## Day 61 Sep 29, 2018
+
+Продолжаю смотреть курс Async Techniques and Examples in Python.
+
+Time: 1:10 лекции
+
+## Day 62 Sep 30, 2018
+
+Продолжаю смотреть курс Async Techniques and Examples in Python.
+
+Time: 1:00 лекции
+
+## Day 63 Oct 1, 2018
+
+Продолжаю смотреть курс Async Techniques and Examples in Python.
+
+Time: 1:05 лекции
+
+## Day 64 Oct 2, 2018
+
+Продолжаю смотреть курс Async Techniques and Examples in Python.
+
+Time: 0:50 лекции
+
+## Day 65 Oct 3, 2018
+
+Продолжаю смотреть курс Async Techniques and Examples in Python.
+
+Time: 0:50 лекции
+
+
 ## Статистика 1-20 день
 
 
