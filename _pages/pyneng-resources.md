@@ -85,7 +85,6 @@ Ivan Pepelnjak:
 YouTube каналы:
 
 * [Dmitry Figol](https://www.youtube.com/channel/UCS8yWZCX-fdxft8yFAffZCg)
-* [Corey Schafer](https://www.youtube.com/user/schafer5)
 
 ## Подкасты
 
@@ -103,9 +102,12 @@ YouTube каналы:
 
 * [Ansible](https://www.ansible.com/)
 * [CiscoConfParse](https://github.com/mpenning/ciscoconfparse)
+* [eNMS](https://github.com/afourmy/eNMS)
 * [NAPALM](https://github.com/napalm-automation/napalm)
+* [netdev](https://github.com/selfuryon/netdev)
 * [NetworkX](https://github.com/networkx/networkx)
 * [NOC Project](https://kb.nocproject.org/display/SITE/NOC)
+* [Nornir](https://github.com/nornir-automation/nornir)
 * [Requests](https://github.com/kennethreitz/requests)
 * [SaltStack](https://saltstack.com/)
 * [Scapy](https://github.com/secdev/scapy)
@@ -179,6 +181,7 @@ Python для сетевых инженеров:
 
 Сайты с задачами:
 
+* [Bites of Py](https://codechalleng.es/bites/)
 * [HackerRank](https://www.hackerrank.com/)
 * [CheckIO - online game for Python and JavaScript coders](https://checkio.org/)
 
@@ -193,3 +196,6 @@ Python для сетевых инженеров:
 * [Talk Python To Me](https://talkpython.fm/)
 * [Best Python Podcasts](https://www.fullstackpython.com/best-python-podcasts.html)
 
+YouTube каналы:
+
+* [Corey Schafer](https://www.youtube.com/user/schafer5)
