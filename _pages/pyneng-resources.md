@@ -78,9 +78,14 @@ Ivan Pepelnjak:
 * [Network Programmability and Automation. Skills for the Next-Generation Network Engineer](http://shop.oreilly.com/product/0636920042082.do)
 * [Network Automation at Scale](https://www.cloudflare.com/media/pdf/network-automation-at-scale.pdf)
 
-## Live Stream
+## Live Stream, Youtube
 
-* [Network programmability, automation and Python. Dmitry Figol](https://www.twitch.tv/dmfigol). Записи трансляций на [YouTube-канале Димы](https://www.youtube.com/playlist?list=PLSwGHYY8t8Jhi7Q84D-0a7KXQFSUOWDqX)
+* [Network programmability, automation and Python. Dmitry Figol](https://www.twitch.tv/dmfigol)
+
+YouTube каналы:
+
+* [Dmitry Figol](https://www.youtube.com/channel/UCS8yWZCX-fdxft8yFAffZCg)
+* [Corey Schafer](https://www.youtube.com/user/schafer5)
 
 ## Подкасты
 
