@@ -108,7 +108,6 @@ share: true
     <td align="center">17.02.19</td>
     <td>Регулярные выражения (3ч)</td>
  </tr>
-
  <tr>
     <td align="center">7</td>
     <td align="center">10</td>
@@ -151,7 +150,7 @@ share: true
     <td>Создание шаблонов конфигураций с помощью Jinja2 (2ч)</td>
  </tr>
  <tr>
-    <td align="center".19</td>
+    <td align="center">19</td>
     <td align="center">31.03.19</td>
     <td>Обработка неструктурированного вывода команд с помощью TextFSM (3ч)</td>
  </tr>
@@ -173,7 +172,7 @@ share: true
     <td>ООП. Наследование (3ч)</td>
  </tr> 
  <tr>
-    <td align="center".19</td>
+    <td align="center">19</td>
     <td align="center">24</td>
     <td align="center">20.04.19</td>
     <td>Завершающая встреча (2ч)</td>
