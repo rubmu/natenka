@@ -23,9 +23,10 @@ category:
 
 ### Free courses
 
-* [Бесплатный email курс 'Python for network engineers' от Kirk Byers](https://pynet.twb-tech.com/email-signup.html)
+* ['Python for network engineers'. Kirk Byers](https://pynet.twb-tech.com/email-signup.html)
 * [GNS3 Talks. Python Programming for Network Engineers](https://www.youtube.com/playlist?list=PLhfrWIlLOoKPn7T9FtvbOWX8GxgsFFNwn)
-* [Курсы на Cisco DevNet](https://learninglabs.cisco.com/)
+* [Cisco DevNet](https://learninglabs.cisco.com/)
+* [Network programmability basics](https://developer.cisco.com/video/net-prog-basics)
 
 ### Paid courses
 
@@ -62,7 +63,7 @@ Ivan Pepelnjak:
 
 Others:
 
-* [Курсы от Network to Code](http://networktocode.com/products/training/)
+* [Network to Code](http://networktocode.com/products/training/)
 * [Network Automation using Python for Engineers (ehacking academy)](http://academy.ehacking.net/p/network-automation-python-engineers)
 
 
@@ -70,6 +71,7 @@ Others:
 
 * [Mastering Python Networking (Eric Chou)](https://www.packtpub.com/networking-and-servers/mastering-python-networking)
 * [Network Programmability and Automation. Skills for the Next-Generation Network Engineer](http://shop.oreilly.com/product/0636920042082.do)
+* [Network Automation at Scale](https://www.cloudflare.com/media/pdf/network-automation-at-scale.pdf)
 
 ## Podcasts
 
@@ -90,9 +92,12 @@ Sofware Gone Wild:
 
 * [Ansible](https://www.ansible.com/)
 * [CiscoConfParse](https://github.com/mpenning/ciscoconfparse)
+* [eNMS](https://github.com/afourmy/eNMS)
 * [NAPALM](https://github.com/napalm-automation/napalm)
+* [netdev](https://github.com/selfuryon/netdev)
 * [NetworkX](https://github.com/networkx/networkx)
 * [NOC Project](https://kb.nocproject.org/display/SITE/NOC)
+* [Nornir](https://github.com/nornir-automation/nornir)
 * [Requests](https://github.com/kennethreitz/requests)
 * [SaltStack](https://saltstack.com/)
 * [Scapy](https://github.com/secdev/scapy)
@@ -105,7 +110,6 @@ Sofware Gone Wild:
 * [ipaddress](https://docs.python.org/3/library/ipaddress.html)
 * [Jinja2](http://jinja.pocoo.org/docs/2.9/)
 * [netmiko](https://github.com/ktbyers/netmiko)
-* [multiprocessing](https://docs.python.org/3/library/multiprocessing.html)
 * [paramiko](http://docs.paramiko.org/)
 * [pexpect](https://pexpect.readthedocs.io/en/stable/index.html)
 * [pyserial](https://pythonhosted.org/pyserial/)
@@ -113,8 +117,7 @@ Sofware Gone Wild:
 * [subprocess](https://docs.python.org/3/library/subprocess.html)
 * [telnetlib](https://docs.python.org/3/library/telnetlib.html)
 * [TextFSM](https://github.com/google/textfsm/wiki)
-* [threading](https://docs.python.org/3/library/threading.html)
-
+* [concurrent.futures](https://docs.python.org/3.6/library/concurrent.futures.html)
 
 ## Slack
 
@@ -144,13 +147,13 @@ Books:
 * [Dive Into Python 3](http://www.diveintopython3.net/index.html)
 * [Problem Solving with Algorithms and Data Structures using Python](http://interactivepython.org/runestone/static/pythonds/index.html)
 * [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
-* [Learning Python, 5th Edition](http://shop.oreilly.com/product/0636920028154.do)
 
 Challenges:
 
-* [CodeEval](https://www.codeeval.com)
+* [Bites of Py](https://codechalleng.es/bites/)
 * [HackerRank](https://www.hackerrank.com/)
 * [CheckIO - online game for Python and JavaScript coders](https://checkio.org/)
+
 
 Docs:
 
