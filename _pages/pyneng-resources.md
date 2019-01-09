@@ -73,7 +73,7 @@ Ivan Pepelnjak:
 
 ## Книги
 
-* [Python для сетевых инженеров (Наташа Самойленко)](https://www.gitbook.com/book/natenka/pyneng/details)
+* [Python для сетевых инженеров (Наташа Самойленко)](https://natenka.gitbook.io/pyneng/)
 * [Mastering Python Networking (Eric Chou)](https://www.packtpub.com/networking-and-servers/mastering-python-networking)
 * [Network Programmability and Automation. Skills for the Next-Generation Network Engineer](http://shop.oreilly.com/product/0636920042082.do)
 * [Network Automation at Scale](https://www.cloudflare.com/media/pdf/network-automation-at-scale.pdf)
