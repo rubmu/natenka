@@ -23,6 +23,8 @@ links:
         url: https://pyneng-slack.herokuapp.com/
       - title: Подборка ресурсов
         url: /pyneng-resources/
+      - title: Онлайн курс
+        url: /pyneng-online/
       #- title: 100 Days Of Python
       #  url: /100daysofpython/
       #- title: 100 Days Of Reading
