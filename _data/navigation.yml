@@ -17,7 +17,7 @@ main:
 links:
   - title: Python для сетевых инженеров
     children:
-      - title: Книга “Python для сетевых инженеров”
+      - title: Книга
         url: https://natenka.gitbook.io/pyneng/
       - title: Сообщество в Slack
         url: https://pyneng-slack.herokuapp.com/
