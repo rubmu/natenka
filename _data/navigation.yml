@@ -15,9 +15,15 @@ main:
   #- title: "Sitemap"
   #  url: /sitemap/
 links:
-  - title: Текущие проекты
+  - title: Python для сетевых инженеров
     children:
-      - title: 100 Days Of Python
-        url: /100daysofpython/
-      - title: 100 Days Of Reading
-        url: /100daysofreading/
+      - title: Книга “Python для сетевых инженеров”
+        url: https://natenka.gitbook.io/pyneng/
+      - title: Сообщество в Slack
+        url: https://pyneng-slack.herokuapp.com/
+      - title: Подборка ресурсов
+        url: /pyneng-resources/
+      #- title: 100 Days Of Python
+      #  url: /100daysofpython/
+      #- title: 100 Days Of Reading
+      #  url: /100daysofreading/
