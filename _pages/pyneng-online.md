@@ -142,12 +142,12 @@ share: true
  <tr>
     <td rowspan="2" align="center">11</td>
     <td align="center">15</td>
-    <td align="center">3.08.19</td>
+    <td align="center">03.08.19</td>
     <td>Создание шаблонов конфигураций с помощью Jinja2 (2ч)</td>
  </tr>
  <tr>
     <td align="center">16</td>
-    <td align="center">4.08.19</td>
+    <td align="center">04.08.19</td>
     <td>Обработка неструктурированного вывода команд с помощью TextFSM (3ч)</td>
  </tr>
  <tr>
