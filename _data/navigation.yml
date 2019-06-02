@@ -4,7 +4,7 @@ main:
     url: /blog/
   - title: "Мои проекты"
     url: /projects/
-  - title: "PyNEng online"
+  - title: "Курс PyNEng"
     url: /pyneng-online/
   - title: "About"
     url: /about/
@@ -17,7 +17,7 @@ main:
 links:
   - title: Python для сетевых инженеров
     children:
-      - title: Книга
+      - title: PyNEng Book
         url: https://natenka.gitbook.io/pyneng/
       - title: Сообщество в Slack
         url: https://pyneng-slack.herokuapp.com/
