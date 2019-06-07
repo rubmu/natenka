@@ -174,7 +174,7 @@ Python для сетевых инженеров:
 
 * [A Byte of Python](https://www.gitbook.com/book/swaroopch/byte-of-python/details) - книга по основам Python. [На русском](http://wombat.org.ua/AByteOfPython/toc.html)
 * [Dive Into Python 3](http://www.diveintopython3.net/index.html)
-* [Problem Solving with Algorithms and Data Structures using Python](http://interactivepython.org/runestone/static/pythonds/index.html) - отличная книга по структурам данных и алгоритмам. Много примеров и домашних заданий. [На русском](http://aliev.me/runestone/)
+* [Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/runestone/static/pythonds/index.html) - отличная книга по структурам данных и алгоритмам. Много примеров и домашних заданий. [На русском](http://aliev.me/runestone/)
 * [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/). [На русском](https://www.ozon.ru/context/detail/id/137673590/)
 * [Python Tricks](https://www.amazon.com/Python-Tricks-Buffet-Awesome-Features-ebook/dp/B0785Q7GSY) - отличный вариант для 2-3 книги по Python
 
