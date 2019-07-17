@@ -1,5 +1,5 @@
 ---
-permalink: /bgp/
+permalink: /cisco-ios/
 title: Cisco IOS. Знакомимся ближе.
 comments: true
 share: true
