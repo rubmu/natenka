@@ -45,23 +45,30 @@ Configuration guide по настройке NAT.
 При настройке удаленного оборудования, можно допустить ошибку в настройках, из-за которой будет потерян доступ к оборудованию. Для того чтобы подстраховаться от подобных случаев, можно воспользоваться запланированной перезагрузкой.
  
 Если Вы планируете изменять настройки, которые могут привести к потери связи, то можно заранее указать, например, что маршрутизатор должен быть перезагружен через 20 минут:
+```
 R1# reload in 20
+```
  
 В таком случае, если в конфигурации была допущена ошибка, то при перезагрузке маршрутизатор вернется к исходной рабочей конфигурации.
  
 Если изменения были применены и никаких проблем не возникло, то можно отменить запланированную перезагрузку: 
+```
 R1# reload cancel
+```
  
 Аналогичным образом можно указывать точное время, когда маршрутизатор должен быть перезагружен:
+```
 R1# reload at 20:35
+```
  
-show processes
+## show processes
  
 Во время обычной работы с оборудованием или во время поиска неисправностей, может понадобиться информация о том, какие процессы работают на маршрутизаторе, какие из них больше всего загружают процессор.
  
 Команда show processes отображает информацию об активных процессах. Параметры команды позволяют отобразить информацию о статистике загрузки процессора, объеме используемой памяти, и даже представить информацию в виде графиков. Далее несколько примеров использования команды.
  
 Отображение отсортированного списка процессов:
+```
 R1# sh processes cpu sorted
 CPU utilization for five seconds: 0%/0%; one minute: 0%; five minutes: 0%
  PID Runtime(ms)     Invoked      uSecs   5Sec   1Min   5Min TTY Process
@@ -76,8 +83,10 @@ CPU utilization for five seconds: 0%/0%; one minute: 0%; five minutes: 0%
    8           0           1          0  0.00%  0.00%  0.00%   0 DiscardQ Backgro
    9           0           2          0  0.00%  0.00%  0.00%   0 Timers
   11           0           1          0  0.00%  0.00%  0.00%   0 OIR Handler
+```
  
 Отображение списка процессов отсортированного по загрузке за последние 5 минут:
+```
 R1# sh processes cpu sorted 5min
 CPU utilization for five seconds: 0%/0%; one minute: 0%; five minutes: 0%
  PID Runtime(ms)     Invoked      uSecs   5Sec   1Min   5Min TTY Process
@@ -92,8 +101,10 @@ CPU utilization for five seconds: 0%/0%; one minute: 0%; five minutes: 0%
  155       37609     2324186         16  0.00%  0.00%  0.00%   0 bsm_xmt_proc
   26       54918     2426825         22  0.00%  0.00%  0.00%   0 ARP Background
   11           0           1          0  0.00%  0.00%  0.00%   0 OIR Handler
+```
  
 Графическое представление загрузки процессора:
+```
 R1# sh processes cpu history
  
     2121121112121112121 11111222222122 12211121119112121 12221
@@ -112,8 +123,10 @@ R1# sh processes cpu history
              0    5    0    5    0    5    0    5    0    5
                CPU% per minute (last 60 minutes)
               * = maximum CPU%   # = average CPU%
+```
  
 Отображение списка процессов отсортированных по объему используемой памяти:
+```
 R1# sh processes memory sorted
 Processor Pool Total:  132000208 Used:   63513008 Free:   68487200
  
@@ -128,31 +141,42 @@ Processor Pool Total:  132000208 Used:   63513008 Free:   68487200
   37   0     260064       1664     271360          0          0 RF SCTPthread  
  247   0     254152          0     271216          0          0 QOS_MODULE_MAIN
    3   0    1292184    1134328     227912      22680          0 Exec           
+```
  
 Подробнее о команде show processes, ее параметрах и описание значений вывода команд.
  
-interface range и interface range macro 
+
+### interface range и interface range macro 
  
 При работе с коммутаторами, часто возникает задача выполнить одинаковое действие с группой портов. Для этого используется команда interface range:
+```
 sw1(config)# interface range fa0/1 - 5
 sw1(config-if-range)# no shutdown
+```
  
 В команде могут быть перечислены не только порты идущие подряд:
+```
 sw1(config)# interface range fa0/1 - 3, fa0/6 - 8, gi0/1
 sw1(config-if-range)# no shutdown
+```
  
 Кроме того, если какие-то диапазоны портов используются постоянно, удобно создать для этого диапазона имя (в этом примере имя диапазона "HOSTS") с помощью команды define interface-range: 
+```
 sw4(config)# define interface-range HOSTS fa0/1 - 3, fa0/6 - 8, gi0/1
+```
  
 Тогда, при дальнейших настройках этого диапазона, порты можно не перечислять, а переходить в режим настройки портов по имени:
+```
 sw4(config)# int range macro HOSTS
 sw4(config-if-range)# no shutdown
+```
  
-Примечание: Не путайте задание имени диапазону со smart macros (будут рассмотрены в следующей статье). Эти функции могут использоваться вместе.
+> Примечание: Не путайте задание имени диапазону со smart macros (будут рассмотрены в следующей статье). Эти функции могут использоваться вместе.
  
-default interface
+### default interface
  
 Иногда возникает необходимость обнулить настройки интерфейса. Но, если к интерфейсу применено большое количество команд, то удалять их может быть достаточно неудобно. Например, интерфейс настроен так:
+```
 interface FastEthernet0/1
  switchport access vlan 10
  switchport mode access
@@ -160,19 +184,25 @@ interface FastEthernet0/1
  switchport port-security violation restrict
  spanning-tree portfast
  spanning-tree bpduguard enable
+```
  
 Для того чтобы обнулить его настройки, можно воспользоваться командой default interface:
+```
 sw4(config)# default interface fa0/1
+```
  
 Эту команду можно выполнять и с диапазоном интерфейсов или используя заданное ранее имя для диапазона интерфейсов: 
+```
 sw1(config)# default interface range fa0/5, fa0/8 
 sw1(config)# default interface range macro HOSTS
+```
  
-show control-plane host open-ports
+### show control-plane host open-ports
  
 Команда show control-plane host open-ports показывает какие TCP и UDP-порты открыты на маршрутизаторе. У нее есть некоторые ограничения: не все сервисы, использующие UDP, отображаются (RIP), и не отображаются протоколы, которые не используют TCP и UDP (например, OSPF, EIGRP).
  
 Пример вывода команды:
+```
 R1# show control-plane host open-ports
 Active internet connections (servers and established)
 Prot      Local Address           Foreign Address           Service     State
@@ -183,8 +213,9 @@ Prot      Local Address           Foreign Address           Service     State
  tcp               *:22        192.168.12.2:24597        SSH-Server  ESTABLIS
  tcp              *:179                       *:0               BGP    LISTEN
  udp            *:53738          192.168.12.2:514            Syslog  ESTABLIS
+```
  
-Фильтрация и перенаправление вывода командной строки
+## Фильтрация и перенаправление вывода командной строки
  
 Как правило, со временем конфигурация разрастается и становится все сложнее просматривать ее полностью, при поиске каких-то определенных настроек. Упростить и ускорить просмотр нужных команд может фильтрация вывода.
  
@@ -209,6 +240,7 @@ count
 Для того чтобы воспользоваться указанными параметрами, надо после команды show или more поставить pipe |, а затем указать параметр и ключевые слова или выражение. Далее все примеры будут показаны на командах show. Примеры использования команды more приведены ниже.
  
 Команда more позволяет просматривать файлы. Например:
+```
 R1# more system:default-running-config
 !
 ! Last configuration change at 15:47:50 UTC Thu Jul 25 2013
@@ -227,23 +259,31 @@ no service password-encryption
 !
 hostname R1
 !    
+```
  
-Перенаправление вывода командной строки
+### Перенаправление вывода командной строки
  
 Перенаправить вывод команды sh run в файл R1_config.cfg:
+```
 R1# show run | redirect tftp://10.0.1.1/R1_config.cfg
+```
  
 Перенаправить вывод команды sh ip route в файл R1_routing.cfg и показать вывод к командной строке:
+```
 R1# show ip route | tee tftp://10.0.1.1/R1_routing.cfg    
+```
  
 Добавить вывод команды sh ip int br к файлу R1_routing.cfg:
+```
 R1# show ip int br | append tftp://10.0.1.1/R1_routing.cfg
+```
  
-Фильтрация вывода команд show
+## Фильтрация вывода команд show
  
-include
+### include
  
 Показать строки конфигурационного файла, в которых встречается "ip nat"
+```
 R1#sh run | i ip nat
  ip nat inside
  ip nat outside
@@ -251,24 +291,32 @@ R1#sh run | i ip nat
 ip nat inside source route-map NAT_ISP_R2 interface FastEthernet0/2 overload
 ip nat inside source route-map NAT_ISP_R3 interface FastEthernet0/3 overload
  action 2 cli command "clear ip nat trans *"
+```
  
 Если нас интересуют только строки, которые начинаются на "ip nat":
+```
 R1#sh run | i ^ip nat
 ip nat inside source route-map NAT_ISP_R2 interface FastEthernet0/2 overload
 ip nat inside source route-map NAT_ISP_R3 interface FastEthernet0/3 overload
+```
  
 Если нужно вывести строки, которые начинаются на "ip nat" ИЛИ " ip nat" (следующие | в строке используются как ИЛИ):
+```
 R1#sh run | i ^ip nat|^_ip nat
  ip nat inside
  ip nat outside
  ip nat outside
 ip nat inside source route-map NAT_ISP_R2 interface FastEthernet0/2 overload
 ip nat inside source route-map NAT_ISP_R3 interface FastEthernet0/3 overload
+```
  
 Вариант этого же выражения (чтобы ввести знак вопроса надо набрать комбинацию crtl-v, а затем ?): 
+```
 R1#sh run | i ^_?ip nat|^interface
+```
  
 Добавить к выводу интерфейсы, к которым применены команды ip nat inside и ip nat outside:
+```
 R1#sh run | i ^ip nat|^_ip nat|^interface
 interface FastEthernet0/0
  ip nat inside
@@ -279,18 +327,22 @@ interface FastEthernet0/3
  ip nat outside
 ip nat inside source route-map NAT_ISP_R2 interface FastEthernet0/2 overload
 ip nat inside source route-map NAT_ISP_R3 interface FastEthernet0/3 overload
+```
  
-exclude
+### exclude
  
 Исключить из вывода интерфейсы на которых не назначены IP-адреса:
+```
 R1#sh ip int br | e unass
 Interface             IP-Address      OK? Method Status            Protocol
 Ethernet0/0           10.10.10.1      YES TFTP   up                up     
 Ethernet0/2           192.168.12.1    YES TFTP   up                up     
 Ethernet0/3           192.168.13.1    YES TFTP   up                up     
 NVI0                  10.10.10.1      YES unset  up                up     
+```
  
 Показать sh run без знаков восклицания:
+```
 R1#sh run | e !                  
 Building configuration...
  
@@ -303,12 +355,14 @@ hostname R1
 boot-start-marker
 boot-end-marker
 no aaa new-model
+```
  
-section
+### section
  
 Очень удобный фильтр, который, к сожалению, есть только на маршрутизаторах (и только некоторых коммутаторах). С помощью него можно отфильтровать раздел конфигурации.
  
 Например, показать настройки протоколов маршрутизации:
+```
 R2#sh run | s router
 router eigrp 1
  network 0.0.0.0
@@ -319,8 +373,10 @@ router ospf 1
  redistribute eigrp 1 subnets
  network 192.168.12.0 0.0.0.255 area 0
  default-information originate
+```
  
 Существующие route-map
+```
 R1#sh run | s ^route-map
 route-map PBR_RULES permit 10
  match ip address HTTP
@@ -334,12 +390,14 @@ route-map NAT_ISP_R3 permit 10
 route-map NAT_ISP_R2 permit 10
  match ip address NAT
  match interface Ethernet0/2
+```
  
-begin
+### begin
  
 С помощью параметра begin можно показать конфигурацию начиная с какой-то строки. Для коммутаторов это может использоваться и как альтернатива параметру section.
  
 Показать конфигурацию начиная со строки, в которой встречается "access"
+```
 R1#sh run | b access  
 ip access-list standard NAT
  permit 10.1.1.0 0.0.0.255
@@ -352,10 +410,12 @@ ip sla 13
  timeout 200
  frequency 3
 ip sla schedule 13 life forever start-time now
+```
  
-Фильтрация и нумерация строк конфигурации
+### Фильтрация и нумерация строк конфигурации
  
 Иногда может быть удобно использовать отображение номеров строк при фильтрации вывода команд. Например, если вы забыли точное название route-map, конфигурацию которой хотите посмотреть, то сначала можно дать такую команду:
+```
 R1#sh run linenum | i route-map
    116 : ip nat inside source route-map NAT_ISP_R2 interface Ethernet0/2 overload
    117 : ip nat inside source route-map NAT_ISP_R3 interface Ethernet0/3 overload
@@ -363,8 +423,10 @@ R1#sh run linenum | i route-map
    147 : route-map PBR_RULES permit 20
    151 : route-map NAT_ISP_R3 permit 10
    155 : route-map NAT_ISP_R2 permit 10
+```
  
 Теперь, когда понятно название route-map, можно, чтобы не писать его (особенно если название длинное), отфильтровать конфигурацию по номеру строки: 
+```
 R1#sh run linenum | b 151     
    151 : route-map NAT_ISP_R3 permit 10
    152 :  match ip address NAT
@@ -375,17 +437,21 @@ R1#sh run linenum | b 151
    157 :  match interface Ethernet0/2
    158 : !
    159 : !
+```
  
-Поиск из поля "--More--"
+### Поиск из поля "--More--"
  
 В IOS есть еще один способ фильтрации, который по действию аналогичен параметру begin. 
  
 Если вывод команды достаточно длинный, то отображается только первая часть, а затем идет поле: 
+```
  --More-- 
+```
  
 Если теперь набрать /выражение, то дальнейший вывод отфильтруется и ввод команды будет продолжен начиная со строки в которой встречается "выражение".
  
 Просмотр команды sh ip interface, а затем фильтрация начиная со строки в которой встречается 0/3:
+```
 R1#sh ip int
 Ethernet0/0 is up, line protocol is up
   Internet address is 10.10.10.1/24
@@ -403,8 +469,10 @@ Ethernet0/3 is up, line protocol is up
   Broadcast address is 255.255.255.255
   Address determined by configuration file
   MTU is 1500 bytes
+```
  
 Просмотр команды sh run, а затем фильтрация начиная со строки в которой встречается route-map в начале строки:
+```
 R1#sh run
 Building configuration...
   
@@ -429,14 +497,16 @@ route-map PBR_RULES permit 20
  match ip address LAN2
  set ip next-hop verify-availability 102.0.0.1 1 track 102
 !
+```
  
-Работа с конфигурацией
+## Работа с конфигурацией
  
-show run 
+### show run 
  
 Конечно же, одна из первых вещей, которую узнает начинающий сетевик – это команда show run. Рассмотрим некоторые менее известные параметры этой команды.
  
 Параметр all позволяет посмотреть значения по умолчанию, которые скрываются при просмотре show run:
+```
 R1# sh run all          
 Building configuration...
  
@@ -456,7 +526,10 @@ no service exec-callback
 no service nagle
 ...
  
+```
+
 Например, используя параметр all и фильтрацию вывода, можно посмотреть какие значения по умолчанию у таймаутов относящихся к трансляции адресов:
+```
 R1# sh run all | i ip nat
 ip nat translation timeout 86400
 ip nat translation tcp-timeout 86400
@@ -471,11 +544,15 @@ ip nat translation max-entries 0
 ip nat translation max-entries all-vrf 0
 ip nat translation max-entries all-host 0
 ip nat translation arp-ping-timeout 60
+```
  
 Параметр brief позволяет скрыть некоторую информацию, которая, как правило, не нужна при просмотре. Например, открытые ключи SSH:
+```
 sh run brief
+```
  
 Параметр linenum перед каждой строкой дописывает номер строки. Может быть полезным, например, во время общения, когда надо указать о какой команде идет речь:
+```
 R1# sh run linenum
 Building configuration...
  
@@ -489,43 +566,57 @@ Current configuration : 3109 bytes
      7 : !
      8 : hostname R1
      9 : !
+```
  
 Кроме того, есть несколько параметров, которые позволяют просматривать отдельные части конфигурации. Самый популярный параметр interface. Отобразить конфигурацию интерфейса fa0/1:
+```
 sh run interface fa0/1
  ip address 10.10.10.1 255.255.255.0
  ip nat inside
+```
  
-aliases
+## aliases
  
 Многие команды просмотра информации достаточно длинны, а использовать их нужно часто. В этом случае на помощь может прийти создание alias. Их использование сокращает время настройки, и позволяет быстрее найти ошибки, при возникновении каких-то проблем.
  
 Синтаксис команды alias:
+```
 R1(config)# alias <режим> <название> <команда>
+```
  
 Например, конфигурация устройств часто достаточно большая и просматривать ее полностью неудобно. Когда вы знаете, какая часть конфигурации вас интересует, можно воспользоваться фильтрами для поиска необходимых строк. Для того чтобы фильтры удобнее было использовать, можно создать для них alias.
  
 Например, фильтры применяемые к команде show run, это поиск нужных частей в конфигурации. Можно считать, что это команда find и создать, например, такие alias:
+```
 alias exec fb sh run | begin
 alias exec fs sh run | section
 alias exec fi sh run | include
 alias exec fe sh run | exclude
+```
  
 После этого, для того чтобы, например, показать те строки конфигурации, в которых встречается ip nat, надо выполнить такую команду:
 R1#fi ip nat
+```
  ip nat inside
  ip nat outside
  ip nat outside
 ip nat inside source route-map NAT_ISP_R2 interface Ethernet0/2 overload
 ip nat inside source route-map NAT_ISP_R3 interface Ethernet0/3 overload
  action 2 cli command "clear ip nat trans *"
+```
  
 Для наиболее часто выполняемых команд также есть смысл создать alias. Например, для команды show ip interface brief:
+```
 alias exec siib sh ip int brief
+```
  
 Для того чтобы команду можно было выполнить в одинаковом сокращенном варианте в режиме enable и в конфигурационном, надо создавать дополнительный alias:
+```
 alias configure siib do sh ip int brief
+```
  
 Примеры alias для других популярных команд:
+```
 alias exec c config terminal
 alias exec w write mem
 alias exec sri sh run interface
@@ -535,8 +626,10 @@ alias exec sr show run brief
 alias exec acl show access-lists
 alias configure i interface
 alias interface ns no shutdown
+```
  
 Пример задания alias для одинаковых команд в разных режимах:
+```
 alias interface i ip address
 alias subinterface i ip address
  
@@ -546,17 +639,21 @@ alias configure x exit
 alias interface x exit
 alias subinterface x exit
 alias router x exit
+```
  
 Часто бывает так, что при выполнении команды просмотра из конфигурационных подрежимов, забывают написать "do".
  
 Можно создать alias в нужных подрежимах, для того чтобы можно было писать "sh" вместо "do sh" (конечно подрежимов очень много, но создание такого alias для основных из них, может быть вполне достаточным):
+```
 alias configure sh do sh
 alias interface sh do sh
 alias subinterface sh do sh
+```
  
 Далее еще несколько вариантов alias.
  
 Отображение команды sh ip route без шапки с расшифровкой:
+```
 alias exec rib show ip route | e –
  
 R1#rib
@@ -572,10 +669,13 @@ C        10.10.10.0/24 is directly connected, Ethernet0/0
 L        10.10.10.1/32 is directly connected, Ethernet0/0
       12.0.0.0/32 is subnetted, 1 subnets
 S        12.1.1.1 [1/0] via 192.168.12.2
+```
  
  
 Соседи CDP с IP-адресами в кратком виде:
+```
 alias exec cdpn sh cdp nei det | i Device|IP address|Interface
+```
  
 R1# cdpn
 Device ID: sw3
@@ -587,8 +687,9 @@ Interface: FastEthernet0/2,  Port ID (outgoing port): FastEthernet0/1
 Device ID: R3
   IP address: 192.168.13.3
 Interface: FastEthernet0/3,  Port ID (outgoing port): FastEthernet0/1
+```
  
-diff для Cisco
+## diff для Cisco
  
 При настройке оборудования бывает, что посреди процесса настройки вас отвлекают. По возвращению вы не помните, что уже успели сделать, а если сессия завершилась и истории перед глазами нет, то сложно вспомнить какие изменения вы внесли.
  
@@ -598,6 +699,7 @@ diff для Cisco
 show archive config differences nvram:startup-config system:running-config
  
 Пример выполнения команды:
+```
 R1# show archive config differences nvram:startup-config system:running-config
 !Contextual Config Diffs:
 +ip sla 14
@@ -614,11 +716,15 @@ R1# show archive config differences nvram:startup-config system:running-config
  +set ip next-hop verify-availability 102.0.0.1 1 track 102
 -logging trap debugging
 -logging 192.168.12.2
+```
  
 Так как команда достаточно длинная, то лучше создать для нее alias:
+```
 alias exec diff show archive config differences nvram:startup-config system:running-config
+```
  
 Аналогичным образом можно сравнивать не только текущую и стартовую конфигурации, но и другие файлы:
+```
 R1# show archive config differences flash:backup_200713.cfg flash:routing.cfg
 !Contextual Config Diffs:
 +router eigrp 1
@@ -630,8 +736,9 @@ R1# show archive config differences flash:backup_200713.cfg flash:routing.cfg
  +redistribute eigrp 1 subnets
  +network 192.168.12.0 0.0.0.255 area 0
  +default-information originate
+```
  
-Заключение
+## Заключение
  
 В этой статье были рассмотрены: несколько полезных команд, фильтрация вывода команд в IOS, и подсказки по поиску нужной документации.
  
