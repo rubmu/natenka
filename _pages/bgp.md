@@ -5,6 +5,8 @@ comments: true
 share: true
 ---
 
+> Статья 2013 года, впервые [опубликована на сайте учебного центра "Сетевые Технологии"](http://nt.ua/aboutcenter/articles/Pages/samoilenko_bgp_2013.aspx). Продублирована тут для сохранения статьи (ссылка на уц не работает).
+
 ## Введение
 
 <img align="right" src="https://raw.githubusercontent.com/natenka/natenka.github.io/master/assets/images/bgp/logo_selection_big_tools.png" width="400">
