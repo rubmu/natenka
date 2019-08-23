@@ -12,7 +12,7 @@ category:
 
 > [Resources in English](https://natenka.github.io/pyneng-resources-en/)
 
-## Блоги
+# Блоги
 
 Блоги сетевых инженеров, которые пишут о программировании, автоматизации:
 
@@ -23,7 +23,7 @@ category:
 * [Henry Ölsner](https://codingnetworker.com/)
 * [Mat Wood](https://thepacketgeek.com/)
 
-## Курсы
+# Курсы
 
 ### Бесплатные курсы
 
@@ -141,6 +141,7 @@ YouTube каналы:
 Python без привязки к сетевому оборудованию:
 
 * [Awesome Python](https://github.com/vinta/awesome-python)
+* [The Best Python Books](https://realpython.com/best-python-books/)
 
 Python для сетевых инженеров:
 
