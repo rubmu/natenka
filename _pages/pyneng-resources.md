@@ -8,6 +8,7 @@ tags:
  - links
 category:
  - pyneng
+toc: true
 ---
 
 > [Resources in English](https://natenka.github.io/pyneng-resources-en/)
