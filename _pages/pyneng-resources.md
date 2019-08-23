@@ -1,6 +1,6 @@
 ---
 permalink: /pyneng-resources/
-title: Ресурсы по Python для сетевых инженеров
+title: Ресурсы по Python
 comments: true
 share: true
 tags:
@@ -13,7 +13,9 @@ toc: true
 
 > [Resources in English](https://natenka.github.io/pyneng-resources-en/)
 
-# Блоги
+# Python для сетевых инженеров
+
+## Блоги
 
 Блоги сетевых инженеров, которые пишут о программировании, автоматизации:
 
@@ -24,7 +26,7 @@ toc: true
 * [Henry Ölsner](https://codingnetworker.com/)
 * [Mat Wood](https://thepacketgeek.com/)
 
-# Курсы
+## Курсы
 
 ### Бесплатные курсы
 
@@ -137,29 +139,16 @@ YouTube каналы:
 * [PyNEng](https://pyneng-slack.herokuapp.com/) - русскоязычное сообщество по тем же темам
 
 
-## Подборки ресурсов
-
-Python без привязки к сетевому оборудованию:
-
-* [Awesome Python](https://github.com/vinta/awesome-python)
-* [The Best Python Books](https://realpython.com/best-python-books/)
-
-Python для сетевых инженеров:
-
-* [Awesome Network Automation](https://github.com/itdependsnetworks/awesome-network-automation)
-* [Python for Network Engineers Resources](https://kontrolissues.net/python-for-network-engineers-resources/)
-* [Awesome Network Programmability](https://github.com/cisco-ie/awesome-network-programmability)
-
-
-## Python без привязки к сетевому оборудованию
+# Ресурсы по Python без привязки к сетевому оборудованию
 
 * [The Hitchhiker’s Guide to Python!](http://docs.python-guide.org/en/latest/) - отличное руководство в котором есть рекомендации, описание доступных проектов, библиотек и модулей по разным темам.
   * [Подборка ресурсов по изучению Python](http://docs.python-guide.org/en/latest/intro/learning/)
 * [Best Python Resources](https://www.fullstackpython.com/best-python-resources.html) - подборка ссылок на хорошие ресурсы по Python
 * [PEP 8 — the Style Guide for Python Code](http://pep8.org/) - красивый вариант PEP8
 
+## Курсы 
 
-Бесплатные курсы:
+### Бесплатные курсы:
 
 * [Программирование на Python](https://stepik.org/course/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BD%D0%B0-Python-67) - хороший русскоязычный курс по основам Python
 * [MITx - 6.00.1x Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-9) - очень хороший курс, много практических заданий, достаточно интенсивный (англ)
@@ -167,12 +156,12 @@ Python для сетевых инженеров:
 * [Google's Python Class](https://developers.google.com/edu/python/?csw=1) - курс по основам Python от Google (англ)
 * [Курс языка Python и базовых алгоритмов и структур данных](https://github.com/Yorko/python_intro)
 
-Платные курсы:
+### Платные курсы:
 
 * [#100DaysOfCode in Python](https://training.talkpython.fm/courses/explore_100days_in_python/100-days-of-code-in-python)
 * [Write Pythonic Code Like a Seasoned Developer](https://training.talkpython.fm/courses/explore_pythonic_code/write-pythonic-code-like-a-seasoned-developer)
 
-Книги:
+## Книги:
 
 Основы:
 
@@ -189,23 +178,37 @@ Python для сетевых инженеров:
 * [Fluent Python](https://www.amazon.com/gp/product/1491946008/) - отличная книга по более продвинутым темам. Даже те темы, которые устарели в текущей версии Python (asyncio) стоит прочитать ради прекрасного объяснения темы.
 * [Python Cookbook](https://www.amazon.com/gp/product/1449340377/) - отличная книга рецептов. Рассматривается огромное количество сценариев с решениями и пояснением.
 
-Сайты с задачами:
+## Сайты с задачами
 
 * [Bites of Py](https://codechalleng.es/bites/)
 * [HackerRank](https://www.hackerrank.com/)
 * [CheckIO - online game for Python and JavaScript coders](https://checkio.org/)
 
-Документация:
+## Документация
 
 * [Официальная документация Python](https://docs.python.org/3/index.html)
 * [Python Module of the Week](https://pymotw.com/3/index.html)
 * [Tiny-Python-3.6-Notebook](https://github.com/mattharrison/Tiny-Python-3.6-Notebook/blob/master/python.rst) - Отличная шпаргалка по Python 3.6
 
-Подкасты:
+## Подкасты
 
 * [Talk Python To Me](https://talkpython.fm/)
 * [Best Python Podcasts](https://www.fullstackpython.com/best-python-podcasts.html)
 
-YouTube каналы:
+## YouTube каналы:
 
 * [Corey Schafer](https://www.youtube.com/user/schafer5)
+
+# Другие подборки ресурсов
+
+Python без привязки к сетевому оборудованию:
+
+* [Awesome Python](https://github.com/vinta/awesome-python)
+* [The Best Python Books](https://realpython.com/best-python-books/)
+
+Python для сетевых инженеров:
+
+* [Awesome Network Automation](https://github.com/itdependsnetworks/awesome-network-automation)
+* [Python for Network Engineers Resources](https://kontrolissues.net/python-for-network-engineers-resources/)
+* [Awesome Network Programmability](https://github.com/cisco-ie/awesome-network-programmability)
+
