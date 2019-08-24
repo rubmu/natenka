@@ -29,7 +29,10 @@ permalink: /about/
 
 Если вам пригодились мои проекты, не стесняйтесь написать мне [спасибо](https://saythanks.io/to/natenka) или поставить [звездочку проекту](https://github.com/natenka).
 
-Если простого спасибо недостаточно: [Amazon Gift Card](https://www.amazon.com/gp/product/B004LLIKVU/) :)
+Если простого спасибо недостаточно:
+
+* [Amazon wish list](https://www.amazon.com/hz/wishlist/ls/QCGBX64X40NQ?ref_=wl_share)
+* [Amazon Gift Card](https://www.amazon.com/gp/product/B004LLIKVU/)
 
 ### Немного истории
 
