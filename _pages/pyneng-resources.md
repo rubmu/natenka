@@ -167,7 +167,8 @@ YouTube каналы:
 
 * [Think Python](https://greenteapress.com/wp/think-python-2e/) - хорошая книга по основам Python. В книге есть задания.
 * [Python Crash Course: A Hands-On, Project-Based Introduction to Programming](https://www.amazon.com/Python-Crash-Course-Hands-Project-Based-ebook/dp/B018UXJ9RI/) - книга по основам Python. Половина книги посвящена "стандартному" описанию основ Python, а во второй половине эти основы используются для проектов. В книге есть задания.
-* [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/). [На русском](https://www.ozon.ru/context/detail/id/137673590/)
+* [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/). [На русском](https://www.ozon.ru/context/detail/id/137673590/) -  в этой книге можно найти много идей по автоматизации ежедневной работы. Тут рассматриваются такие темы: работа с файлами PDF, Excel, Word, отправка писем, работа с картинками, работа в веб
+
 
 Среднего/продвинутого уровня:
 
