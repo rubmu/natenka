@@ -110,18 +110,18 @@ share: true
  <tr>
     <td align="center">14</td>
     <td align="center">17.11.19</td>
-    <td>Модуль logging</td>
+    <td>Модуль logging (3ч)</td>
  </tr>
  <tr>
     <td rowspan="2" align="center">9</td>
     <td align="center">15</td>
     <td align="center">23.11.19</td>
-    <td>Type annotations (3ч)</td>
+    <td>Основы аннотации типов (3ч)</td>
  </tr>
  <tr>
     <td align="center">16</td>
     <td align="center">24.11.19</td>
-    <td>Основы pytest (3ч)</td>
+    <td>Автоматическое форматирование кода (2ч)</td>
  </tr>
  <tr>
     <td align="center">10</td>
