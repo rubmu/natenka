@@ -26,10 +26,10 @@ def clean_config(config):
 
 def ignore_command(command, ignore):
     """
-    Checks command if it contains words from ignore list.
-    command - string, command to check,
-    ignore - list of words.
-    Return True if command contains word from ignore list, False otherwise.
+    Проверяет содержатся ли в с команде строки из списка ignore
+    command - строка
+    ignore - список слов
+    Возвращает True если в команде найдено слово из списка ignore, False иначе.
     """
 
     return any(word in command for word in ignore)
@@ -37,10 +37,8 @@ def ignore_command(command, ignore):
 
 def all_children_flat(section, level):
     """
-    Function checks if all children in ALL sections is in same level.
-    * section_dict - dictionary with sections.
-    * level - integer, current level of depth.
-    Returns True if all children in all sections is in the same level, False otherwise.
+    Функция проверяет, что все строки в секции находятся на одном уровне отступа.
+    Возвращает True, если да и Flase иначе.
     """
     result = []
     for child in section:
