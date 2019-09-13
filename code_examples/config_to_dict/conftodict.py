@@ -53,7 +53,13 @@ def all_children_flat(section, level):
 
 
 def takewhile_partition(predicate, iterable):
-    # takewhile(lambda x: x<5, [1,4,6,4,1]) --> 1 4
+    """
+    Работает похоже на takewhile из модуля collections,
+    но чтобы не терять элемент до которого считывался
+    итерируемый объект, возвращает две части:
+    1. все что попало пока выполнялся predicate (список)
+    2. все остальное (итератор)
+    """
     x = ''
     items_iterator = iter(iterable)
     items_before = []
@@ -69,7 +75,7 @@ def takewhile_partition(predicate, iterable):
 def parse_cfg_to_sections(config, level=0):
     """
     Функция парсит конфигурацию и возвращает словарь.
-    Рекурсивно парсит каждую секцию в которой не все команды на одном уровне
+    Рекурсивно парсит каждую секцию в которой не все команды на одном уровне.
     """
     config_dict = {}
 
@@ -84,6 +90,7 @@ def parse_cfg_to_sections(config, level=0):
                 section_content, config = takewhile_partition(
                     lambda line: not line[level].isalpha(), config)
                 if not all_children_flat(section_content, level):
+                    # рекурсивный вызов
                     section_content = parse_cfg_to_sections(iter(section_content), level+1)
                 config_dict[section] = section_content
         except IndexError:
