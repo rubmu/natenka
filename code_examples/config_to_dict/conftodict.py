@@ -68,12 +68,8 @@ def takewhile_partition(predicate, iterable):
 
 def parse_cfg_to_sections(config, level=0):
     """
-    Function parse section of config.
-    In result only sections with changed children returned.
-    * section - List of commands.
-    * level - integer, current level of depth.
-    Returns dictionary with section header as a keys,
-    and a list of commands as a value.
+    Функция парсит конфигурацию и возвращает словарь.
+    Рекурсивно парсит каждую секцию в которой не все команды на одном уровне
     """
     config_dict = {}
 
@@ -98,10 +94,7 @@ def parse_cfg_to_sections(config, level=0):
 
 def parse_config(filename):
     """
-    Function recursively parse config file.
-    Return:
-    dictionary with section header as a keys, and a list of commands as a value.
-    all_flat - True if all children flat, False overwise.
+    Функция ожидает имя файла и возвращает конфигурацию в виде словаря
     """
     cleaned_config = iter(clean_config(filename))
     return parse_cfg_to_sections(cleaned_config)
