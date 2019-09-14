@@ -18,7 +18,7 @@ def clean_config(config):
     """
     with open(config) as cfg:
         clean_cfg = [line.rstrip() for line in cfg
-                     if not '!' in line[:3]
+                     if not line.strip().startswith('!')
                         and line.rstrip()
                         and not ignore_command(line, ignore)]
     return clean_cfg
@@ -97,12 +97,23 @@ def parse_cfg_to_sections(config, level=0):
     return config_dict
 
 
+def strip_lines(cfg_dict):
+    for key, value in list(cfg_dict.items()):
+        if isinstance(value, dict):
+            del cfg_dict[key]
+            cfg_dict[key.strip()] = strip_lines(value)
+        elif isinstance(value, list):
+            del cfg_dict[key]
+            cfg_dict[key.strip()] = list(map(str.strip, value))
+    return cfg_dict
+
+
 def parse_config(filename):
     """
     Функция ожидает имя файла и возвращает конфигурацию в виде словаря
     """
     cleaned_config = iter(clean_config(filename))
-    return parse_cfg_to_sections(cleaned_config)
+    return strip_lines(parse_cfg_to_sections(cleaned_config))
 
 
 if __name__ == "__main__":
