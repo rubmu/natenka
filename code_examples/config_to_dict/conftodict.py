@@ -1,5 +1,7 @@
 from pprint import pprint
 from itertools import chain
+import sys
+
 
 
 # Ignore command which contains words
@@ -43,16 +45,18 @@ def all_children_flat(section, level):
     result = []
     for child in section:
         try:
-            is_alpha = child[(level+1):][0].isalpha()
+            is_alpha = child[(LEVELQ*level+1):][0].isalpha()
             result.append(is_alpha)
         except IndexError:
             print(child)
+    if not result:
+        return True
     return all(result)
 
 
 def takewhile_partition(predicate, iterable):
     """
-    Работает похоже на takewhile из модуля collections,
+    Работает похоже на takewhile из модуля itertools,
     но чтобы не терять элемент до которого считывался
     итерируемый объект, возвращает две части:
     1. все что попало пока выполнялся predicate (список)
@@ -83,17 +87,19 @@ def parse_cfg_to_sections(config, level=0):
         except StopIteration:
             break
         try:
-            if line[level].isalnum():
+            if line[LEVELQ*level].isalnum():
                 section = line
                 section_content, config = takewhile_partition(
-                    lambda line: not line[level].isalpha(), config)
-                if not all_children_flat(section_content, level):
+                    lambda line: not line[LEVELQ*level].isalpha(), config)
+                if section_content and not all_children_flat(section_content, level):
                     # рекурсивный вызов
                     section_content = parse_cfg_to_sections(iter(section_content), level+1)
                 config_dict[section] = section_content
         except IndexError:
             break
-
+    # если в словаре все значения пустые списки:
+    if sum(map(len, config_dict.values())) == 0:
+        return list(config_dict.keys())
     return config_dict
 
 
@@ -117,6 +123,11 @@ def parse_config(filename):
 
 
 if __name__ == "__main__":
-    result = parse_config('example_cfg.txt')
-    pprint(result, width=160)
+    # сколько пробелов используется для отступа
+    LEVELQ = 2
+    result = parse_config('example_cfg_2.txt')
+    pprint(result, width=140)
 
+    LEVELQ = 1
+    result = parse_config('example_cfg.txt')
+    pprint(result, width=140)
