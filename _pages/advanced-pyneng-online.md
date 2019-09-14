@@ -44,13 +44,13 @@ share: true
  <tr>
     <td align="center">2</td>
     <td align="center">06.10.19</td>
-    <td>ООП. Наследование, ABC (3ч)</td>
+    <td>ООП. classmethod, staticmethod, property (3ч)</td>
  </tr>
  <tr>
     <td rowspan="2" align="center">2</td>
     <td align="center">3</td>
     <td align="center">12.10.19</td>
-    <td>ООП. classmethod, staticmethod, property (3ч)</td>
+    <td>ООП. Наследование, ABC (3ч)</td>
  </tr>
  <tr>
     <td align="center">4</td>
