@@ -69,7 +69,7 @@ share: true
     <td>Декораторы (3ч)</td>
  </tr>
  <tr>
-    <td rowspan="2" align="center">3</td>
+    <td rowspan="2" align="center">4</td>
     <td align="center">7</td>
     <td align="center">26.10.19</td>
     <td>Итератор, генератор (3ч)</td>
@@ -80,7 +80,7 @@ share: true
     <td>Модули itertools, collections (3ч)</td>
  </tr>
  <tr>
-    <td rowspan="2" align="center">6</td>
+    <td rowspan="2" align="center">5</td>
     <td align="center">9</td>
     <td align="center">02.11.19</td>
     <td>Asyncio. Основы (3ч)</td>
@@ -91,7 +91,7 @@ share: true
     <td>Asyncio. Модуль asyncssh (3ч)</td>
  </tr>
  <tr>
-    <td rowspan="2" align="center">7</td>
+    <td rowspan="2" align="center">6</td>
     <td align="center">11</td>
     <td align="center">09.11.19</td>
     <td>Модуль netdev (3ч)</td>
@@ -102,7 +102,7 @@ share: true
     <td>Модули aiohttp, aiofiles (3ч)</td>
  </tr>
  <tr>
-    <td rowspan="2" align="center">8</td>
+    <td rowspan="2" align="center">7</td>
     <td align="center">13</td>
     <td align="center">16.11.19</td>
     <td>Основы pytest (3ч)</td>
@@ -113,7 +113,7 @@ share: true
     <td>Модуль logging (3ч)</td>
  </tr>
  <tr>
-    <td rowspan="2" align="center">9</td>
+    <td rowspan="2" align="center">8</td>
     <td align="center">15</td>
     <td align="center">23.11.19</td>
     <td>Основы аннотации типов (3ч)</td>
@@ -124,7 +124,7 @@ share: true
     <td>Автоматическое форматирование кода (2ч)</td>
  </tr>
  <tr>
-    <td align="center">10</td>
+    <td align="center">9</td>
     <td align="center">17</td>
     <td align="center">30.11.19</td>
     <td>Завершающая лекция (2ч)</td>
