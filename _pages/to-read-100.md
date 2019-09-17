@@ -99,7 +99,7 @@ category:
 88. ["A Prayer for Owen Meany"  by John Irving](https://www.amazon.com/gp/product/0062204092/)
 89. ["The Glass Castle"  by Jeannette Walls](https://www.amazon.com/gp/product/074324754X/)
 90. ["The Immortal Life of Henrietta Lacks"  by Rebecca Skloot](https://www.amazon.com/gp/product/1400052181/)
-91. ["Crime and Punishment"  by Fyodor Dostoyevsky](https://www.amazon.com/gp/product/0486415872/)
+91. [~~"Crime and Punishment"  by Fyodor Dostoyevsky~~](https://www.amazon.com/gp/product/0486415872/)
 92. ["The Road"  by Cormac McCarthy](https://www.amazon.com/gp/product/0307387895/)
 93. ["The Things They Carried"  by Tim O'Brien](https://www.amazon.com/gp/product/0618706410/)
 94. ["Siddhartha"  by Hermann Hesse](https://www.amazon.com/gp/product/0553208845/)
