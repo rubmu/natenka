@@ -9,7 +9,7 @@ category:
 
 > [Source 100 books](https://www.businessinsider.com/100-books-everyone-should-read-amazon-goodreads-2015-3). [Ultimate List](https://medium.com/world-literature/creating-the-ultimate-list-100-books-to-read-before-you-die-45f1b722b2e5)
 
-## 11/100
+## 12/100
 
 1. ["To Kill a Mockingbird"  by Harper Lee](https://www.amazon.com/gp/product/0446310786/)
 2. [~~"Pride and Prejudice"  by Jane Austen~~](https://www.amazon.com/gp/product/0199535566/)
@@ -70,7 +70,7 @@ category:
 57. ["Enders Game"  by Orson Scott Card](https://www.amazon.com/gp/product/0812550706/)
 58. ["Anna Karenina"  by Leo Tolstoy](https://www.amazon.com/gp/product/0143035002/)
 59. ["Watership Down"  by Richard Adams](https://www.amazon.com/gp/product/0743277708/)
-60. ["Memoirs of a Geisha"  by Arthur Golden](https://www.amazon.com/gp/product/0679781587/)
+60. [~~"Memoirs of a Geisha"  by Arthur Golden~~](https://www.amazon.com/gp/product/0679781587/)
 61. ["Rebecca"  by Daphne du Maurier](https://www.amazon.com/gp/product/0380730405/)
 62. ["A Game of Thrones"  by George R.R. Martin](https://www.amazon.com/gp/product/0553593714/)
 63. ["Great Expectations"  by Charles Dickens](https://www.amazon.com/gp/product/0486415864/)
