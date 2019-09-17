@@ -56,7 +56,7 @@ category:
 45. ["Frankenstein"  by Mary Shelley](https://www.amazon.com/gp/product/1503262421/)
 46. ["The Holy Bible: King James Version"](https://www.amazon.com/gp/product/1585161519/)
 47. ["The Color Purple"  by Alice Walker](https://www.amazon.com/gp/product/0156028352/)
-48. ["The Count of Monte Cristo"  by Alexandre Dumas](https://www.amazon.com/gp/product/0140449264/)
+48. [~~"The Count of Monte Cristo"  by Alexandre Dumas~~](https://www.amazon.com/gp/product/0140449264/)
 49. ["A Tree Grows in Brooklyn"  by Betty Smith](https://www.amazon.com/gp/product/0061120073/)
 50. ["East of Eden"  by John Steinbeck](https://www.amazon.com/gp/product/0140186395/)
 51. ["Alice in Wonderland"  by Lewis Carroll](https://www.amazon.com/gp/product/0553213458/)
