@@ -54,7 +54,7 @@ category:
 43. ["Macbeth"  by William Shakespeare](https://www.amazon.com/gp/product/0763678023/)
 44. ["The Girl with a Dragon Tattoo"  by Stieg Larrson](https://www.amazon.com/gp/product/0307949486/)
 45. ["Frankenstein"  by Mary Shelley](https://www.amazon.com/gp/product/1503262421/)
-46. ["The Holy Bible: King James Version"](https://www.amazon.com/gp/product/1585161519/)
+46. ["Treasure Island"	by Robert Louis Stevenson](https://www.amazon.com/Treasure-Island-Robert-Louis-Stevenson/dp/1514650460/)
 47. ["The Color Purple"  by Alice Walker](https://www.amazon.com/gp/product/0156028352/)
 48. [~~"The Count of Monte Cristo"  by Alexandre Dumas~~](https://www.amazon.com/gp/product/0140449264/)
 49. ["A Tree Grows in Brooklyn"  by Betty Smith](https://www.amazon.com/gp/product/0061120073/)
