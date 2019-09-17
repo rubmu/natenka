@@ -29,3 +29,7 @@ links:
       #  url: /100daysofpython/
       #- title: 100 Days Of Reading
       #  url: /100daysofreading/
+  - title: Links
+    children:
+      - title: Non-tech books
+        url: https://natenka.github.io/to-read-100/
