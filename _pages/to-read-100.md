@@ -1,3 +1,12 @@
+---
+permalink: /to-read-100/
+title: "100 books"
+comments: true
+share: true
+category:
+ - books
+---
+
 ## [100 books](https://www.businessinsider.com/100-books-everyone-should-read-amazon-goodreads-2015-3)
 
 1. ["To Kill a Mockingbird"  by Harper Lee](https://www.amazon.com/gp/product/0446310786/)
