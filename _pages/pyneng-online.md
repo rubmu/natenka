@@ -5,17 +5,6 @@ comments: true
 share: true
 ---
 
-## На курс 25.05.19 - 24.08.19 группа набрана
-
-Следующий заход курса будет в январе 2020 года. Подробнее будет известно в ноябре 2019.
-
-При желании, Вы можете написать мне, что хотите записаться на следующий курс и я отправлю Вам письмо, как только будут известны даты проведения курса. Так Вы точно не пропустите анонс следующего курса.
-
-Также Вы можете посмотреть список [полезных ресурсов по Python](https://natenka.github.io/pyneng-resources/).
-Возможно, найдется что-то подходящее, вместо моего курса, если Вы не можете ждать следующего.
-
-Плюс, в моей [книге](https://pyneng.readthedocs.io/ru/latest/) тот же материал, что и в курсе.
-
 
 ## О курсе
 
@@ -75,115 +64,115 @@ share: true
  <tr>
     <td align="center">1</td>
     <td align="center">1</td>
-    <td align="center">25.05.19</td>
+    <td align="center">11.01.20</td>
     <td>Предварительная встреча: О курсе (2ч)</td>
  </tr>
  <tr>
     <td align="center">2</td>
     <td align="center">2</td>
-    <td align="center">01.06.19</td>
+    <td align="center">18.01.20</td>
     <td>Предварительная встреча: Инструменты (3ч)</td>
  </tr>
  <tr>
     <td rowspan="2" align="center">3</td>
     <td align="center">3</td>
-    <td align="center">08.06.19</td>
+    <td align="center">25.01.20</td>
     <td>Основы. Типы данных в Python (4ч)</td>
  </tr>
  <tr>
     <td align="center">4</td>
-    <td align="center">09.06.19</td>
+    <td align="center">26.01.20</td>
     <td>Типы данных в Python (3ч)</td>
  </tr>
  <tr>
     <td align="center">4</td>
     <td align="center">5</td>
-    <td align="center">15.06.19</td>
+    <td align="center">01.02.20</td>
     <td>Управление ходом программы. Работа с файлами (4ч)</td>
  </tr>
  <tr>
     <td rowspan="2" align="center">5</td>
     <td align="center">6</td>
-    <td align="center">22.06.19</td>
+    <td align="center">08.02.20</td>
     <td>Функции (4ч)</td>
  </tr>
  <tr>
     <td align="center">7</td>
-    <td align="center">23.06.19</td>
+    <td align="center">09.02.20</td>
     <td>Модули (3ч)</td>
  </tr>
  <tr>
     <td rowspan="2" align="center">6</td>
     <td align="center">8</td>
-    <td align="center">29.06.19</td>
+    <td align="center">15.02.20</td>
     <td>Регулярные выражения (3ч)</td>
  </tr>
  <tr>
     <td align="center">9</td>
-    <td align="center">30.06.19</td>
+    <td align="center">16.02.20</td>
     <td>Регулярные выражения (3ч)</td>
  </tr>
  <tr>
     <td align="center">7</td>
     <td align="center">10</td>
-    <td align="center">06.07.19</td>
+    <td align="center">22.02.20</td>
     <td>Unicode (2ч)</td>
  </tr>
  <tr>
     <td align="center">8</td>
     <td align="center">11</td>
-    <td align="center">13.07.19</td>
+    <td align="center">29.02.20</td>
     <td>Обработка данных в форматах YAML, JSON, CSV (3ч)</td>
  </tr>
  <tr>
     <td rowspan="2" align="center">9</td>
     <td align="center">12</td>
-    <td align="center">20.07.19</td>
+    <td align="center">07.03.20</td>
     <td>Подключение к сетевым устройствам (Telnet, SSH) (2ч)</td>
  </tr>
  <tr>
     <td align="center">13</td>
-    <td align="center">21.07.19</td>
+    <td align="center">08.03.20</td>
     <td>Подключение к сетевым устройствам (Telnet, SSH) (2ч)</td>
  </tr>
  <tr>
     <td align="center">10</td>
     <td align="center">14</td>
-    <td align="center">27.07.19</td>
+    <td align="center">14.03.20</td>
     <td>Параллельное подключение к оборудованию (3ч)</td>
  </tr>
  <tr>
     <td rowspan="2" align="center">11</td>
     <td align="center">15</td>
-    <td align="center">03.08.19</td>
+    <td align="center">21.03.20</td>
     <td>Создание шаблонов конфигураций с помощью Jinja2 (2ч)</td>
  </tr>
  <tr>
     <td align="center">16</td>
-    <td align="center">04.08.19</td>
+    <td align="center">22.03.20</td>
     <td>Обработка неструктурированного вывода команд с помощью TextFSM (3ч)</td>
  </tr>
  <tr>
     <td rowspan="2" align="center">12</td>
     <td align="center">17</td>
-    <td align="center">10.08.19</td>
+    <td align="center">28.03.20</td>
     <td> ООП. Основы (3ч)</td>
  </tr>
  <tr>
     <td align="center">18</td>
-    <td align="center">11.08.19</td>
+    <td align="center">29.03.20</td>
     <td>ООП. Специальные методы (2ч)</td>
  </tr> 
  <tr>
     <td align="center">13</td>
     <td align="center">19</td>
-    <td align="center">17.08.19</td>
+    <td align="center">04.04.20</td>
     <td>ООП. Наследование (3ч)</td>
  </tr> 
  <tr>
     <td align="center">14</td>
     <td align="center">20</td>
-    <td align="center">24.08.19</td>
+    <td align="center">11.04.20</td>
     <td>Завершающая встреча (2ч)</td>
  </tr>  
 </table>
