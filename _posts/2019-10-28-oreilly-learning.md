@@ -10,7 +10,7 @@ category:
 
 Если вы не знали про [O'Reilly Learning](https://learning.oreilly.com/) или, как и я, упустили тот факт, что там не только книги O'Reilly, рекомендую этот ресурс. Я подписана уже почти год и пожалела только о том, что раньше не почитала внимательно про него и решила, что там книги только одного издательства.
 
-<img align="right" src="https://raw.githubusercontent.com/natenka/natenka.github.io/master/assets/images/oreilly_learning.jpg" width="300">
+<img align="right" src="https://raw.githubusercontent.com/natenka/natenka.github.io/master/assets/images/oreilly_learning.jpg" width="400">
 
 На самом деле там очень много издательств и редкой технической книги там нет. Из примеров издательства: Manning, O'Reilly, No Starch, Pragmatic Bookshelf, Addison-Wesley, Packt, Cisco Press и другие.
 
