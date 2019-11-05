@@ -1,0 +1,13 @@
+Value Name (\w+)
+Value Type (\w+)
+Value Required,List Binding (\w+)
+Value Description (\w+)
+
+Start
+  ^---- -> Data
+
+Data
+  ^\S+ -> Continue.Record
+  ^${Name} +${Type} +${Binding} +${Description}
+  ^ +${Binding}
+
