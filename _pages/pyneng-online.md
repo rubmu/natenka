@@ -6,7 +6,7 @@ share: true
 ---
 
 
-## О курсе
+## Ближайший курс 11.01.20 - 11.04.20 
 
 Коротко о курсе:
 
@@ -65,13 +65,13 @@ share: true
     <td align="center">1</td>
     <td align="center">1</td>
     <td align="center">11.01.20</td>
-    <td>Предварительная встреча: О курсе (2ч)</td>
+    <td>Подготовительная лекция: О курсе (2ч)</td>
  </tr>
  <tr>
     <td align="center">2</td>
     <td align="center">2</td>
     <td align="center">18.01.20</td>
-    <td>Предварительная встреча: Инструменты (3ч)</td>
+    <td>Подготовительная лекция: Инструменты (3ч)</td>
  </tr>
  <tr>
     <td rowspan="2" align="center">3</td>
@@ -173,7 +173,7 @@ share: true
     <td align="center">14</td>
     <td align="center">20</td>
     <td align="center">11.04.20</td>
-    <td>Завершающая встреча (2ч)</td>
+    <td>Завершающая лекция (2ч)</td>
  </tr>  
 </table>
 
