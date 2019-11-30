@@ -9,16 +9,16 @@ share: true
 
 Коротко о курсе:
 
-* ? недель
-* ? основных лекций (все лекции проводятся в выходные)
-* ? часов лекций
-* ? заданий
+* 14 недель
+* 23 основные лекции (все лекции проводятся в выходные)
+* 58 часов лекций
+* более 60 заданий
 * Python 3.8
 * Примеры будут, как и на PyNEng, на сетевой тематике.
 
 ## Расписание курса
 
-Всего в курсе ? лекций:
+Всего в курсе 23 лекции:
 
 * Каждая лекция это 3-4 часа занятий с 7:00 до 10:00-11:00 UTC
 * Лекции проводятся на выходных (суббота-воскресенье)
@@ -50,13 +50,6 @@ share: true
 
 ## Расписание курса
 
-Всего в курсе ? лекций:
-
-* Каждая лекция это 2-4 часа занятий с 7:00 до 9:00-11:00 UTC
-* Лекции проводятся на выходных (суббота-воскресенье)
-* Все лекции доступны в записи
-
-
 <table border="1" cellpadding="4" cellspacing="0">
  <tr>
     <th align="center">Неделя</th>
@@ -65,97 +58,132 @@ share: true
     <th align="center">Тема (длительность лекции)</th>
  </tr>
  <tr>
-    <td rowspan="2" align="center">1</td>
     <td align="center">1</td>
-    <td align="center">05.10.19</td>
-    <td>ООП. Обзор основ (3ч)</td>
+    <td align="center">1</td>
+    <td align="center">?.?.20</td>
+    <td>Вводная лекция (2ч)</td>
  </tr>
  <tr>
     <td align="center">2</td>
-    <td align="center">06.10.19</td>
-    <td>ООП. classmethod, staticmethod, property (3ч)</td>
- </tr>
- <tr>
-    <td rowspan="2" align="center">2</td>
-    <td align="center">3</td>
-    <td align="center">12.10.19</td>
-    <td>ООП. Наследование, ABC (3ч)</td>
- </tr>
- <tr>
-    <td align="center">4</td>
-    <td align="center">13.10.19</td>
-    <td>ООП Data classes (3ч)</td>
+    <td align="center">2</td>
+    <td align="center">?.?.20</td>
+    <td>PyCharm (3ч)</td>
  </tr>
  <tr>
     <td rowspan="2" align="center">3</td>
-    <td align="center">5</td>
-    <td align="center">19.10.19</td>
-    <td>Closure (3ч)</td>
- </tr>
- <tr>
-    <td align="center">6</td>
-    <td align="center">20.10.19</td>
-    <td>Декораторы (3ч)</td>
- </tr>
- <tr>
-    <td rowspan="2" align="center">4</td>
-    <td align="center">7</td>
-    <td align="center">26.10.19</td>
-    <td>Итератор, генератор (3ч)</td>
- </tr>
- <tr>
-    <td align="center">8</td>
-    <td align="center">27.10.19</td>
-    <td>Модули itertools, collections (3ч)</td>
- </tr>
- <tr>
-    <td rowspan="2" align="center">5</td>
-    <td align="center">9</td>
-    <td align="center">02.11.19</td>
-    <td>Asyncio. Основы (3ч)</td>
- </tr>
- <tr>
-    <td align="center">10</td>
-    <td align="center">03.11.19</td>
-    <td>Asyncio. Модуль asyncssh (3ч)</td>
- </tr>
- <tr>
-    <td rowspan="2" align="center">6</td>
-    <td align="center">11</td>
-    <td align="center">09.11.19</td>
-    <td>Модуль netdev (3ч)</td>
- </tr>
- <tr>
-    <td align="center">12</td>
-    <td align="center">10.11.19</td>
-    <td>Модули aiohttp, aiofiles (3ч)</td>
- </tr>
- <tr>
-    <td rowspan="2" align="center">7</td>
-    <td align="center">13</td>
-    <td align="center">16.11.19</td>
-    <td>Основы pytest (3ч)</td>
- </tr>
- <tr>
-    <td align="center">14</td>
-    <td align="center">17.11.19</td>
-    <td>Модуль logging (3ч)</td>
- </tr>
- <tr>
-    <td rowspan="2" align="center">8</td>
-    <td align="center">15</td>
-    <td align="center">23.11.19</td>
+    <td align="center">3</td>
+    <td align="center">?.?.20</td>
     <td>Основы аннотации типов (3ч)</td>
  </tr>
  <tr>
-    <td align="center">16</td>
-    <td align="center">24.11.19</td>
-    <td>Автоматическое форматирование кода (2ч)</td>
+    <td align="center">4</td>
+    <td align="center">?.?.20</td>
+    <td>Автоматическое форматирование кода с Black (2ч)</td>
  </tr>
  <tr>
+    <td rowspan="2" align="center">4</td>
+    <td align="center">5</td>
+    <td align="center">?.?.20</td>
+    <td>Основы pytest (2ч)</td>
+ </tr>
+ <tr>
+    <td align="center">6</td>
+    <td align="center">?.?.20</td>
+    <td>Тестирование кода и оборудования с помощью pytest (2ч)</td>
+ </tr>
+ <tr>
+    <td rowspan="2" align="center">5</td>
+    <td align="center">7</td>
+    <td align="center">?.?.20</td>
+    <td>Модуль logging (2ч)</td>
+ </tr>
+ <tr>
+    <td align="center">8</td>
+    <td align="center">?.?.20</td>
+    <td>Closure. Основы декораторов (3ч)</td>
+ </tr>
+ <tr>
+    <td rowspan="2" align="center">6</td>
     <td align="center">9</td>
+    <td align="center">?.?.20</td>
+    <td>Декораторы (2ч)</td>
+ </tr>
+ <tr>
+    <td align="center">10</td>
+    <td align="center">?.?.20</td>
+    <td>Декораторы (2ч)</td>
+ </tr>
+ <tr>
+    <td rowspan="2" align="center">7</td>
+    <td align="center">11</td>
+    <td align="center">?.?.20</td>
+    <td>ООП. Обзор основ (3ч)</td>
+ </tr>
+ <tr>
+    <td align="center">12</td>
+    <td align="center">?.?.20</td>
+    <td>ООП. classmethod, staticmethod, property (3ч)</td>
+ </tr>
+ <tr>
+    <td rowspan="2" align="center">8</td>
+    <td align="center">13</td>
+    <td align="center">?.?.20</td>
+    <td>ООП. Наследование (2ч)</td>
+ </tr>
+ <tr>
+    <td align="center">14</td>
+    <td align="center">?.?.20</td>
+    <td>ООП. ABC, Mixin, descriptor (3ч)</td>
+ </tr>
+ <tr>
+    <td rowspan="2" align="center">9</td>
+    <td align="center">15</td>
+    <td align="center">?.?.20</td>
+    <td>Namedtuple, dataclass (3ч)</td>
+ </tr>
+ <tr>
+    <td align="center">16</td>
+    <td align="center">?.?.20</td>
+    <td>Модуль collections (2ч)</td>
+ </tr>
+ <tr>
+    <td rowspan="2" align="center">10</td>
     <td align="center">17</td>
-    <td align="center">30.11.19</td>
+    <td align="center">?.?.20</td>
+    <td>Итератор, генератор (3ч)</td>
+ </tr>
+ <tr>
+    <td align="center">18</td>
+    <td align="center">?.?.20</td>
+    <td>Модуль itertools (3ч)</td>
+ </tr>
+ <tr>
+    <td rowspan="2" align="center">11</td>
+    <td align="center">19</td>
+    <td align="center">?.?.20</td>
+    <td>Asyncio. Основы (3ч)</td>
+ </tr>
+ <tr>
+    <td align="center">20</td>
+    <td align="center">?.?.20</td>
+    <td>Модули async (3ч)</td>
+ </tr>
+ <tr>
+    <td align="center">12</td>
+    <td align="center">21</td>
+    <td align="center">?.?.20</td>
+    <td>Использование asyncio (3ч)</td>
+ </tr>
+ <tr>
+    <td align="center">13</td>
+    <td align="center">22</td>
+    <td align="center">?.?.20</td>
+    <td>Использование asyncio (3ч)</td>
+ </tr>
+ <tr>
+    <td align="center">14</td>
+    <td align="center">23</td>
+    <td align="center">?.?.20</td>
     <td>Завершающая лекция (2ч)</td>
  </tr>
 </table>
