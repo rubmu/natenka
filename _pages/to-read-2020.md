@@ -31,6 +31,10 @@ category:
 2. [Der Marsianer](https://www.amazon.com/Marsianer-Roman-German-Andy-Weir-ebook/dp/B00KG5VKK8/) (A)
 3. [Ein gutes Omen](https://www.amazon.com/Ein-gutes-Omen-v%C3%B6llig-Hexen-Roman-ebook/dp/B009FYS17G/) (A)
 4. [Unverkäuflich!](https://www.amazon.com/Unverk%C3%A4uflich-Schulabbrecher-Fussballprofi-Weltunternehmer-Geschichte-ebook/dp/B0096RJ2G6/) (K)
+5. [Stolz und Vorurteil](https://www.amazon.com/Stolz-Vorurteil-Fischer-Klassik-German-ebook/dp/B071K333Y5/) (A)
+6. [Von der Erde zum Mond](https://www.audible.com/pd/Von-der-Erde-zum-Mond-Audiobook/B00TKND5CS) (A)
+7. [20.000 Meilen unter dem Meer](https://www.audible.com/pd/20000-Meilen-unter-dem-Meer-Audiobook/B00TVNWZ00) (A)
+8. [Shoe Dog](https://www.audible.com/pd/Shoe-Dog-Audiobook/3960923945) (A)
 
 ## Всё остальное
 
