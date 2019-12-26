@@ -35,5 +35,32 @@ category:
 
 1. [The Body: A Guide for Occupants](https://www.amazon.com/Body-Guide-Occupants-Bill-Bryson-ebook/dp/B07MCVWXDK/) (A)
 2. [The Song of Achilles](https://www.amazon.com/Song-Achilles-Madeline-Miller-ebook/dp/B005FPWUSA/) (A)
+3. [Atomic Habits](https://www.amazon.com/Atomic-Habits-Proven-Build-Break-ebook/dp/B01N5AX61W/) (K)
+4. [What Made Maddy Run](https://www.amazon.com/What-Made-Maddy-Run-All-American/dp/0316356522/) (P)
+5. [Why We Sleep](https://www.amazon.com/Why-We-Sleep-Science-Dreams-ebook/dp/B06Y649387/) (A)
+6. [Dear Girls](https://www.amazon.com/Dear-Girls-Intimate-Untold-Secrets-ebook/dp/B07PZ4H1N2/) (A)
+7. [Permanent Record](https://www.amazon.com/Permanent-Record-Edward-Snowden-ebook/dp/B07STQPGH6/) (?)
+8. [Tools of Titans](https://www.amazon.com/Tools-Titans-Billionaires-World-Class-Performers-ebook/dp/B01HSMRWNU/) (K)
+9. [Tribe of Mentors](https://www.amazon.com/Tribe-Mentors-Short-Advice-World-ebook/dp/B071KJ7PTB/) (K)
+10. [The 4-Hour Work Week](https://www.amazon.com/4-Hour-Work-Week-Escape-Anywhere-ebook/dp/B006X0M2TS/) (K)
+11. [The Obstacle Is the Way](https://www.amazon.com/Obstacle-Way-Timeless-Turning-Triumph-ebook/dp/B00G3L1B8K/) (K)
+12. [Behave: The Biology of Humans at Our Best and Worst](https://www.amazon.com/Behave-Biology-Humans-Best-Worst-ebook/dp/B01A7YX4TW/) (?)
+13. [May I Have Your Attention Please?](https://www.amazon.com/May-Have-Your-Attention-Please-ebook/dp/B005LBXRB2/) (A)
+14. [Genghis Khan and the Making of the Modern World](https://www.amazon.com/Genghis-Khan-Making-Modern-World-ebook/dp/B000FCK206/) (A)
+15. [Outliers: The Story of Success](https://www.amazon.com/Outliers-Story-Success-Malcolm-Gladwell-ebook/dp/B00FOR2FKW/) (A or K)
+16. []() (A)
+17. []() (A)
+18. []() (A)
+19. []() (A)
+20. []() (A)
+
+
+
+
+
+
+
+
+
 
 
