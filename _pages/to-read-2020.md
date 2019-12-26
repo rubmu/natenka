@@ -62,14 +62,6 @@ category:
 27. [Are We Smart Enough to Know How Smart Animals Are?](https://www.amazon.com/Are-Smart-Enough-Know-Animals-ebook/dp/B016APOCRA/) (K)
 28. [Originals: How Non-conformists Change the World](https://www.amazon.com/Originals-How-Non-conformists-Change-World-ebook/dp/B01626YWJ0/) (K)
 29. [The Selfish Gene](https://www.amazon.com/Selfish-Gene-Anniversary-Landmark-Science-ebook/dp/B01GI5F2FS/) (K)
-
-
-
-
-
-
-
-
-
-
-
+30. [Brave New World](https://www.amazon.com/Brave-New-World-Aldous-Huxley-ebook/dp/B0031R5K6S/) (A)
+31. [Little Women](https://www.amazon.com/Little-Women-Louisa-May-Alcott-ebook/dp/B07QKDJP87/) (A)
+32. [Collapse: How Societies Choose to Fail or Succeed](https://www.amazon.com/Collapse-Societies-Choose-Fail-Succeed/dp/B00P2QCN2U/) (A)
