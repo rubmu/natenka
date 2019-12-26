@@ -7,11 +7,11 @@ category:
  - books
 ---
 
-
 * ORL - O'Reilly learning
 * P - print
 * K - Kindle
 * A - Audible
+* ? - не покупала
 
 ## Технические книги
 
@@ -48,11 +48,20 @@ category:
 13. [May I Have Your Attention Please?](https://www.amazon.com/May-Have-Your-Attention-Please-ebook/dp/B005LBXRB2/) (A)
 14. [Genghis Khan and the Making of the Modern World](https://www.amazon.com/Genghis-Khan-Making-Modern-World-ebook/dp/B000FCK206/) (A)
 15. [Outliers: The Story of Success](https://www.amazon.com/Outliers-Story-Success-Malcolm-Gladwell-ebook/dp/B00FOR2FKW/) (A or K)
-16. []() (A)
-17. []() (A)
-18. []() (A)
-19. []() (A)
-20. []() (A)
+16. [Where Am I Now?](https://www.amazon.com/Where-Am-Now-Girlhood-Accidental-ebook/dp/B01CFC66X0/) (A)
+17. [Educated](https://www.amazon.com/Educated-international-bestselling-Tara-Westover-ebook/dp/B07142R12X/) (K)
+18. [The Lord of the Rings]() (?)
+19. [Girl, Stop Apologizing](https://www.amazon.com/Girl-Stop-Apologizing-Shame-Free-Embracing-ebook/dp/B07DT7VJ8T/) (K)
+20. [Whiskey in a Teacup](https://www.amazon.com/Whiskey-Teacup-Reese-Witherspoon-ebook/dp/B07CRLZBRC/) (?)
+21. [Michael Jordan: The Life](https://www.amazon.com/Michael-Jordan-Life-Roland-Lazenby/dp/0316194778/) (P)
+22. [Einstein: His Life and Universe](https://www.amazon.com/Einstein-Life-Universe-Walter-Isaacson/dp/0743264746/) (P)
+23. [The Rise and Fall of the Dinosaurs](https://www.amazon.com/Rise-Fall-Dinosaurs-History-Their/dp/0062490435/) (P)
+24. [Neverwhere](https://www.amazon.com/Neverwhere-Authors-Preferred-Neil-Gaiman/dp/0062459082/) (P)
+25. [On Writing](https://www.amazon.com/Writing-10th-Anniversary-Memoir-Craft/dp/1439156816/) (P)
+26. [The Rational Optimist](https://www.amazon.com/Rational-Optimist-Prosperity-Evolves-P-s-ebook/dp/B003QP4BJM/) (?)
+27. [Are We Smart Enough to Know How Smart Animals Are?](https://www.amazon.com/Are-Smart-Enough-Know-Animals-ebook/dp/B016APOCRA/) (K)
+28. [Originals: How Non-conformists Change the World](https://www.amazon.com/Originals-How-Non-conformists-Change-World-ebook/dp/B01626YWJ0/) (K)
+29. [The Selfish Gene](https://www.amazon.com/Selfish-Gene-Anniversary-Landmark-Science-ebook/dp/B01GI5F2FS/) (K)
 
 
 
