@@ -9,12 +9,12 @@ category:
 
 > [Source 100 books](https://www.businessinsider.com/100-books-everyone-should-read-amazon-goodreads-2015-3). [Ultimate List](https://medium.com/world-literature/creating-the-ultimate-list-100-books-to-read-before-you-die-45f1b722b2e5)
 
-## 12/100
+## 13/100
 
 1. ["To Kill a Mockingbird"  by Harper Lee](https://www.amazon.com/gp/product/0446310786/)
 2. [~~"Pride and Prejudice"  by Jane Austen~~](https://www.amazon.com/gp/product/0199535566/)
 3. ["The Diary of Anne Frank"  by Anne Frank](https://www.amazon.com/gp/product/0307594009/)
-4. ["1984"  by George Orwell](https://www.amazon.com/gp/product/0451524934/)
+4. [~~"1984"  by George Orwell~~](https://www.amazon.com/gp/product/0451524934/)
 5. ["Harry Potter and the Sorcerer's Stone" by J.K. Rowling](https://www.amazon.com/gp/product/059035342X/)
 6. ["The Lord of the Rings"  (1-3) by J.R.R. Tolkien](https://www.amazon.com/gp/product/0618640150/)
 7. ["The Great Gatsby"  by F. Scott Fitzgerald](https://www.amazon.com/gp/product/0743273567/)
