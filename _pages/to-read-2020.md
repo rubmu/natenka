@@ -50,7 +50,7 @@ category:
 10. [The 4-Hour Work Week](https://www.amazon.com/4-Hour-Work-Week-Escape-Anywhere-ebook/dp/B006X0M2TS/) (K)
 11. [The Obstacle Is the Way](https://www.amazon.com/Obstacle-Way-Timeless-Turning-Triumph-ebook/dp/B00G3L1B8K/) (K)
 12. [Behave: The Biology of Humans at Our Best and Worst](https://www.amazon.com/Behave-Biology-Humans-Best-Worst-ebook/dp/B01A7YX4TW/) (?)
-13. [May I Have Your Attention Please?](https://www.amazon.com/May-Have-Your-Attention-Please-ebook/dp/B005LBXRB2/) (A)
+13. [~~May I Have Your Attention Please?~~](https://www.amazon.com/May-Have-Your-Attention-Please-ebook/dp/B005LBXRB2/) (A)
 14. [Genghis Khan and the Making of the Modern World](https://www.amazon.com/Genghis-Khan-Making-Modern-World-ebook/dp/B000FCK206/) (A)
 15. [Outliers: The Story of Success](https://www.amazon.com/Outliers-Story-Success-Malcolm-Gladwell-ebook/dp/B00FOR2FKW/) (A or K)
 16. [Where Am I Now?](https://www.amazon.com/Where-Am-Now-Girlhood-Accidental-ebook/dp/B01CFC66X0/) (A)
