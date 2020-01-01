@@ -70,3 +70,4 @@ category:
 30. [Brave New World](https://www.amazon.com/Brave-New-World-Aldous-Huxley-ebook/dp/B0031R5K6S/) (A)
 31. [Little Women](https://www.amazon.com/Little-Women-Louisa-May-Alcott-ebook/dp/B07QKDJP87/) (A)
 32. [Collapse: How Societies Choose to Fail or Succeed](https://www.amazon.com/Collapse-Societies-Choose-Fail-Succeed/dp/B00P2QCN2U/) (A)
+33. [My Life and Work (The Autobiography of Henry Ford)](https://www.amazon.com/My-Life-Work-Henry-Ford-ebook/dp/B06Y3KZ8YP/) (?)
