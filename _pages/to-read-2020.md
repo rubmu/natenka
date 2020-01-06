@@ -24,9 +24,9 @@ category:
 7. [tmux 2](https://www.amazon.com/tmux-2-Productive-Mouse-Free-Development-ebook/dp/B01N9HBR3D/) (K)
 8. [Practical Vim](https://www.amazon.com/Practical-Vim-Edit-Speed-Thought-ebook/dp/B018T6ZVPK/) (K)
 9. [Eloquent JavaScript, 3rd Edition](https://www.amazon.com/Eloquent-JavaScript-3rd-Introduction-Programming/dp/1593279507/) (P)
-10. [The Python Apprentice](https://leanpub.com/python-apprentice)
-11. [The Python Journeyman](https://leanpub.com/python-journeyman)
-12. [The Python Master](https://leanpub.com/python-master)
+10. [The Python Apprentice](https://leanpub.com/python-apprentice) (K)
+11. [The Python Journeyman](https://leanpub.com/python-journeyman) (K)
+12. [The Python Master](https://leanpub.com/python-master) (K)
 
 ## На немецком
 
@@ -43,7 +43,7 @@ category:
 
 1. [The Body: A Guide for Occupants](https://www.amazon.com/Body-Guide-Occupants-Bill-Bryson-ebook/dp/B07MCVWXDK/) (A)
 2. [~~The Song of Achilles~~](https://www.amazon.com/Song-Achilles-Madeline-Miller-ebook/dp/B005FPWUSA/) (A)
-3. [Atomic Habits](https://www.amazon.com/Atomic-Habits-Proven-Build-Break-ebook/dp/B01N5AX61W/) (K)
+3. [Atomic Habits](https://www.amazon.com/Atomic-Habits-Proven-Build-Break-ebook/dp/B01N5AX61W/) (K or A)
 4. [What Made Maddy Run](https://www.amazon.com/What-Made-Maddy-Run-All-American/dp/0316356522/) (P)
 5. [Why We Sleep](https://www.amazon.com/Why-We-Sleep-Science-Dreams-ebook/dp/B06Y649387/) (A)
 6. [Dear Girls](https://www.amazon.com/Dear-Girls-Intimate-Untold-Secrets-ebook/dp/B07PZ4H1N2/) (A)
