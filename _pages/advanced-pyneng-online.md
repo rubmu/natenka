@@ -14,7 +14,7 @@ share: true
 * 58 часов лекций
 * более 60 заданий
 * Python 3.8
-* Примеры будут, как и на и на [базовом курсе PyNEng](https://natenka.github.io/pyneng-online/), на сетевой тематике.
+* Примеры будут, как и на [базовом курсе PyNEng](https://natenka.github.io/pyneng-online/), на сетевой тематике.
 
 ## Расписание курса
 
