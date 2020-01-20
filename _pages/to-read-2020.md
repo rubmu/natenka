@@ -21,7 +21,7 @@ category:
 4. [Effective PyCharm](https://www.amazon.com/Effective-PyCharm-Hands-Approach-Treading/dp/1095212532/) (K)
 5. [asyncio Recipes](https://www.amazon.com/asyncio-Recipes-Mohamed-Mustapha-Tahrioui/dp/1484244001/) (P)
 6. [High Performance Python](https://www.amazon.com/High-Performance-Python-Performant-Programming/dp/1449361595/) (P)
-7. [tmux 2](https://www.amazon.com/tmux-2-Productive-Mouse-Free-Development-ebook/dp/B01N9HBR3D/) (K)
+7. [~~tmux 2~~](https://www.amazon.com/tmux-2-Productive-Mouse-Free-Development-ebook/dp/B01N9HBR3D/) (K)
 8. [Practical Vim](https://www.amazon.com/Practical-Vim-Edit-Speed-Thought-ebook/dp/B018T6ZVPK/) (K)
 9. [Eloquent JavaScript, 3rd Edition](https://www.amazon.com/Eloquent-JavaScript-3rd-Introduction-Programming/dp/1593279507/) (P)
 10. [The Python Apprentice](https://leanpub.com/python-apprentice) (K)
@@ -43,7 +43,7 @@ category:
 
 1. [The Body: A Guide for Occupants](https://www.amazon.com/Body-Guide-Occupants-Bill-Bryson-ebook/dp/B07MCVWXDK/) (A)
 2. [~~The Song of Achilles~~](https://www.amazon.com/Song-Achilles-Madeline-Miller-ebook/dp/B005FPWUSA/) (A)
-3. [Atomic Habits](https://www.amazon.com/Atomic-Habits-Proven-Build-Break-ebook/dp/B01N5AX61W/) (K or A)
+3. [~~Atomic Habits~~](https://www.amazon.com/Atomic-Habits-Proven-Build-Break-ebook/dp/B01N5AX61W/) (K or A)
 4. [What Made Maddy Run](https://www.amazon.com/What-Made-Maddy-Run-All-American/dp/0316356522/) (P)
 5. [Why We Sleep](https://www.amazon.com/Why-We-Sleep-Science-Dreams-ebook/dp/B06Y649387/) (A)
 6. [Dear Girls](https://www.amazon.com/Dear-Girls-Intimate-Untold-Secrets-ebook/dp/B07PZ4H1N2/) (A)
