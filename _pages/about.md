@@ -11,7 +11,7 @@ permalink: /about/
 Ещё таким образом я намного лучше запоминаю информацию.
 
 
-Но, конечно же, я пишу не только для себя. Для меня важно делиться знаниями с другими.
+Конечно я пишу не только для себя. Для меня важно делиться знаниями с другими.
 Поэтому, я надеюсь, что мои статьи, заметки и другие материалы будут вам полезны.
 
 ### Коротко обо мне
@@ -27,12 +27,18 @@ permalink: /about/
 
 ### Say thanks
 
-Если вам пригодились мои проекты, не стесняйтесь написать мне [спасибо](https://saythanks.io/to/natenka) или поставить [звездочку проекту](https://github.com/natenka).
+Если Вам пригодились мои проекты, я очень рада этому. 
+Я всегда рада обратной связи, так что если захотите рассказать о том, как курс или книга
+"Python для сетевых инженеров" помогла лично Вам, с удовольствием почитаю об этом.
 
-Если простого спасибо недостаточно:
 
-* [Amazon wish list](https://www.amazon.com/hz/wishlist/ls/QCGBX64X40NQ?ref_=wl_share)
-* [Amazon Gift Card](https://www.amazon.com/gp/product/B004LLIKVU/)
+Мои контакты:
+
+* email: nataliya.samoylenko@gmail.com
+* [vk](https://vk.com/natasha_samoylenko)
+* [Facebook](https://www.facebook.com/samoylenko.natasha)
+* [Twitter](https://twitter.com/natenka_says)
+* [Linkedin](https://www.linkedin.com/in/nsamoylenko)
 
 ### Немного истории
 
