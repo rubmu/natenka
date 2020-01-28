@@ -71,6 +71,8 @@ category:
 28. [Originals: How Non-conformists Change the World](https://www.amazon.com/Originals-How-Non-conformists-Change-World-ebook/dp/B01626YWJ0/) (K)
 29. [The Selfish Gene](https://www.amazon.com/Selfish-Gene-Anniversary-Landmark-Science-ebook/dp/B01GI5F2FS/) (K)
 30. [Brave New World](https://www.amazon.com/Brave-New-World-Aldous-Huxley-ebook/dp/B0031R5K6S/) (A)
-31. [Little Women](https://www.amazon.com/Little-Women-Louisa-May-Alcott-ebook/dp/B07QKDJP87/) (A)
+31. [~~Little Women~~](https://www.amazon.com/Little-Women-Louisa-May-Alcott-ebook/dp/B07QKDJP87/) (A)
 32. [Collapse: How Societies Choose to Fail or Succeed](https://www.amazon.com/Collapse-Societies-Choose-Fail-Succeed/dp/B00P2QCN2U/) (A)
 33. [My Life and Work (The Autobiography of Henry Ford)](https://www.amazon.com/My-Life-Work-Henry-Ford-ebook/dp/B06Y3KZ8YP/) (?)
+34. [The Mamba Mentality: How I Play](https://www.amazon.com/gp/product/B07DC3WRKT/) (K)
+
